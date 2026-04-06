@@ -1,0 +1,68 @@
+---
+title: "Upcoming Episodes"
+toc: false
+---
+
+```{=html}
+<style>
+  .cou-section-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 3px solid #f0c040;
+    display: inline-block;
+  }
+  .upcoming-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 1rem;
+    background: white;
+  }
+  .upcoming-card .episode-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #888;
+    margin-bottom: 0.3rem;
+  }
+  .upcoming-card .episode-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 0.4rem;
+  }
+  .upcoming-card .episode-desc {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.5;
+  }
+  .tbd-badge {
+    display: inline-block;
+    background: #f0c040;
+    color: #1a1a1a;
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 0.15rem 0.6rem;
+    border-radius: 20px;
+    margin-left: 0.5rem;
+    vertical-align: middle;
+  }
+</style>
+```
+
+Keep an eye on the [YouTube channel](https://www.youtube.com/@CorridorOfUncertainty) for the latest releases.
+
+<p class="cou-section-title">Coming Soon</p>
+
+<div class="upcoming-card">
+  <div class="episode-label">Episode 7 <span class="tbd-badge">TBD</span></div>
+  <div class="episode-title">[Title to be announced]</div>
+  <div class="episode-desc">Details coming soon — subscribe on YouTube to be notified when the next episode drops.</div>
+</div>
+
+---
+
+[⬅️ Back to Corridor Home](index.html)

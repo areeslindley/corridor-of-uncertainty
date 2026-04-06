@@ -1,0 +1,112 @@
+---
+title: "Episode 9: Have the Dodgers Broken Moneyball?"
+date: 2026-03-24
+description: "Exploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage."
+categories: [Baseball, Moneyball, Sabermetrics, Player Recruitment]
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 24 March 2026  
+**Duration**: 40:40  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=w43yhwejkn8)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Moneyball, MLB Analytics, Oakland Athletics, Salary Disparities, Baseball Statistics
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/w43yhwejkn8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+With MLB Opening Day approaching, Jess and Rich dive into the world of Moneyball—the philosophy that revolutionised how baseball teams approach player recruitment and competitive strategy. They bust common myths about what Moneyball actually means, explaining that it wasn't about inventing data-driven baseball but rather about spending smart when you can't outspend competitors. The episode sets the scene with the 2001 Oakland Athletics, a small-market team with a $40 million budget competing against the $114 million New York Yankees.
+
+---
+
+**Timestamps:**
+
+- [00:00] Introduction: Baseball is back
+- [00:16] Podcast introduction and episode preview
+- [01:05] What is Moneyball? Common misconceptions
+- [03:01] Why baseball lends itself to statistical analysis
+- [05:30] Rules of baseball explainer
+- [10:30] Setting the scene: 2001 Oakland Athletics vs New York Yankees
+
+**References:**
+
+- *Moneyball: The Art of Winning an Unfair Game* by Michael Lewis (2003)
+- *Moneyball* film (2011)
+
+## Key Concepts
+
+::: {.callout-tip}
+## The Moneyball Philosophy
+Contrary to popular belief, Moneyball wasn't about inventing data-driven decision-making in baseball—the sport was already highly statistical. Instead, it was about a small-market team recognising they couldn't outspend competitors like the Yankees, so they had to outthink them by using statistics differently to find undervalued players.
+:::
+
+::: {.callout-tip}
+## Why Baseball Suits Statistical Analysis
+Baseball lends itself to statistics because it consists of discrete, repeatable events that can be clearly measured. Unlike football where contributions are interconnected, baseball features the same pitcher-batter confrontation repeatedly, and with 162 games per season across 30 teams, there's abundant well-sampled data to analyse.
+:::
+
+::: {.callout-tip}
+## Market Size Disparities in MLB
+The episode highlights the dramatic budget inequality in baseball: in 2001, the Oakland Athletics operated with a $40 million salary budget while the New York Yankees had nearly triple that at $114 million. This disparity creates the competitive environment where analytical advantages become essential for smaller teams.
+:::
+
+## Resources & References
+
+- *Moneyball: The Art of Winning an Unfair Game* by Michael Lewis (book, 2003)
+- *Moneyball* (film, 2011)
+- Oakland Athletics 2001-2002 seasons
+- Wrigley Field, Chicago (featured in episode photos)
+
+## Transcript Highlights
+
+> "We can't outspend our competitors. We have to outthink our competitors. So using stats but differently perhaps to gain an edge. So that's the Moneyball kind of philosophy in my opinion."
+
+Jess clarifies the true meaning of Moneyball, moving beyond the common misconception that it simply meant using data for the first time.
+
+---
+
+> "It is a sport that lends itself to that because there's these sequence of sort of discrete events where you can maybe measure how well something worked. So you can have more obvious derived statistics than in something like football."
+
+Rich explains why baseball is particularly amenable to statistical analysis compared to more fluid team sports.
+
+---
+
+> "It's literally the same thing again and again—the hitter comes up, takes a pitch. In cricket at least you change ends, but in baseball it's the same spot doing the same thing over and over again."
+
+The hosts contrast baseball's repetitive structure with other sports, highlighting why this makes it ideal for statistical evaluation.
+
+## Discussion
+
+This episode touches on one of the most influential developments in modern sports analytics. The Moneyball revolution, while specific to baseball, established a template that has since spread across virtually every professional sport. The core insight—that market inefficiencies exist in player valuation and can be exploited through careful analysis—has transformed how teams approach recruitment, from football's expected goals metrics to basketball's three-point revolution.
+
+What makes this episode particularly relevant is its focus on the constraints that drove innovation. The Oakland Athletics didn't adopt analytics because they were more forward-thinking; they did it because financial necessity forced them to find edges elsewhere. This pattern continues today across sports, where smaller clubs often lead analytical innovation while wealthy teams can afford to buy proven talent. The question posed in the title—have the Dodgers broken Moneyball?—hints at what happens when the largest-market teams combine both financial and analytical advantages.
+
+::: {.callout-note}
+## Related Episodes
+- Episode discussing curling analytics (mentioned as comparison for rules explanation format)
+- Future episodes on football analytics and the challenges of measuring player contributions in fluid sports
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 6](episode-006.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 8](episode-008.qmd)
+:::
+
+:::

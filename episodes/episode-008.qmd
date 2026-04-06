@@ -1,0 +1,111 @@
+---
+title: "Episode 8: Curling by Numbers: Why GB Won Silver"
+date: 2026-03-10
+description: "Analysing Team GB's silver medal performance at the 2026 Winter Olympics curling final against Canada through statistics and probability."
+categories: [Curling, Winter Olympics, Game Theory, Statistical Analysis]
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 10 March 2026  
+**Duration**: 41:52  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=noA2d75QkEM)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Curling, Winter Olympics 2026, Last Stone Advantage, Match Statistics
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/noA2d75QkEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Jess and Rich dive into the data behind Team GB's silver medal performance in the men's curling at the 2026 Winter Olympics. They examine the crucial role of the "last stone first end" advantage, analyse the final against Canada, and explore whether controversial rule-breaking by the Canadian team can be detected in the statistics. The episode combines match-by-match analysis with broader patterns from the entire Olympic competition.
+
+---
+
+**Timestamps:**
+
+- [00:00] Introduction and Winter Olympics recap
+- [00:48] Discussion of GB men's and women's curling results
+- [01:08] The Canada controversy and rule-breaking discussion
+- [02:52] Quick recap of curling rules and scoring
+- [03:36] Analysing the GB vs Canada final scoreline
+- [04:30] Last Stone First End (LSFE) analysis across the tournament
+
+**References:**
+
+- Previous Corridor of Uncertainty curling episode (referenced for rules explanation)
+- Official curling rulebook (spirit of the game discussion)
+
+## Key Concepts
+
+::: {.callout-tip}
+## Last Stone First End (LSFE)
+The team that throws the final stone in the first end gains a significant strategic advantage, determined by winning the "draw shot challenge" (getting closest to the centre). Analysis of the Olympic data shows that over 60% of matches were won by the team with last stone first end, though this may partly reflect that better teams tend to win the challenge.
+:::
+
+::: {.callout-tip}
+## Blanking the End
+A strategic decision where a team deliberately ensures no stones remain in the house so that nobody scores, allowing them to retain the hammer (last stone) for the next end. This tactic reflects the trade-off between scoring immediately and preserving positional advantage for later, more crucial ends.
+:::
+
+::: {.callout-tip}
+## The Hammer in the Final End
+Conventional curling wisdom suggests you want the last stone in the final end to control the outcome. However, analysis shows only about 40% of matches are won by the team with the hammer in the final end—partly because by that point, the match outcome may already be decided.
+:::
+
+## Resources & References
+
+- Previous curling episode of Corridor of Uncertainty
+- 2026 Winter Olympics men's curling statistics
+- World Curling Federation rulebook
+
+## Transcript Highlights
+
+> "The first page of it is basically like you shouldn't need the rules of curling. You shouldn't need referees. It's a friendly sport."
+
+Rich explains the unique spirit of curling, where sportsmanship is embedded in the game's culture—making the Canadian controversy particularly jarring to purists.
+
+---
+
+> "One of the things that always annoys me when a team acts in a certain way that's not very sporting and then wins, there's always this post hoc rationalization of 'that's how you need to be to be a winner.' But I don't think you do."
+
+Jess challenges the narrative that unsporting behaviour is necessary for success, questioning whether rule-breaking actually provided a meaningful advantage.
+
+---
+
+> "So over 60%. That is though just because the team that has the last stone at the first end is probably the better team because they are better at doing the shots that they need to do."
+
+Rich highlights the challenge of interpreting sports statistics: correlation between LSFE and winning may reflect underlying skill differences rather than pure strategic advantage.
+
+## Discussion
+
+This episode showcases how sports analytics can both illuminate and complicate our understanding of match outcomes. The analysis of last stone advantage demonstrates a classic problem in sports statistics: separating the effect of a tactical variable from the confounding influence of team quality. Better teams win the draw shot challenge and win more matches, but is it the challenge victory or their superior skill that drives success?
+
+The discussion also touches on the ethics of sports analytics, particularly whether statistical evidence can detect rule-breaking. This connects to broader debates in sports about fair play, the role of officials, and whether "gaming the rules" should be distinguished from outright cheating. Curling's self-policing tradition makes it a fascinating case study for how different sports cultures approach integrity and competition.
+
+::: {.callout-note}
+## Related Episodes
+- Previous curling episode covering accuracy statistics and basic rules
+- Episode exploring game theory concepts in sport
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 7](episode-007.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 9](episode-009.qmd)
+:::
+
+:::

@@ -1,0 +1,112 @@
+---
+title: "Episode 5: Best January Transfer Signings Ever? Can Stats Decide?"
+date: 2026-01-27
+description: "Rich and Jess debate whether statistics can determine the greatest Premier League January transfer signing of all time."
+categories: [Football, Transfer Market, Player Evaluation, Premier League]
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 27 January 2026  
+**Duration**: 33:45  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=fEXpzZSyGoI&t=4s)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: January Transfer Window, Player Valuation, Trophy Analysis, Randomness in Football
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/fEXpzZSyGoI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Rich and Jess tackle the perennial January debate: who is the greatest January transfer signing in Premier League history? They examine candidates including Virgil van Dijk, Nemanja Vidic, Luis Suarez, and the remarkable value signing of Seamus Coleman for just £60,000. The discussion explores what metrics should matter when evaluating transfer success—longevity, trophies, value for money, or immediate impact—while questioning whether league titles are even a reliable measure given the inherent randomness in football.
+
+---
+
+**Timestamps:**
+
+- [00:00] Introduction and episode question
+- [00:34] Setting up the January signing debate
+- [01:15] Restricting to Premier League signings
+- [02:18] Seamus Coleman as a value signing example
+- [03:04] Discussion of Van Dijk and overpaying in January
+- [05:00] Top three candidates: Van Dijk, Vidic, Suarez
+
+**References:**
+
+- FourFourTwo Magazine debate article on best January signings
+- Premier League website article on January transfers
+- James Reed's work on Elo ratings and league randomness
+
+## Key Concepts
+
+::: {.callout-tip}
+## Outcome Bias in Player Evaluation
+The hosts discuss how evaluating transfers based solely on trophy success represents outcome bias. Luis Suarez had "one of the most incredible individual seasons of all time" but is dismissed by some because Liverpool didn't win the league—ignoring the randomness inherent in title races decided by single points or goal difference.
+:::
+
+::: {.callout-tip}
+## Value vs. Cost in Transfer Assessment
+Different types of January signings require different evaluation frameworks. Seamus Coleman at £60,000 represents a "jump on it before anyone notices" signing, while Van Dijk represents a reactive "we need a defender so we'll overpay" signing. The episode questions whether raw cost should factor into determining the "best" signing.
+:::
+
+::: {.callout-tip}
+## The League Does Lie
+Referencing colleague James Reed's work, the hosts introduce the concept that league tables contain significant randomness. Winning a title by one point or goal difference doesn't necessarily prove one team is definitively better than second place, challenging the use of league titles as the primary metric for transfer success.
+:::
+
+## Resources & References
+
+- FourFourTwo Magazine January signing debate
+- Premier League official website transfer analysis
+- James Reed's Elo rating research
+
+## Transcript Highlights
+
+> "I think what we're learning is no, you can't use stats to prove anything, but hopefully it could help us with the debate."
+
+Jess sets the tone early, acknowledging the limitations of statistical analysis while defending its value in informing discussion—a recurring theme throughout the podcast series.
+
+---
+
+> "The thing that people say about like league titles is there's a lot of inherent randomness... the quote from James Reed is that the league does lie."
+
+This moment captures the episode's deeper analytical point: that using trophies as the sole measure of transfer success ignores the significant role of chance in determining champions.
+
+---
+
+> "Mikael Arteta as a manager... if he hadn't have signed in January, would he be the Arsenal manager today? So he's like a buy one get one free."
+
+Rich offers a creative reframing of transfer value—considering the long-term butterfly effects of signings beyond their playing contribution.
+
+## Discussion
+
+This episode exemplifies the tension between narrative-driven sports discourse and rigorous statistical analysis. The debate over January signings naturally invites comparison metrics—trophies, appearances, transfer fees—but Rich and Jess push deeper to question whether these metrics actually capture what we mean by "best." The introduction of randomness research from James Reed challenges the common assumption that winning equals being better.
+
+The discussion also touches on an underexplored area of sports analytics: contextual transfer evaluation. A £60,000 signing that provides 15 years of service (Coleman) and a £75 million signing that transforms a team's defensive capabilities (Van Dijk) might both be "successful" but require entirely different frameworks to assess. This mirrors broader debates in player valuation about whether we should measure absolute contribution or contribution relative to cost—a question with significant implications for clubs operating under financial constraints.
+
+::: {.callout-note}
+## Related Episodes
+- Episode discussing Elo ratings and league position randomness
+- Episodes on player performance metrics and evaluation methods
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 4](episode-004.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 6](episode-006.qmd)
+:::
+
+:::

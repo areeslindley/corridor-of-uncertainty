@@ -1,0 +1,99 @@
+/*-- scss:rules --*/
+
+/*-- navbar --*/
+.navbar-logo {
+  max-height: 40px;
+  width: auto;
+  align-items: baseline;
+}
+
+/* homepage */
+.content-container {
+  padding-top: 2.5em;
+  padding-left: 10.5em;
+  padding-right: 10.5em;
+  
+}
+
+#title-block-header.quarto-title-block.default .description, #title-block-header.quarto-title-block.default .abstract {
+  font-size: 0;
+}
+  
+.listing-pub-title {
+   font-weight: 700;
+}
+
+.listing-pub-author {
+  color: #757883;
+}
+
+.listing-pub-journal {
+  color: #757883;
+  
+}
+
+/* -- news --*/
+
+
+
+/* -- people --*/
+
+.listing-box:hover {
+  border-color: $primary;
+  background-color: transparent;
+  box-shadow: 0px 1px 2px rgba(0,0,0,0.1), 
+            0px 2px 4px rgba(0,0,0,0.1), 
+            0px 4px 8px rgba(0,0,0,0.1), 
+            0px 8px 16px rgba(0,0,0,0.1);
+}
+
+.listing-box-title {
+  max-width: 80%;
+  margin-top: 10px;
+  margin-bottom: 12px;
+  color: #222;
+  font-size: 22px;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+.listing-box-subtitle {
+  /*    margin-top: auto;*/
+  text-transform: titlecase;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 0;
+  color: #757883;
+  line-height: 1.5;
+}
+
+.listing-box-education {
+  margin-bottom: 0;
+  color: #757883;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.listing-box-button a[role="button"] {
+  width: 140px;
+  min-height: 150px;
+  color: rgb(55, 58, 60);
+  text-align: center;
+  border: 1px solid rgb(222, 226, 230);
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  font-size: 0.9em;
+}
+
+.listing-box-section {
+  margin-bottom: 30px;
+  box-sizing: border-box;
+}
+
+.listing-box-image {
+  object-fit: contain;
+  width: 100%;
+  height: 220px;
+}

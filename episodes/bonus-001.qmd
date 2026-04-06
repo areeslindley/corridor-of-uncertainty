@@ -1,0 +1,107 @@
+---
+title: "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?"
+date: 2026-03-25
+description: "Exploring the distribution of BBC Sports Personality of the Year winners across different sports using tree diagrams as an alternative to pie charts."
+categories: [Data Visualisation, Awards, BBC SPOTY, Statistics]
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 25 March 2026  
+**Duration**: ~03:00  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=n4g1kiPJw3k)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Data Visualisation, BBC Sports Personality of the Year, Tree Diagrams, Sport Statistics
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/n4g1kiPJw3k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+In this episode, Jess and Rich examine the historical data behind BBC Sports Personality of the Year winners, breaking down which sports have claimed the most victories across 71 awards. Using a nested tree diagram as an alternative to the traditional pie chart, they quiz each other on the top sports and reveal some surprising results. The discussion also touches on the difference between individual and team sports in terms of public recognition.
+
+---
+
+**Timestamps:**
+
+- [00:03] Introduction to nested tree diagrams as pie chart alternatives
+- [00:36] Overview of Sports Personality winners by sport
+- [01:00] Guessing game: which sports have the most wins
+- [02:18] Figure skating and Torvill and Dean connection
+
+**References:**
+
+- BBC Sports Personality of the Year historical data
+
+## Key Concepts
+
+::: {.callout-tip}
+## Nested Tree Diagrams
+Rich introduces the nested tree diagram (also known as a treemap) as a visualisation tool for displaying proportional data. Unlike pie charts, these diagrams use rectangular areas to show the relative size of categories, making it easier to compare sports with similar numbers of wins.
+:::
+
+::: {.callout-tip}
+## Individual vs Team Sport Recognition
+The episode highlights how individual sports like athletics (19 wins) dominate the BBC SPOTY awards compared to team sports like football (7 wins). This reflects how public voting tends to favour athletes where individual achievement is more easily identifiable and attributable.
+:::
+
+::: {.callout-tip}
+## Categorical Data Distribution
+With 71 winners spread across multiple sports, the data reveals a highly skewed distribution. Athletics accounts for nearly 27% of all wins, demonstrating how certain sports consistently produce recognisable national sporting heroes.
+:::
+
+## Resources & References
+
+- BBC Sports Personality of the Year official records
+- Historical winner data (71 winners analysed)
+
+## Transcript Highlights
+
+> "This is actually a nested tree diagram, I think it's called, but I'm not using it as a nested tree diagram at this point in time. It's basically how I'm using it here is as an alternative to everyone's favorite chart, the pie chart."
+
+Rich introduces a data visualisation approach that sidesteps the often-criticised pie chart, setting up the episode's exploration of sports award data.
+
+---
+
+> "So because this is personality, so it's single person. I'm going to guess it's not football... So the 19 I'm going to guess is athletics."
+
+Jess demonstrates sharp statistical intuition, correctly identifying that individual sports would dominate an award focused on single athletes rather than teams.
+
+---
+
+> "I am from Nottingham. So, you know... Christopher Dean went to my secondary school before I went there and I sat next to Jane Torvill at the playoff final for Notts County versus Chesterfield."
+
+Rich reveals a personal connection to figure skating legends Torvill and Dean, adding a local touch to the statistical discussion.
+
+## Discussion
+
+The analysis of BBC Sports Personality of the Year winners provides a fascinating case study in how public recognition of sporting achievement varies across disciplines. The dominance of athletics (19 wins) over team sports like football (7 wins) reflects both the individual nature of the award and the heightened visibility that Olympic success brings to track and field athletes in British sporting culture.
+
+From a data visualisation perspective, the choice to use a treemap rather than a pie chart demonstrates good practice in statistical communication. While pie charts struggle to convey differences between similarly-sized categories, treemaps allow for more intuitive comparison—particularly useful when explaining that Formula One (8 wins) edges out both tennis and football (7 wins each). This episode serves as a reminder that choosing the right visualisation method can significantly impact how effectively data tells its story.
+
+::: {.callout-note}
+## Related Episodes
+- Episodes discussing multiple award winners and repeat champions in sports
+- Previous episodes on data visualisation techniques in sports analytics
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 10](episode-010.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 12](episode-012.qmd)
+:::
+
+:::

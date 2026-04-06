@@ -1,0 +1,105 @@
+---
+title: "Episode 7: Why Did Man City Sign Semenyo?"
+date: 2026-02-24
+description: "Exploring how football clubs use data analytics to identify and sign players, with Manchester City's signing of Antoine Semenyo as a case study."
+categories: [Football, Player Recruitment, Data Analytics, Transfer Market]
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 24 February 2026  
+**Duration**: 41:51  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=-v1nLR34YGA&t=303s)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Football Analytics, Player Recruitment, Data Providers, Transfer Decisions
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/-v1nLR34YGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Jess and Rich investigate the data-driven reasons behind Manchester City's January signing of Antoine Semenyo from Bournemouth. Drawing on their connections with football clubs and their experience teaching sports analytics to undergraduates, they examine how clubs at all levels—from National League York City to Premier League giants—use data to identify transfer targets. The episode explores media coverage of the transfer, the role of data providers in football, and how mathematical techniques taught at university are applied in professional football recruitment.
+
+---
+
+**Timestamps:**
+
+- [00:08] Introduction and episode context
+- [00:57] Why investigate the Semenyo signing
+- [01:44] The data revolution across football leagues
+- [02:44] How analytics fits into transfer decisions
+- [03:25] BBC Sport article analysis
+
+**References:**
+
+- BBC Sport article: "Why Man City have signed extraordinary Semenyo"
+- Premier League website article: "What's Semenyo going to bring to Manchester City's attack?"
+- FBref (Football Reference) website
+- StatsBomb data provider
+
+## Key Concepts
+
+::: {.callout-tip}
+## Per 90 Minutes Statistics
+Normalising player statistics to a "per 90 minutes" basis is a fundamental calibration technique in football analytics. This allows fair comparison between players who have played different amounts of game time, making it a standard metric even in mainstream media coverage like BBC Sport articles.
+:::
+
+::: {.callout-tip}
+## Event Data vs Tracking Data
+Football data exists at different levels of complexity. Event data involves humans watching matches and coding specific actions (passes, shots, tackles), while tracking data captures continuous player positioning. Top clubs like Manchester City use sophisticated tracking data, while lower league clubs like York City work with summary statistics from data providers.
+:::
+
+::: {.callout-tip}
+## Multi-Factor Transfer Decisions
+Analytics is just one component in transfer decisions. As insights from Premier League analytics departments reveal, signings also depend on coach preferences, club connections, and availability. Data analysts often provide the first pass through large datasets to identify names for further investigation.
+:::
+
+## Resources & References
+
+- [FBref - Football Reference](https://fbref.com)
+- [Episode 5: January Transfers](episode-005.qmd)
+- StatsBomb - Football data provider
+
+## Transcript Highlights
+
+> "The geeks like us looking at spreadsheets can maybe troll through a lot of data quite quickly and identify some names that might be then investigated further. So, I suppose that this might be what we'll look at today, that kind of first step where somebody might just be thinking, okay, we need a player who's out there. There's hundreds of players. Who should we even start looking at?"
+
+This captures the practical reality of how data analytics functions in player recruitment—not as the sole decision-maker, but as a powerful tool for initial screening.
+
+---
+
+> "This is a BBC article and already it's throwing in stats. You see maths is everywhere, right? The data revolution that actually I don't think it even caught your attention when I started throwing those things out, but that it's on a BBC news article that they're using phrases like chances per 90 minutes and we're just accepting."
+
+Rich highlights how normalised statistical thinking has become in football coverage, demonstrating the pervasiveness of the data revolution.
+
+## Discussion
+
+This episode effectively illustrates the democratisation of football analytics across the pyramid. While Manchester City employs PhD-level researchers and accesses sophisticated tracking data, even National League clubs like York City now pay for data services and employ analysts. This creates a fascinating ecosystem where the fundamental mathematical principles remain consistent—normalisation, comparison metrics, event coding—but the depth and complexity scales with resources.
+
+The discussion of media coverage is particularly insightful. When BBC Sport and the Premier League website routinely cite per-90 statistics and use data visualisations like position heat maps, it demonstrates how sports analytics has moved from niche academic interest to mainstream literacy. However, the hosts rightly caution about "bad stats"—the tendency to cherry-pick data to support pre-existing narratives rather than letting analysis drive conclusions.
+
+::: {.callout-note}
+## Related Episodes
+- [Episode 5: January Transfers](episode-005.qmd) - The episode that sparked this investigation, discussing transfer window analysis
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 6](episode-006.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 8](episode-008.qmd)
+:::
+
+:::

@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "Corridor of Uncertainty"
+  favicon: logo.png                    # uses the logo.png already in corridor/
+  page-navigation: true
+  page-footer:
+    background: "#F0F0F0"
+    center: 2026 &middot; Made with ![](https://www.r-project.org/Rlogo.png){width=20px} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    right:
+      - icon: github
+        href: https://github.com/areeslindley/corridor-of-uncertainty
+  navbar:
+    search: true
+    title: false
+    logo: logo.png
+    logo-alt: "Corridor of Uncertainty"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: upcoming.qmd
+        text: Upcoming
+      - href: episodes/index.qmd        # adjust once you share episodes/ structure
+        text: Episodes
+    right:
+      - text: "← QSAY"
+        href: https://areeslindley.github.io
+
+format:
+  html:
+    theme:
+      - custom.scss
+      - minty
+    backgroundcolor: "#f0f0f0"
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    date-format: "MMM YYYY"
+    smooth-scroll: true
+
+editor: visual

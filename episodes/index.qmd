@@ -1,0 +1,43 @@
+---
+title: "Episodes"
+page-layout: full
+toc: false
+listing:
+  contents: "episode-*.qmd"
+  sort: "date desc"
+  type: grid
+  grid-columns: 2
+  fields: [title, date, description, categories]
+  field-display-names:
+    categories: "Topics"
+---
+
+```{=html}
+<style>
+  .cou-section-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 3px solid #f0c040;
+    display: inline-block;
+  }
+  #listing-episodes .card {
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+    transition: box-shadow 0.2s, border-color 0.2s;
+  }
+  #listing-episodes .card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+    border-color: #f0c040;
+  }
+  #listing-episodes .card-title a {
+    color: #1a1a1a;
+    font-weight: 700;
+  }
+</style>
+```
+
+All episodes from **The Corridor of Uncertainty** — a podcast at the intersection of maths & sport, hosted by Dr Jess Hargreaves & Dr Rich Bingham at the University of York.
+
+[⬅️ Back to Corridor Home](../index.html)

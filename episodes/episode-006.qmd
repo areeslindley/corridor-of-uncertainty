@@ -1,0 +1,110 @@
+---
+title: "Episode 6: How to Win at Curling (Using Maths)"
+date: 2026-02-10
+description: "Rich and Jess explore the statistical strategies behind curling ahead of the Winter Olympics 2026, analysing World Championship data to understand what makes teams successful."
+categories: [Curling, Winter Olympics, Game Theory, Strategy]
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 10 February 2026  
+**Duration**: 31:16  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=H2lbiTPuMhc&t=698s)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Curling, Winter Olympics 2026, Strategic Scoring, World Championship Analysis
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/H2lbiTPuMhc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+In this episode, Rich and Jess dive into the fascinating world of curling ahead of the Winter Olympics 2026, exploring why they consider it "the best sport" and breaking down its unique scoring mechanics. Using data from World Championship competitions, they analyse which nations dominate the sport and examine the strategic importance of the "hammer" - the crucial last stone advantage. The episode combines an introduction to curling's rules with statistical analysis of 336 games across four championships.
+
+---
+
+**Timestamps:**
+
+- [00:00] Introduction and Winter Olympics preview
+- [00:17] Welcome and podcast introduction
+- [00:34] Why curling is "the best sport"
+- [01:22] Curling basics explained
+- [02:14] Scoring system and the "house"
+- [03:07] Comparison to bowls and other target sports
+
+**References:**
+
+- Curl It (curling statistics website)
+- World Curling Federation results
+
+## Key Concepts
+
+::: {.callout-tip}
+## The Hammer Advantage
+In curling, the team that throws the final stone (the "hammer") has a significant strategic advantage, as they can guarantee at least one point by placing their stone closest to the centre. Teams often deliberately "blank" ends (score zero) to retain the hammer for crucial later ends, creating a fascinating tactical dynamic around when to score and when to preserve this advantage.
+:::
+
+::: {.callout-tip}
+## Cumulative Scoring System
+Unlike many sports with fixed point values, curling uses a proximity-based scoring system where only the team closest to the centre scores, and they continue accumulating points for each consecutive stone closer than any opponent's stone. This creates strategic scenarios where forcing your opponent to score just one point (a "steal") can be advantageous.
+:::
+
+::: {.callout-tip}
+## Round Robin Tournament Analysis
+The episode analyses 336 games (84 per championship) from the 2024-25 World Championships, using round robin results to fairly compare team performance across the 13 competing nations while excluding knockout stages where not all teams participate equally.
+:::
+
+## Resources & References
+
+- Curl It - Curling statistics database
+- World Curling Federation
+- Winter Olympics 2026
+
+## Transcript Highlights
+
+> "People refer to it as chess on ice because it's so strategic... it's like chess on ice except for the fact that putting the pieces on the board was actually also really hard."
+
+Rich captures the dual challenge of curling perfectly - it combines the strategic depth of chess with the physical precision of darts, where executing your strategy is as difficult as formulating it.
+
+---
+
+> "If you score using the hammer, you give it up for the next go. So that dynamic of keeping and if you don't score, if there's no score on the end, what's called a blank end, then you keep the hammer for the next go."
+
+This explains the counterintuitive tactical element where teams sometimes deliberately avoid scoring to maintain strategic advantage for later ends.
+
+---
+
+> "It's the only sport where you can impact what happens to it when it's left your hand."
+
+Jess highlights curling's unique characteristic - the sweeping mechanism that allows players to influence the stone's trajectory after release.
+
+## Discussion
+
+Curling represents a fascinating case study in sports analytics because it combines deterministic strategy (like chess) with stochastic execution (like darts or golf). The hammer advantage creates a game-theoretic element where the optimal strategy isn't always to maximise immediate points - sometimes blanking an end provides greater expected value for the match outcome. This mirrors concepts in baseball analytics around "playing for one run" versus "playing for a big inning."
+
+The dominance of nations like Canada and Switzerland in the World Championship data raises interesting questions about the development pathways and infrastructure that create curling powerhouses. The episode's analysis of 336 games provides a solid foundation for understanding team performance, though future episodes might explore individual shot success rates or the impact of specific tactical decisions on win probability.
+
+::: {.callout-note}
+## Related Episodes
+- Episode 5 - Previous episode on sports strategy
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 5](episode-005.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 7](episode-007.qmd)
+:::
+
+:::

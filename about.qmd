@@ -1,0 +1,82 @@
+---
+title: "About the Corridor of Uncertainty"
+---
+
+## The Channel
+
+The Corridor of Uncertainty is the YouTube channel for the Quantitative Sports Analysis: York (QSA:Y) group, based in the Department of Mathematics at the University of York. We highlight and critique interesting applications of mathematical modelling and analysis in sport, and promote a dialogue between the worlds of sport and mathematics — which ought to benefit both, as well as being fun!
+
+**Created by:** Dr Jess Hargreaves and Dr Rich Bingham
+
+## Mission
+
+\[Add mission statement\]
+
+## Episodes
+
+- **Episode 1**: The SPLit — How fair is Scottish Football?
+- **Episode 2**: Sports Personality of the Year — Can we use stats to rank sports?
+- **Episode 3**: The CoU Sports Statistic of the Year 2025
+- **Episode 4**: How random is the NBA? — Can statistics prove that basketball is a bad sport?
+- **Episode 5**: Best January Transfer Signings Ever? — Can Stats Decide?
+- **Episode 6**: Can Maths Predict Curling Games?
+- **Bonus**: Which Sports win BBC Sports Personality of the Year the most?
+
+## About This Site
+
+This companion website is built using [Quarto](https://quarto.org/), an open-source scientific and technical publishing system. It provides:
+
+::: {.grid}
+
+::: {.g-col-6}
+::: {.card .h-100}
+::: {.card-body}
+### 📝 Enhanced Content
+Episode summaries, code samples, and extended explanations
+:::
+:::
+:::
+
+::: {.g-col-6}
+::: {.card .h-100}
+::: {.card-body}
+### 🔬 Interactive Visualisations
+Explore data and concepts hands-on
+:::
+:::
+:::
+
+::: {.g-col-6}
+::: {.card .h-100}
+::: {.card-body}
+### 🔗 Organised Resources
+All links, papers, and references in one place
+:::
+:::
+:::
+
+::: {.g-col-6}
+::: {.card .h-100}
+::: {.card-body}
+### 🔍 Full-Text Search
+Find content across all episodes instantly
+:::
+:::
+:::
+
+:::
+
+## Connect
+
+- **YouTube**: [The Corridor of Uncertainty](https://www.youtube.com/@CorridorOfUncertainty)
+- **QSA:Y Group**: [University of York](https://www.york.ac.uk/maths/)
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[🏠 Back to Home](index.qmd)
+:::
+
+:::

@@ -1,0 +1,232 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+```{=html}
+<style>
+  .cou-hero {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+    border-radius: 12px;
+    padding: 3rem 2rem;
+    text-align: center;
+    margin-bottom: 2.5rem;
+    color: white;
+  }
+  .cou-hero img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 0 0 6px #f0c040, 0 0 0 10px #1a1a1a;
+  }
+  .cou-hero h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: #f0c040;
+    border: none;
+  }
+  .cou-hero .subtitle {
+    font-size: 1.1rem;
+    color: #cccccc;
+    margin-bottom: 1.5rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .cou-hero .hosts {
+    font-size: 0.95rem;
+    color: #aaaaaa;
+  }
+  .cou-btn {
+    display: inline-block;
+    margin: 0.3rem;
+    padding: 0.55rem 1.3rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none !important;
+    transition: opacity 0.2s;
+  }
+  .cou-btn:hover { opacity: 0.85; }
+  .cou-btn-primary {
+    background: #f0c040;
+    color: #1a1a1a !important;
+  }
+  .cou-btn-secondary {
+    background: transparent;
+    color: #f0c040 !important;
+    border: 2px solid #f0c040;
+  }
+  .cou-section-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 3px solid #f0c040;
+    display: inline-block;
+  }
+  .episode-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 1rem;
+    transition: box-shadow 0.2s, border-color 0.2s;
+    background: white;
+  }
+  .episode-card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+    border-color: #f0c040;
+  }
+  .episode-number {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #888;
+    margin-bottom: 0.2rem;
+  }
+  .episode-title {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+    color: #1a1a1a;
+  }
+  .episode-meta {
+    font-size: 0.82rem;
+    color: #888;
+    margin-bottom: 0.5rem;
+  }
+  .episode-desc {
+    font-size: 0.9rem;
+    color: #444;
+    margin-bottom: 0.7rem;
+    line-height: 1.5;
+  }
+  .episode-tags span {
+    display: inline-block;
+    background: #f5f5f5;
+    color: #555;
+    font-size: 0.75rem;
+    padding: 0.15rem 0.55rem;
+    border-radius: 20px;
+    margin-right: 0.3rem;
+    margin-bottom: 0.3rem;
+  }
+  .episode-link {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #2a7ae2;
+    text-decoration: none;
+  }
+  .episode-link:hover { text-decoration: underline; }
+  .nav-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  .nav-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 1.2rem;
+    text-align: center;
+    text-decoration: none !important;
+    color: #1a1a1a !important;
+    transition: box-shadow 0.2s, border-color 0.2s;
+    background: white;
+  }
+  .nav-card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+    border-color: #f0c040;
+  }
+  .nav-card .nav-icon { font-size: 1.8rem; margin-bottom: 0.5rem; }
+  .nav-card .nav-label { font-weight: 600; font-size: 0.95rem; }
+  .nav-card .nav-desc { font-size: 0.82rem; color: #888; margin-top: 0.2rem; }
+</style>
+
+<!-- Hero -->
+<div class="cou-hero">
+  <img src="logo.png" alt="Corridor of Uncertainty logo">
+  <h1>The Corridor of Uncertainty</h1>
+  <p class="subtitle">A podcast at the intersection of maths &amp; sport — exploring what the numbers really tell us.</p>
+  <p class="hosts">Hosted by <strong>Dr Jess Hargreaves</strong> &amp; <strong>Dr Rich Bingham</strong> &nbsp;·&nbsp; Department of Mathematics, University of York</p>
+  <br>
+  <a class="cou-btn cou-btn-primary" href="episodes/index.html">📺 Browse Episodes</a>
+  <a class="cou-btn cou-btn-secondary" href="https://www.youtube.com/@CorridorOfUncertainty" target="_blank">▶ YouTube Channel</a>
+</div>
+
+<!-- Latest Episodes -->
+<p class="cou-section-title">Latest Episodes</p>
+
+<div class="episode-card">
+  <div class="episode-number">Episode 9</div>
+  <div class="episode-title">Have the Dodgers Broken Moneyball?</div>
+  <div class="episode-meta">📅 24 Mar 2026 &nbsp;·&nbsp; ⏱ ~41:00</div>
+  <div class="episode-desc">Exploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage.</div>
+  <div class="episode-tags">
+    <span>Baseball</span><span>Moneyball</span><span>Sabermetrics</span><span>Player Recruitment</span>
+  </div>
+  <a class="episode-link" href="episodes/episode-009.html">Read more →</a>
+  &nbsp;&nbsp;
+  <a class="episode-link" href="https://www.youtube.com/watch?v=w43yhwejkn8" target="_blank">Watch on YouTube ↗</a>
+</div>
+
+<div class="episode-card">
+  <div class="episode-number">Episode 8</div>
+  <div class="episode-title">Curling by Numbers: Why GB Won Silver</div>
+  <div class="episode-meta">📅 25 Mar 2026 &nbsp;·&nbsp; ⏱ ~25:00</div>
+  <div class="episode-desc">Analysing Team GB's silver medal performance at the 2026 Winter Olympics curling final against Canada through statistics and probability.</div>
+  <div class="episode-tags">
+    <span>Curling</span><span>Winter Olympics</span><span>Game Theory</span><span>Statistical Analysis</span>
+  </div>
+  <a class="episode-link" href="episodes/episode-008.html">Read more →</a>
+  &nbsp;&nbsp;
+  <a class="episode-link" href="https://www.youtube.com/watch?v=noA2d75QkEM" target="_blank">Watch on YouTube ↗</a>
+</div>
+
+<div class="episode-card">
+  <div class="episode-number">Episode 7</div>
+  <div class="episode-title">Why Did Man City Sign Semenyo?</div>
+  <div class="episode-meta">📅 25 Mar 2025 &nbsp;·&nbsp; ⏱ ~15:00</div>
+  <div class="episode-desc">Exploring how football clubs use data analytics to identify and sign players, with Manchester City's signing of Antoine Semenyo as a case study.</div>
+  <div class="episode-tags">
+    <span>Football</span><span>Player Recruitment</span><span>Data Analytics</span><span>Transfer Market</span>
+  </div>
+  <a class="episode-link" href="episodes/episode-007.html">Read more →</a>
+  &nbsp;&nbsp;
+  <a class="episode-link" href="https://www.youtube.com/watch?v=-v1nLR34YGA&t=303s" target="_blank">Watch on YouTube ↗</a>
+</div>
+
+<br>
+<a class="episode-link" href="episodes/index.html">View all episodes →</a>
+
+<!-- Navigation -->
+<br><br>
+<p class="cou-section-title">Explore</p>
+
+<div class="nav-cards">
+  <a class="nav-card" href="episodes/index.html">
+    <div class="nav-icon">📋</div>
+    <div class="nav-label">All Episodes</div>
+    <div class="nav-desc">Full episode archive</div>
+  </a>
+  <a class="nav-card" href="about.html">
+    <div class="nav-icon">ℹ️</div>
+    <div class="nav-label">About</div>
+    <div class="nav-desc">About the channel and team</div>
+  </a>
+  <a class="nav-card" href="upcoming.html">
+    <div class="nav-icon">🔮</div>
+    <div class="nav-label">Upcoming</div>
+    <div class="nav-desc">What's coming next</div>
+  </a>
+  <a class="nav-card" href="https://www.youtube.com/@CorridorOfUncertainty" target="_blank">
+    <div class="nav-icon">▶️</div>
+    <div class="nav-label">YouTube</div>
+    <div class="nav-desc">Watch on YouTube</div>
+  </a>
+</div>
+```

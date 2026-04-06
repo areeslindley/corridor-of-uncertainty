@@ -1,0 +1,112 @@
+---
+title: "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?"
+date: 2026-01-13
+description: "Rich attempts to statistically prove why basketball is a bad sport by analysing buzzer beaters, scoring frequency, and the role of randomness in determining game outcomes."
+categories: [Basketball, Randomness, NBA, Win Probability, Game Theory]
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 13 January 2026  
+**Duration**: 29:15  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=sBAKID4RidY&t=4s)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Basketball, Buzzer Beaters, Randomness in Sport, Win Probability, NBA Statistics
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/sBAKID4RidY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Rich presents his case for why basketball might be a "bad sport" from a statistical perspective, focusing on the high frequency of scoring events and how often games are decided by the final basket. Using nine seasons of NBA data (over 10,700 games), he explores whether the prevalence of last-minute turnarounds suggests an element of randomness in determining winners. Jess pushes back with insights about strategic clock management and the skill involved in controlling those crucial final seconds.
+
+---
+
+**Timestamps:**
+
+- [00:10] Introduction and episode overview
+- [00:31] Rich introduces his controversial thesis on basketball
+- [01:24] The buzzer beater problem explained
+- [02:16] Indiana Pacers 2024-25 season as inspiration
+- [02:41] Win probability graphs and how they're calculated
+- [03:24] Data methodology: hoopR package and 9 seasons of NBA data
+
+**References:**
+
+- hoopR package for R (basketball data analysis)
+- Indiana Pacers 2024-25 season
+- Michael Jordan's "The Shot"
+
+## Key Concepts
+
+::: {.callout-tip}
+## Scoring Frequency and Game Outcomes
+In NBA basketball, teams combined score an average of 116 times per game, yet 10% of games are decided by the final scoring event. This raises philosophical questions about whether basketball truly tests which team can dominate over a full game, or whether timing and the final possession matter disproportionately.
+:::
+
+::: {.callout-tip}
+## Win Probability Models
+Sports broadcasts often display real-time win probabilities (e.g., "99.7% loss probability"), but the methodology behind these calculations is rarely transparent. While used to emphasise dramatic moments, these models raise questions about how we quantify uncertainty in live sporting events.
+:::
+
+::: {.callout-tip}
+## Optimal Randomness in Sport
+The episode explores the philosophical question of how much randomness is desirable in sport. Too little randomness (like chess) means the better player always wins, removing excitement. Too much randomness undermines the contest as a test of skill. Basketball's high scoring frequency may push it towards more randomness than other sports.
+:::
+
+## Resources & References
+
+- hoopR: R package for NBA data analysis
+- NBA regular season data (2016-17 to 2024-25 seasons)
+- 10,740 games analysed (excluding postseason and in-season tournaments)
+
+## Transcript Highlights
+
+> "So is the sport of basketball a test of one team's ability to score more points and to dominate in a game, or is it about timing?"
+
+Rich poses the central philosophical question of the episode, challenging whether basketball's high-scoring nature undermines its function as a fair test of team quality.
+
+---
+
+> "It had never really occurred to me that it was random... I was like no, Leeds United are the best team in the world and they play the game and the right person wins."
+
+Jess reflects on how sports fans often overlook the role of chance, assuming outcomes are determined purely by skill until they start examining the mathematics more closely.
+
+---
+
+> "You want to have some level of uncertainty because if the best wins all the time then what's the point?"
+
+The hosts discuss the paradox that some randomness makes sport exciting, comparing it to board games where complete skill dominance (like chess) might actually reduce enjoyment.
+
+## Discussion
+
+This episode touches on a fundamental tension in sports analytics: the balance between skill and chance in determining outcomes. Rich's analysis of NBA scoring patterns connects to broader research on competitive balance and what makes sporting contests compelling. The finding that 10% of games are decided by the final scoring event, despite 116 scoring opportunities per game, suggests that basketball's structure may amplify the importance of clutch moments beyond what we might expect from a purely skill-based contest.
+
+The discussion also highlights the importance of transparency in sports statistics. Win probability models have become ubiquitous in sports broadcasting, yet their underlying assumptions and methodologies are rarely explained to viewers. This episode encourages a healthy scepticism about the precision implied by statistics like "99.7% loss probability" while acknowledging that such models can still provide useful frameworks for understanding game dynamics.
+
+::: {.callout-note}
+## Related Episodes
+- Episode 2: Expected Goals in Football - Another exploration of probabilistic models in sport
+- Future episodes may revisit the randomness vs. skill debate in other sports contexts
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 3](episode-003.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 5](episode-005.qmd)
+:::
+
+:::
