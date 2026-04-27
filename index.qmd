@@ -2,6 +2,23 @@
 title: ""
 page-layout: full
 toc: false
+listing:
+  id: latest-episodes
+  contents:
+    - "episodes/episode-*.qmd"
+    - "!episodes/episode-bonus*"
+  sort: "date desc"
+  type: grid
+  grid-columns: 1
+  max-items: 4
+  feed: false
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  fields: [title, date, description, categories]
+  field-display-names:
+    categories: Topics
+  date-format: "DD MMM YYYY"
 ---
 
 ```{=html}
@@ -68,44 +85,50 @@ toc: false
     border-bottom: 3px solid #f0c040;
     display: inline-block;
   }
-  .episode-card {
+  /* Latest episodes listing — Quarto emits #listing-{id} */
+  #listing-latest-episodes .listing-pagination,
+  #listing-latest-episodes .page-link {
+    display: none !important;
+  }
+  #listing-latest-episodes .quarto-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  #listing-latest-episodes .quarto-grid-item {
     border: 1px solid #e0e0e0;
     border-radius: 10px;
     padding: 1.2rem 1.4rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0 !important;
     transition: box-shadow 0.2s, border-color 0.2s;
     background: white;
   }
-  .episode-card:hover {
+  #listing-latest-episodes .quarto-grid-item:hover {
     box-shadow: 0 4px 16px rgba(0,0,0,0.10);
     border-color: #f0c040;
   }
-  .episode-number {
-    font-size: 0.75rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: #888;
-    margin-bottom: 0.2rem;
-  }
-  .episode-title {
+  #listing-latest-episodes .quarto-grid-item h5 a,
+  #listing-latest-episodes .quarto-grid-item .listing-title a {
     font-size: 1rem;
     font-weight: 700;
-    margin-bottom: 0.3rem;
-    color: #1a1a1a;
+    color: #1a1a1a !important;
+    text-decoration: none !important;
   }
-  .episode-meta {
+  #listing-latest-episodes .quarto-grid-item h5 a:hover {
+    text-decoration: underline !important;
+  }
+  #listing-latest-episodes .listing-date {
     font-size: 0.82rem;
     color: #888;
     margin-bottom: 0.5rem;
   }
-  .episode-desc {
+  #listing-latest-episodes .listing-description {
     font-size: 0.9rem;
     color: #444;
     margin-bottom: 0.7rem;
     line-height: 1.5;
   }
-  .episode-tags span {
+  #listing-latest-episodes .listing-categories .listing-category {
     display: inline-block;
     background: #f5f5f5;
     color: #555;
@@ -146,7 +169,9 @@ toc: false
   .nav-card .nav-label { font-weight: 600; font-size: 0.95rem; }
   .nav-card .nav-desc { font-size: 0.82rem; color: #888; margin-top: 0.2rem; }
 </style>
+```
 
+```{=html}
 <!-- Hero -->
 <div class="cou-hero">
   <img src="logo.png" alt="Corridor of Uncertainty logo">
@@ -157,49 +182,16 @@ toc: false
   <a class="cou-btn cou-btn-primary" href="episodes/index.html">📺 Browse Episodes</a>
   <a class="cou-btn cou-btn-secondary" href="https://www.youtube.com/@CorridorOfUncertainty" target="_blank">▶ YouTube Channel</a>
 </div>
+```
 
-<!-- Latest Episodes -->
-<p class="cou-section-title">Latest Episodes</p>
+::: {.cou-section-title}
+Latest Episodes
+:::
 
-<div class="episode-card">
-  <div class="episode-number">Episode 9</div>
-  <div class="episode-title">Have the Dodgers Broken Moneyball?</div>
-  <div class="episode-meta">📅 24 Mar 2026 &nbsp;·&nbsp; ⏱ ~41:00</div>
-  <div class="episode-desc">Exploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage.</div>
-  <div class="episode-tags">
-    <span>Baseball</span><span>Moneyball</span><span>Sabermetrics</span><span>Player Recruitment</span>
-  </div>
-  <a class="episode-link" href="episodes/episode-009.html">Read more →</a>
-  &nbsp;&nbsp;
-  <a class="episode-link" href="https://www.youtube.com/watch?v=w43yhwejkn8" target="_blank">Watch on YouTube ↗</a>
-</div>
+::: {#latest-episodes}
+:::
 
-<div class="episode-card">
-  <div class="episode-number">Episode 8</div>
-  <div class="episode-title">Curling by Numbers: Why GB Won Silver</div>
-  <div class="episode-meta">📅 25 Mar 2026 &nbsp;·&nbsp; ⏱ ~25:00</div>
-  <div class="episode-desc">Analysing Team GB's silver medal performance at the 2026 Winter Olympics curling final against Canada through statistics and probability.</div>
-  <div class="episode-tags">
-    <span>Curling</span><span>Winter Olympics</span><span>Game Theory</span><span>Statistical Analysis</span>
-  </div>
-  <a class="episode-link" href="episodes/episode-008.html">Read more →</a>
-  &nbsp;&nbsp;
-  <a class="episode-link" href="https://www.youtube.com/watch?v=noA2d75QkEM" target="_blank">Watch on YouTube ↗</a>
-</div>
-
-<div class="episode-card">
-  <div class="episode-number">Episode 7</div>
-  <div class="episode-title">Why Did Man City Sign Semenyo?</div>
-  <div class="episode-meta">📅 25 Mar 2025 &nbsp;·&nbsp; ⏱ ~15:00</div>
-  <div class="episode-desc">Exploring how football clubs use data analytics to identify and sign players, with Manchester City's signing of Antoine Semenyo as a case study.</div>
-  <div class="episode-tags">
-    <span>Football</span><span>Player Recruitment</span><span>Data Analytics</span><span>Transfer Market</span>
-  </div>
-  <a class="episode-link" href="episodes/episode-007.html">Read more →</a>
-  &nbsp;&nbsp;
-  <a class="episode-link" href="https://www.youtube.com/watch?v=-v1nLR34YGA&t=303s" target="_blank">Watch on YouTube ↗</a>
-</div>
-
+```{=html}
 <br>
 <a class="episode-link" href="episodes/index.html">View all episodes →</a>
 
