@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -41,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-13e27dc03ce0564932b1ceb85f8ea457.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-230be77d0069e7ac6153d9ce608c3b73.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -115,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://areeslindley.github.io"> 
+    <a class="nav-link" href="https://qsayork.github.io/"> 
 <span class="menu-text">← QSAY</span></a>
   </li>  
 </ul>
@@ -228,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>The episode introduces the idea of ranking athletes by total podium placements rather than just wins—similar to how Olympic medal tables count total medals. This reveals athletes like Jessica Ennis-Hill who consistently placed highly (one second, three thirds) but never won the award.</p>
+<p>The episode introduces the idea of ranking athletes by total podium placements rather than just wins — similar to how Olympic medal tables count total medals. This reveals athletes like Jessica Ennis-Hill who consistently placed highly (one second, three thirds) but never won the award.</p>
 </div>
 </div>
 <div class="callout callout-style-default callout-tip callout-titled">
@@ -255,6 +255,25 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-body-container callout-body">
 <p>The discussion highlights how individual sports like tennis and Formula One consistently outperform team sports in public voting, with three of the four two-time winners being F1 drivers. This suggests systematic biases in how the public perceives and votes for sporting achievement.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Z-Score Normalisation for Cross-Sport Comparison
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>One principled response to the challenge of comparing athletes across different sports is to standardise each athlete’s performance metric within their sport — computing a z-score as the number of standard deviations above the mean of all competitors in that discipline. This removes the effect of sport-specific scale and variance, placing, say, a batting average and a goals-per-game ratio on a common footing. The figure below illustrates just how extreme Don Bradman’s Test batting average of 99.94 is relative to all other batters who have scored 2,000 or more runs — a visual demonstration of what a 4.4 SD outlier looks like in practice.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/episode_2/Don_bradman_dist.png" class="img-fluid figure-img" style="width:100.0%" alt="Dot plot histogram of batting averages showing a roughly bell-shaped distribution centred around 35-45, with a single isolated point labelled Bradman at just over 100."></p>
+<figcaption>Distribution of Test batting averages for all cricketers with 2,000 or more runs. Bradman’s average of 99.94 sits far to the right of the bulk of the distribution, isolated from the next-highest scorers.</figcaption>
+</figure>
+</div>
 </div>
 </div>
 </section>
@@ -286,6 +305,21 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
 <p>This episode demonstrates how simple descriptive statistics can reveal patterns in subjective voting that might otherwise go unnoticed. By examining SPOTY data through the lens of total placements, sport categories, and geographic distribution, Jess and Rich uncover systematic biases in how the British public values different sporting achievements. The finding that motorsport dominates the two-time winners list, while team sport athletes and those from athletics struggle to convert nominations into wins, raises important questions about how we collectively evaluate sporting excellence.</p>
 <p>The discussion also touches on a broader theme in sports analytics: the challenge of comparing achievements across fundamentally different sports. How do you weigh a Davis Cup tennis victory against a World Championship won months after childbirth? The SPOTY voting system essentially crowdsources this impossible comparison, but the resulting patterns suggest that some sports benefit from greater visibility and individual narratives rather than pure athletic achievement.</p>
+<p>The z-score framework offers one objective answer to this question. The boxplot below shows the distribution of standardised performance scores across seven sports, with labelled outliers identifying the athletes whose dominance is most statistically extraordinary relative to their peers. Bradman’s z-score of 6.4 in cricket dwarfs all others — roughly two standard deviations above the next most dominant athlete across any sport in the comparison.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/episode_2/sports_records_distribution.png" class="img-fluid figure-img" style="width:100.0%" alt="Boxplot of z-scores by sport including cricket, football, Formula 1, golf, men's tennis, rugby union, and women's tennis. Most distributions are centred near zero with Bradman as a clear outlier above 6 standard deviations in cricket."></p>
+<figcaption>Z-scores (standard deviations from sport mean) for record-holding athletes across seven sports. Each box summarises the distribution for all athletes in that sport; labelled points are notable outliers. Bradman’s score of approximately 6.4 in cricket is the most extreme value across all disciplines.</figcaption>
+</figure>
+</div>
+<p>The table below ranks the top five athletes by this standardised metric across sports, reinforcing Bradman’s exceptional status while also highlighting how Pelé, Ty Cobb, Jack Nicklaus, and Michael Jordan stand out within their respective disciplines.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/episode_2/sports_record_table.png" class="img-fluid figure-img" style="width:100.0%" alt="Table with columns for athlete, sport, statistic, and standard deviations. Five rows list Bradman, Pelé, Ty Cobb, Jack Nicklaus, and Michael Jordan in descending order of standard deviations."></p>
+<figcaption>Table of the top five athletes ranked by standard deviations above the mean within their sport, showing Bradman (4.4 SD, cricket) ahead of Pelé (3.7, football), Ty Cobb (3.6, baseball), Jack Nicklaus (3.5, golf), and Michael Jordan (3.4, basketball).</figcaption>
+</figure>
+</div>
+<p>Whether this kind of analysis should inform something like SPOTY voting is a different and murkier question — public awards blend statistical achievement with narrative, timing, and national sentiment in ways that a z-score cannot capture. But it at least provides a principled baseline against which the subjectivity of the vote can be measured.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -297,7 +331,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Episode 1: Introduction to the Corridor of Uncertainty</li>
+<li><a href="../episodes/episode-001.html">Episode 1: The SPLit — How fair is Scottish Football?</a></li>
 </ul>
 </div>
 </div>
@@ -388,7 +422,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/areeslindley\.github\.io\/corridor-of-uncertainty\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

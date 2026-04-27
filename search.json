@@ -1,94 +1,164 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About the Corridor of Uncertainty",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Corridor of Uncertainty",
     "section": "",
-    "text": "The Corridor of Uncertainty is the YouTube channel for the Quantitative Sports Analysis: York (QSA:Y) group, based in the Department of Mathematics at the University of York. We highlight and critique interesting applications of mathematical modelling and analysis in sport, and promote a dialogue between the worlds of sport and mathematics — which ought to benefit both, as well as being fun!\nCreated by: Dr Jess Hargreaves and Dr Rich Bingham"
+    "text": "The Corridor of Uncertainty\n  A podcast at the intersection of maths & sport — exploring what the numbers really tell us.\n  Hosted by Dr Jess Hargreaves & Dr Rich Bingham  ·  Department of Mathematics, University of York\n  \n  📺 Browse Episodes\n  ▶ YouTube Channel\n\n\n\nLatest Episodes\n\n\n  Episode 9\n  Have the Dodgers Broken Moneyball?\n  📅 24 Mar 2026  ·  ⏱ ~41:00\n  Exploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage.\n  \n    BaseballMoneyballSabermetricsPlayer Recruitment\n  \n  Read more →\n    \n  Watch on YouTube ↗\n\n\n\n  Episode 8\n  Curling by Numbers: Why GB Won Silver\n  📅 25 Mar 2026  ·  ⏱ ~25:00\n  Analysing Team GB's silver medal performance at the 2026 Winter Olympics curling final against Canada through statistics and probability.\n  \n    CurlingWinter OlympicsGame TheoryStatistical Analysis\n  \n  Read more →\n    \n  Watch on YouTube ↗\n\n\n\n  Episode 7\n  Why Did Man City Sign Semenyo?\n  📅 25 Mar 2025  ·  ⏱ ~15:00\n  Exploring how football clubs use data analytics to identify and sign players, with Manchester City's signing of Antoine Semenyo as a case study.\n  \n    FootballPlayer RecruitmentData AnalyticsTransfer Market\n  \n  Read more →\n    \n  Watch on YouTube ↗\n\n\n\nView all episodes →\n\n\n\nExplore\n\n\n  \n    📋\n    All Episodes\n    Full episode archive\n  \n  \n    ℹ️\n    About\n    About the channel and team\n  \n  \n    🔮\n    Upcoming\n    What's coming next\n  \n  \n    ▶️\n    YouTube\n    Watch on YouTube"
   },
   {
-    "objectID": "about.html#the-channel",
-    "href": "about.html#the-channel",
-    "title": "About the Corridor of Uncertainty",
+    "objectID": "upcoming.html",
+    "href": "upcoming.html",
+    "title": "Upcoming Episodes",
     "section": "",
-    "text": "The Corridor of Uncertainty is the YouTube channel for the Quantitative Sports Analysis: York (QSA:Y) group, based in the Department of Mathematics at the University of York. We highlight and critique interesting applications of mathematical modelling and analysis in sport, and promote a dialogue between the worlds of sport and mathematics — which ought to benefit both, as well as being fun!\nCreated by: Dr Jess Hargreaves and Dr Rich Bingham"
+    "text": "Keep an eye on the YouTube channel for the latest releases.\n\nComing Soon\n\n\n\nEpisode 7 TBD\n\n\n[Title to be announced]\n\n\nDetails coming soon — subscribe on YouTube to be notified when the next episode drops.\n\n\n\n⬅️ Back to Corridor Home"
   },
   {
-    "objectID": "about.html#mission",
-    "href": "about.html#mission",
-    "title": "About the Corridor of Uncertainty",
-    "section": "Mission",
-    "text": "Mission\n[Add mission statement]"
-  },
-  {
-    "objectID": "about.html#episodes",
-    "href": "about.html#episodes",
-    "title": "About the Corridor of Uncertainty",
-    "section": "Episodes",
-    "text": "Episodes\n\nEpisode 1: The SPLit — How fair is Scottish Football?\nEpisode 2: Sports Personality of the Year — Can we use stats to rank sports?\nEpisode 3: The CoU Sports Statistic of the Year 2025\nEpisode 4: How random is the NBA? — Can statistics prove that basketball is a bad sport?\nEpisode 5: Best January Transfer Signings Ever? — Can Stats Decide?\nEpisode 6: Can Maths Predict Curling Games?\nBonus: Which Sports win BBC Sports Personality of the Year the most?"
-  },
-  {
-    "objectID": "about.html#about-this-site",
-    "href": "about.html#about-this-site",
-    "title": "About the Corridor of Uncertainty",
-    "section": "About This Site",
-    "text": "About This Site\nThis companion website is built using Quarto, an open-source scientific and technical publishing system. It provides:\n\n\n\n\n📝 Enhanced Content\nEpisode summaries, code samples, and extended explanations\n\n\n\n\n\n\n🔬 Interactive Visualisations\nExplore data and concepts hands-on\n\n\n\n\n\n\n🔗 Organised Resources\nAll links, papers, and references in one place\n\n\n\n\n\n\n🔍 Full-Text Search\nFind content across all episodes instantly"
-  },
-  {
-    "objectID": "about.html#connect",
-    "href": "about.html#connect",
-    "title": "About the Corridor of Uncertainty",
-    "section": "Connect",
-    "text": "Connect\n\nYouTube: The Corridor of Uncertainty\nQSA:Y Group: University of York\n\n\n\n\n🏠 Back to Home"
-  },
-  {
-    "objectID": "episodes/bonus-001.html",
-    "href": "episodes/bonus-001.html",
-    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
+    "objectID": "episodes/old-episode-002.html",
+    "href": "episodes/old-episode-002.html",
+    "title": "Episode 2: Sports Personality of the Year - Can we use stats to rank sports?",
     "section": "",
-    "text": "Published: 25 March 2026\nDuration: ~03:00\nYouTube: Watch here\n\n\nTopics Covered: Data Visualisation, BBC Sports Personality of the Year, Tree Diagrams, Sport Statistics"
+    "text": "Published: 17 December 2025\nDuration: 34:18\nYouTube: Watch here\n\n\nTopics Covered: Sports Personality of the Year, Award Statistics, Sport Rankings, Voting Patterns"
   },
   {
-    "objectID": "episodes/bonus-001.html#video",
-    "href": "episodes/bonus-001.html#video",
-    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
+    "objectID": "episodes/old-episode-002.html#video",
+    "href": "episodes/old-episode-002.html#video",
+    "title": "Episode 2: Sports Personality of the Year - Can we use stats to rank sports?",
     "section": "Video",
     "text": "Video"
   },
   {
-    "objectID": "episodes/bonus-001.html#overview",
-    "href": "episodes/bonus-001.html#overview",
-    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
+    "objectID": "episodes/old-episode-002.html#overview",
+    "href": "episodes/old-episode-002.html#overview",
+    "title": "Episode 2: Sports Personality of the Year - Can we use stats to rank sports?",
     "section": "Overview",
-    "text": "Overview\nIn this episode, Jess and Rich examine the historical data behind BBC Sports Personality of the Year winners, breaking down which sports have claimed the most victories across 71 awards. Using a nested tree diagram as an alternative to the traditional pie chart, they quiz each other on the top sports and reveal some surprising results. The discussion also touches on the difference between individual and team sports in terms of public recognition.\n\nTimestamps:\n\n[00:03] Introduction to nested tree diagrams as pie chart alternatives\n[00:36] Overview of Sports Personality winners by sport\n[01:00] Guessing game: which sports have the most wins\n[02:18] Figure skating and Torvill and Dean connection\n\nReferences:\n\nBBC Sports Personality of the Year historical data"
+    "text": "Overview\nIn this festive Christmas special, Jess puts Rich through a Sports Personality of the Year quiz with a mathematical twist. The episode dives into the historical data behind the BBC’s annual sports award, examining patterns in winners by sport, nationality, and gender. Along the way, they uncover some surprising statistics and reveal their personal grievances about past voting results.\n\nTimestamps:\n\n[00:19] Introduction and episode setup\n[01:01] SPOTY quiz begins - most wins\n[03:06] Athletes who have won twice\n[06:00] Most placings without winning\n[10:00] Geographic breakdown of winners\n[14:00] Discussion of this year’s nominees\n\nReferences:\n\nBBC Sports Personality of the Year historical data"
   },
   {
-    "objectID": "episodes/bonus-001.html#key-concepts",
-    "href": "episodes/bonus-001.html#key-concepts",
-    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
+    "objectID": "episodes/old-episode-002.html#key-concepts",
+    "href": "episodes/old-episode-002.html#key-concepts",
+    "title": "Episode 2: Sports Personality of the Year - Can we use stats to rank sports?",
     "section": "Key Concepts",
-    "text": "Key Concepts\n\n\n\n\n\n\nTipNested Tree Diagrams\n\n\n\nRich introduces the nested tree diagram (also known as a treemap) as a visualisation tool for displaying proportional data. Unlike pie charts, these diagrams use rectangular areas to show the relative size of categories, making it easier to compare sports with similar numbers of wins.\n\n\n\n\n\n\n\n\nTipIndividual vs Team Sport Recognition\n\n\n\nThe episode highlights how individual sports like athletics (19 wins) dominate the BBC SPOTY awards compared to team sports like football (7 wins). This reflects how public voting tends to favour athletes where individual achievement is more easily identifiable and attributable.\n\n\n\n\n\n\n\n\nTipCategorical Data Distribution\n\n\n\nWith 71 winners spread across multiple sports, the data reveals a highly skewed distribution. Athletics accounts for nearly 27% of all wins, demonstrating how certain sports consistently produce recognisable national sporting heroes."
+    "text": "Key Concepts\n\n\n\n\n\n\nTipCounting Placements vs Wins\n\n\n\nThe episode introduces the idea of ranking athletes by total podium placements rather than just wins—similar to how Olympic medal tables count total medals. This reveals athletes like Jessica Ennis-Hill who consistently placed highly (one second, three thirds) but never won the award.\n\n\n\n\n\n\n\n\nTipNested Tree Diagrams for Categorical Data\n\n\n\nJess presents a nested tree diagram showing SPOTY winners by UK nation and then sport within each nation. This visualisation technique reveals that Scotland, Wales, and Northern Ireland show greater diversity across sports compared to England, despite having fewer total winners.\n\n\n\n\n\n\n\n\nTipSport Popularity Bias in Voting\n\n\n\nThe discussion highlights how individual sports like tennis and Formula One consistently outperform team sports in public voting, with three of the four two-time winners being F1 drivers. This suggests systematic biases in how the public perceives and votes for sporting achievement."
   },
   {
-    "objectID": "episodes/bonus-001.html#resources-references",
-    "href": "episodes/bonus-001.html#resources-references",
-    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
+    "objectID": "episodes/old-episode-002.html#resources-references",
+    "href": "episodes/old-episode-002.html#resources-references",
+    "title": "Episode 2: Sports Personality of the Year - Can we use stats to rank sports?",
     "section": "Resources & References",
-    "text": "Resources & References\n\nBBC Sports Personality of the Year official records\nHistorical winner data (71 winners analysed)"
+    "text": "Resources & References\n\nBBC Sports Personality of the Year archive\nDr Emma Ross’s research on elite athletes and motherhood (mentioned)"
   },
   {
-    "objectID": "episodes/bonus-001.html#transcript-highlights",
-    "href": "episodes/bonus-001.html#transcript-highlights",
-    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
+    "objectID": "episodes/old-episode-002.html#transcript-highlights",
+    "href": "episodes/old-episode-002.html#transcript-highlights",
+    "title": "Episode 2: Sports Personality of the Year - Can we use stats to rank sports?",
     "section": "Transcript Highlights",
-    "text": "Transcript Highlights\n\n“This is actually a nested tree diagram, I think it’s called, but I’m not using it as a nested tree diagram at this point in time. It’s basically how I’m using it here is as an alternative to everyone’s favorite chart, the pie chart.”\n\nRich introduces a data visualisation approach that sidesteps the often-criticised pie chart, setting up the episode’s exploration of sports award data.\n\n\n“So because this is personality, so it’s single person. I’m going to guess it’s not football… So the 19 I’m going to guess is athletics.”\n\nJess demonstrates sharp statistical intuition, correctly identifying that individual sports would dominate an award focused on single athletes rather than teams.\n\n\n“I am from Nottingham. So, you know… Christopher Dean went to my secondary school before I went there and I sat next to Jane Torvill at the playoff final for Notts County versus Chesterfield.”\n\nRich reveals a personal connection to figure skating legends Torvill and Dean, adding a local touch to the statistical discussion."
+    "text": "Transcript Highlights\n\n“We’re coming to the real reason we started this podcast, which is to try and expose our grudges in sport and to try and back them up with some kind of data.”\n\nJess reveals the true motivation behind the podcast while discussing Jessica Ennis-Hill’s controversial third-place finishes.\n\n\n“If you think about it a bit like if you were doing an Olympic medals table… who has had the most placings without winning it?”\n\nThis reframing of the question leads to the discovery that Jessica Ennis-Hill has been consistently nominated but overlooked for the top prize.\n\n\n“Jessica Ennis gives birth in July 2014. Wins the World Championship August 2015. That’s why I think she beats Kevin Sinfield.”\n\nJess makes an impassioned case for why Ennis-Hill deserved the 2015 award over Andy Murray’s Davis Cup victory."
   },
   {
-    "objectID": "episodes/bonus-001.html#discussion",
-    "href": "episodes/bonus-001.html#discussion",
-    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
+    "objectID": "episodes/old-episode-002.html#discussion",
+    "href": "episodes/old-episode-002.html#discussion",
+    "title": "Episode 2: Sports Personality of the Year - Can we use stats to rank sports?",
     "section": "Discussion",
-    "text": "Discussion\nThe analysis of BBC Sports Personality of the Year winners provides a fascinating case study in how public recognition of sporting achievement varies across disciplines. The dominance of athletics (19 wins) over team sports like football (7 wins) reflects both the individual nature of the award and the heightened visibility that Olympic success brings to track and field athletes in British sporting culture.\nFrom a data visualisation perspective, the choice to use a treemap rather than a pie chart demonstrates good practice in statistical communication. While pie charts struggle to convey differences between similarly-sized categories, treemaps allow for more intuitive comparison—particularly useful when explaining that Formula One (8 wins) edges out both tennis and football (7 wins each). This episode serves as a reminder that choosing the right visualisation method can significantly impact how effectively data tells its story.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisodes discussing multiple award winners and repeat champions in sports\nPrevious episodes on data visualisation techniques in sports analytics\n\n\n\n\n\n\n⬅️ Episode 10\n\n\n➡️ Episode 12"
+    "text": "Discussion\nThis episode demonstrates how simple descriptive statistics can reveal patterns in subjective voting that might otherwise go unnoticed. By examining SPOTY data through the lens of total placements, sport categories, and geographic distribution, Jess and Rich uncover systematic biases in how the British public values different sporting achievements. The finding that motorsport dominates the two-time winners list, while team sport athletes and those from athletics struggle to convert nominations into wins, raises important questions about how we collectively evaluate sporting excellence.\nThe discussion also touches on a broader theme in sports analytics: the challenge of comparing achievements across fundamentally different sports. How do you weigh a Davis Cup tennis victory against a World Championship won months after childbirth? The SPOTY voting system essentially crowdsources this impossible comparison, but the resulting patterns suggest that some sports benefit from greater visibility and individual narratives rather than pure athletic achievement.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 1: Introduction to the Corridor of Uncertainty\n\n\n\n\n\n\n⬅️ Episode 1\n\n\n➡️ Episode 3"
+  },
+  {
+    "objectID": "episodes/episode-006.html",
+    "href": "episodes/episode-006.html",
+    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "section": "",
+    "text": "Published: 10 February 2026\nDuration: 31:16\nYouTube: Watch here\n\n\nTopics Covered: Curling, Winter Olympics 2026, Strategic Scoring, World Championship Analysis"
+  },
+  {
+    "objectID": "episodes/episode-006.html#video",
+    "href": "episodes/episode-006.html#video",
+    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/episode-006.html#overview",
+    "href": "episodes/episode-006.html#overview",
+    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "section": "Overview",
+    "text": "Overview\nIn this episode, Rich and Jess dive into the fascinating world of curling ahead of the Winter Olympics 2026, exploring why they consider it “the best sport” and breaking down its unique scoring mechanics. Using data from World Championship competitions, they analyse which nations dominate the sport and examine the strategic importance of the “hammer” - the crucial last stone advantage. The episode combines an introduction to curling’s rules with statistical analysis of 336 games across four championships.\n\nTimestamps:\n\n[00:00] Introduction and Winter Olympics preview\n[00:17] Welcome and podcast introduction\n[00:34] Why curling is “the best sport”\n[01:22] Curling basics explained\n[02:14] Scoring system and the “house”\n[03:07] Comparison to bowls and other target sports\n\nReferences:\n\nCurl It (curling statistics website)\nWorld Curling Federation results"
+  },
+  {
+    "objectID": "episodes/episode-006.html#key-concepts",
+    "href": "episodes/episode-006.html#key-concepts",
+    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTipThe Hammer Advantage\n\n\n\nIn curling, the team that throws the final stone (the “hammer”) has a significant strategic advantage, as they can guarantee at least one point by placing their stone closest to the centre. Teams often deliberately “blank” ends (score zero) to retain the hammer for crucial later ends, creating a fascinating tactical dynamic around when to score and when to preserve this advantage.\n\n\n\n\n\n\n\n\nTipCumulative Scoring System\n\n\n\nUnlike many sports with fixed point values, curling uses a proximity-based scoring system where only the team closest to the centre scores, and they continue accumulating points for each consecutive stone closer than any opponent’s stone. This creates strategic scenarios where forcing your opponent to score just one point (a “steal”) can be advantageous.\n\n\n\n\n\n\n\n\nTipRound Robin Tournament Analysis\n\n\n\nThe episode analyses 336 games (84 per championship) from the 2024-25 World Championships, using round robin results to fairly compare team performance across the 13 competing nations while excluding knockout stages where not all teams participate equally."
+  },
+  {
+    "objectID": "episodes/episode-006.html#resources-references",
+    "href": "episodes/episode-006.html#resources-references",
+    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "section": "Resources & References",
+    "text": "Resources & References\n\nCurl It - Curling statistics database\nWorld Curling Federation\nWinter Olympics 2026"
+  },
+  {
+    "objectID": "episodes/episode-006.html#transcript-highlights",
+    "href": "episodes/episode-006.html#transcript-highlights",
+    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“People refer to it as chess on ice because it’s so strategic… it’s like chess on ice except for the fact that putting the pieces on the board was actually also really hard.”\n\nRich captures the dual challenge of curling perfectly - it combines the strategic depth of chess with the physical precision of darts, where executing your strategy is as difficult as formulating it.\n\n\n“If you score using the hammer, you give it up for the next go. So that dynamic of keeping and if you don’t score, if there’s no score on the end, what’s called a blank end, then you keep the hammer for the next go.”\n\nThis explains the counterintuitive tactical element where teams sometimes deliberately avoid scoring to maintain strategic advantage for later ends.\n\n\n“It’s the only sport where you can impact what happens to it when it’s left your hand.”\n\nJess highlights curling’s unique characteristic - the sweeping mechanism that allows players to influence the stone’s trajectory after release."
+  },
+  {
+    "objectID": "episodes/episode-006.html#discussion",
+    "href": "episodes/episode-006.html#discussion",
+    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "section": "Discussion",
+    "text": "Discussion\nCurling represents a fascinating case study in sports analytics because it combines deterministic strategy (like chess) with stochastic execution (like darts or golf). The hammer advantage creates a game-theoretic element where the optimal strategy isn’t always to maximise immediate points - sometimes blanking an end provides greater expected value for the match outcome. This mirrors concepts in baseball analytics around “playing for one run” versus “playing for a big inning.”\nThe dominance of nations like Canada and Switzerland in the World Championship data raises interesting questions about the development pathways and infrastructure that create curling powerhouses. The episode’s analysis of 336 games provides a solid foundation for understanding team performance, though future episodes might explore individual shot success rates or the impact of specific tactical decisions on win probability.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 5 - Previous episode on sports strategy\n\n\n\n\n\n\n⬅️ Episode 5\n\n\n➡️ Episode 7"
+  },
+  {
+    "objectID": "episodes/episode-008.html",
+    "href": "episodes/episode-008.html",
+    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
+    "section": "",
+    "text": "Published: 10 March 2026\nDuration: 41:52\nYouTube: Watch here\n\n\nTopics Covered: Curling, Winter Olympics 2026, Last Stone Advantage, Match Statistics"
+  },
+  {
+    "objectID": "episodes/episode-008.html#video",
+    "href": "episodes/episode-008.html#video",
+    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/episode-008.html#overview",
+    "href": "episodes/episode-008.html#overview",
+    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
+    "section": "Overview",
+    "text": "Overview\nJess and Rich dive into the data behind Team GB’s silver medal performance in the men’s curling at the 2026 Winter Olympics. They examine the crucial role of the “last stone first end” advantage, analyse the final against Canada, and explore whether controversial rule-breaking by the Canadian team can be detected in the statistics. The episode combines match-by-match analysis with broader patterns from the entire Olympic competition.\n\nTimestamps:\n\n[00:00] Introduction and Winter Olympics recap\n[00:48] Discussion of GB men’s and women’s curling results\n[01:08] The Canada controversy and rule-breaking discussion\n[02:52] Quick recap of curling rules and scoring\n[03:36] Analysing the GB vs Canada final scoreline\n[04:30] Last Stone First End (LSFE) analysis across the tournament\n\nReferences:\n\nPrevious Corridor of Uncertainty curling episode (referenced for rules explanation)\nOfficial curling rulebook (spirit of the game discussion)"
+  },
+  {
+    "objectID": "episodes/episode-008.html#key-concepts",
+    "href": "episodes/episode-008.html#key-concepts",
+    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTipLast Stone First End (LSFE)\n\n\n\nThe team that throws the final stone in the first end gains a significant strategic advantage, determined by winning the “draw shot challenge” (getting closest to the centre). Analysis of the Olympic data shows that over 60% of matches were won by the team with last stone first end, though this may partly reflect that better teams tend to win the challenge.\n\n\n\n\n\n\n\n\nTipBlanking the End\n\n\n\nA strategic decision where a team deliberately ensures no stones remain in the house so that nobody scores, allowing them to retain the hammer (last stone) for the next end. This tactic reflects the trade-off between scoring immediately and preserving positional advantage for later, more crucial ends.\n\n\n\n\n\n\n\n\nTipThe Hammer in the Final End\n\n\n\nConventional curling wisdom suggests you want the last stone in the final end to control the outcome. However, analysis shows only about 40% of matches are won by the team with the hammer in the final end—partly because by that point, the match outcome may already be decided."
+  },
+  {
+    "objectID": "episodes/episode-008.html#resources-references",
+    "href": "episodes/episode-008.html#resources-references",
+    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
+    "section": "Resources & References",
+    "text": "Resources & References\n\nPrevious curling episode of Corridor of Uncertainty\n2026 Winter Olympics men’s curling statistics\nWorld Curling Federation rulebook"
+  },
+  {
+    "objectID": "episodes/episode-008.html#transcript-highlights",
+    "href": "episodes/episode-008.html#transcript-highlights",
+    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“The first page of it is basically like you shouldn’t need the rules of curling. You shouldn’t need referees. It’s a friendly sport.”\n\nRich explains the unique spirit of curling, where sportsmanship is embedded in the game’s culture—making the Canadian controversy particularly jarring to purists.\n\n\n“One of the things that always annoys me when a team acts in a certain way that’s not very sporting and then wins, there’s always this post hoc rationalization of ‘that’s how you need to be to be a winner.’ But I don’t think you do.”\n\nJess challenges the narrative that unsporting behaviour is necessary for success, questioning whether rule-breaking actually provided a meaningful advantage.\n\n\n“So over 60%. That is though just because the team that has the last stone at the first end is probably the better team because they are better at doing the shots that they need to do.”\n\nRich highlights the challenge of interpreting sports statistics: correlation between LSFE and winning may reflect underlying skill differences rather than pure strategic advantage."
+  },
+  {
+    "objectID": "episodes/episode-008.html#discussion",
+    "href": "episodes/episode-008.html#discussion",
+    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
+    "section": "Discussion",
+    "text": "Discussion\nThis episode showcases how sports analytics can both illuminate and complicate our understanding of match outcomes. The analysis of last stone advantage demonstrates a classic problem in sports statistics: separating the effect of a tactical variable from the confounding influence of team quality. Better teams win the draw shot challenge and win more matches, but is it the challenge victory or their superior skill that drives success?\nThe discussion also touches on the ethics of sports analytics, particularly whether statistical evidence can detect rule-breaking. This connects to broader debates in sports about fair play, the role of officials, and whether “gaming the rules” should be distinguished from outright cheating. Curling’s self-policing tradition makes it a fascinating case study for how different sports cultures approach integrity and competition.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nPrevious curling episode covering accuracy statistics and basic rules\nEpisode exploring game theory concepts in sport\n\n\n\n\n\n\n⬅️ Episode 7\n\n\n➡️ Episode 9"
   },
   {
     "objectID": "episodes/episode-007.html",
@@ -140,111 +210,6 @@
     "text": "Discussion\nThis episode effectively illustrates the democratisation of football analytics across the pyramid. While Manchester City employs PhD-level researchers and accesses sophisticated tracking data, even National League clubs like York City now pay for data services and employ analysts. This creates a fascinating ecosystem where the fundamental mathematical principles remain consistent—normalisation, comparison metrics, event coding—but the depth and complexity scales with resources.\nThe discussion of media coverage is particularly insightful. When BBC Sport and the Premier League website routinely cite per-90 statistics and use data visualisations like position heat maps, it demonstrates how sports analytics has moved from niche academic interest to mainstream literacy. However, the hosts rightly caution about “bad stats”—the tendency to cherry-pick data to support pre-existing narratives rather than letting analysis drive conclusions.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 5: January Transfers - The episode that sparked this investigation, discussing transfer window analysis\n\n\n\n\n\n\n⬅️ Episode 6\n\n\n➡️ Episode 8"
   },
   {
-    "objectID": "episodes/episode-004.html",
-    "href": "episodes/episode-004.html",
-    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
-    "section": "",
-    "text": "Published: 13 January 2026\nDuration: 29:15\nYouTube: Watch here\n\n\nTopics Covered: Basketball, Buzzer Beaters, Randomness in Sport, Win Probability, NBA Statistics"
-  },
-  {
-    "objectID": "episodes/episode-004.html#video",
-    "href": "episodes/episode-004.html#video",
-    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
-    "section": "Video",
-    "text": "Video"
-  },
-  {
-    "objectID": "episodes/episode-004.html#overview",
-    "href": "episodes/episode-004.html#overview",
-    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
-    "section": "Overview",
-    "text": "Overview\nRich presents his case for why basketball might be a “bad sport” from a statistical perspective, focusing on the high frequency of scoring events and how often games are decided by the final basket. Using nine seasons of NBA data (over 10,700 games), he explores whether the prevalence of last-minute turnarounds suggests an element of randomness in determining winners. Jess pushes back with insights about strategic clock management and the skill involved in controlling those crucial final seconds.\n\nTimestamps:\n\n[00:10] Introduction and episode overview\n[00:31] Rich introduces his controversial thesis on basketball\n[01:24] The buzzer beater problem explained\n[02:16] Indiana Pacers 2024-25 season as inspiration\n[02:41] Win probability graphs and how they’re calculated\n[03:24] Data methodology: hoopR package and 9 seasons of NBA data\n\nReferences:\n\nhoopR package for R (basketball data analysis)\nIndiana Pacers 2024-25 season\nMichael Jordan’s “The Shot”"
-  },
-  {
-    "objectID": "episodes/episode-004.html#key-concepts",
-    "href": "episodes/episode-004.html#key-concepts",
-    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
-    "section": "Key Concepts",
-    "text": "Key Concepts\n\n\n\n\n\n\nTipScoring Frequency and Game Outcomes\n\n\n\nIn NBA basketball, teams combined score an average of 116 times per game, yet 10% of games are decided by the final scoring event. This raises philosophical questions about whether basketball truly tests which team can dominate over a full game, or whether timing and the final possession matter disproportionately.\n\n\n\n\n\n\n\n\nTipWin Probability Models\n\n\n\nSports broadcasts often display real-time win probabilities (e.g., “99.7% loss probability”), but the methodology behind these calculations is rarely transparent. While used to emphasise dramatic moments, these models raise questions about how we quantify uncertainty in live sporting events.\n\n\n\n\n\n\n\n\nTipOptimal Randomness in Sport\n\n\n\nThe episode explores the philosophical question of how much randomness is desirable in sport. Too little randomness (like chess) means the better player always wins, removing excitement. Too much randomness undermines the contest as a test of skill. Basketball’s high scoring frequency may push it towards more randomness than other sports."
-  },
-  {
-    "objectID": "episodes/episode-004.html#resources-references",
-    "href": "episodes/episode-004.html#resources-references",
-    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
-    "section": "Resources & References",
-    "text": "Resources & References\n\nhoopR: R package for NBA data analysis\nNBA regular season data (2016-17 to 2024-25 seasons)\n10,740 games analysed (excluding postseason and in-season tournaments)"
-  },
-  {
-    "objectID": "episodes/episode-004.html#transcript-highlights",
-    "href": "episodes/episode-004.html#transcript-highlights",
-    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
-    "section": "Transcript Highlights",
-    "text": "Transcript Highlights\n\n“So is the sport of basketball a test of one team’s ability to score more points and to dominate in a game, or is it about timing?”\n\nRich poses the central philosophical question of the episode, challenging whether basketball’s high-scoring nature undermines its function as a fair test of team quality.\n\n\n“It had never really occurred to me that it was random… I was like no, Leeds United are the best team in the world and they play the game and the right person wins.”\n\nJess reflects on how sports fans often overlook the role of chance, assuming outcomes are determined purely by skill until they start examining the mathematics more closely.\n\n\n“You want to have some level of uncertainty because if the best wins all the time then what’s the point?”\n\nThe hosts discuss the paradox that some randomness makes sport exciting, comparing it to board games where complete skill dominance (like chess) might actually reduce enjoyment."
-  },
-  {
-    "objectID": "episodes/episode-004.html#discussion",
-    "href": "episodes/episode-004.html#discussion",
-    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
-    "section": "Discussion",
-    "text": "Discussion\nThis episode touches on a fundamental tension in sports analytics: the balance between skill and chance in determining outcomes. Rich’s analysis of NBA scoring patterns connects to broader research on competitive balance and what makes sporting contests compelling. The finding that 10% of games are decided by the final scoring event, despite 116 scoring opportunities per game, suggests that basketball’s structure may amplify the importance of clutch moments beyond what we might expect from a purely skill-based contest.\nThe discussion also highlights the importance of transparency in sports statistics. Win probability models have become ubiquitous in sports broadcasting, yet their underlying assumptions and methodologies are rarely explained to viewers. This episode encourages a healthy scepticism about the precision implied by statistics like “99.7% loss probability” while acknowledging that such models can still provide useful frameworks for understanding game dynamics.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 2: Expected Goals in Football - Another exploration of probabilistic models in sport\nFuture episodes may revisit the randomness vs. skill debate in other sports contexts\n\n\n\n\n\n\n⬅️ Episode 3\n\n\n➡️ Episode 5"
-  },
-  {
-    "objectID": "episodes/episode-003.html",
-    "href": "episodes/episode-003.html",
-    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
-    "section": "",
-    "text": "Published: 24 December 2025\nDuration: 47:27\nYouTube: Watch here\n\n\nTopics Covered: Statistic of the Year, Women’s Cricket, Reverse Sweep, MLB Rule Changes"
-  },
-  {
-    "objectID": "episodes/episode-003.html#video",
-    "href": "episodes/episode-003.html#video",
-    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
-    "section": "Video",
-    "text": "Video"
-  },
-  {
-    "objectID": "episodes/episode-003.html#overview",
-    "href": "episodes/episode-003.html#overview",
-    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
-    "section": "Overview",
-    "text": "Overview\nIn this episode, Jess and Rich introduce their own “Sports Statistic of the Year” award, inspired by the Royal Statistical Society’s annual initiative. They explore how a single number can encapsulate an entire year in sport, using the RSS’s 2021 winner (53% of Team GB athletes at Tokyo 2020 being female) as an example. Rich nominates Phoebe Litchfield’s remarkable reverse sweep statistics from the Women’s Hundred, which sparks a broader discussion about defensive shifts in baseball and rule changes that balance statistical optimisation with fan experience.\n\nTimestamps:\n\n[00:17] Introduction and episode concept\n[01:37] Background on the Royal Statistical Society’s Statistic of the Year\n[03:16] RSS 2021 winner: 53% female athletes at Tokyo 2020\n[04:30] Rich’s nomination: Phoebe Litchfield’s reverse sweep statistics\n[08:00] Discussion on MLB’s shift ban and fan experience vs optimal play\n\nReferences:\n\nRoyal Statistical Society - Statistic of the Year\nRoyal Statistical Society Statistics and Sports Section"
-  },
-  {
-    "objectID": "episodes/episode-003.html#key-concepts",
-    "href": "episodes/episode-003.html#key-concepts",
-    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
-    "section": "Key Concepts",
-    "text": "Key Concepts\n\n\n\n\n\n\nTipStatistic as Time Capsule\n\n\n\nThe episode explores the idea that a well-chosen statistic can serve as a “time capsule” for an entire year in sport. Unlike technical statistical distributions, these are single numbers that encapsulate significant moments, trends, or achievements that defined the sporting landscape.\n\n\n\n\n\n\n\n\nTipThe Reverse Sweep and Cross-Sport Skill Transfer\n\n\n\nRich highlights how Phoebe Litchfield averages 47 with a strike rate of 195 when playing the reverse sweep, compared to 41 and 160 batting conventionally. This remarkable statistic demonstrates how skills from one sport (hockey, where all players use right-handed sticks) can transfer to create unusual advantages in another.\n\n\n\n\n\n\n\n\nTipOptimal Defence vs Fan Experience\n\n\n\nThe discussion touches on the tension between statistically optimal play and entertainment value. MLB’s ban on extreme defensive shifts exemplifies how leagues must balance analytical improvements in gameplay with maintaining an engaging spectator experience."
-  },
-  {
-    "objectID": "episodes/episode-003.html#resources-references",
-    "href": "episodes/episode-003.html#resources-references",
-    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
-    "section": "Resources & References",
-    "text": "Resources & References\n\nRoyal Statistical Society Statistic of the Year initiative\nRSS Statistics and Sports Section\nApple TV baseball coverage (mentioned for statistical visualisations)\nThe Women’s Hundred cricket competition"
-  },
-  {
-    "objectID": "episodes/episode-003.html#transcript-highlights",
-    "href": "episodes/episode-003.html#transcript-highlights",
-    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
-    "section": "Transcript Highlights",
-    "text": "Transcript Highlights\n\n“There’s a beautiful skill in terms of taking something like the year of 2025 and representing that in one number.”\n\nJess articulates the core challenge of the Statistic of the Year concept—finding a single number that meaningfully captures the essence of an entire year in sport.\n\n\n“Statistics have made you play the sport better. It’s making your defense better because you understand where they’re going to put the ball… This is actually forcing people to play what we know to be suboptimal defense.”\n\nRich recounts a compelling argument from an MLB pundit about the shift ban, highlighting the philosophical tension between data-driven optimisation and regulatory intervention for entertainment purposes.\n\n\n“She actually averages higher hitting it the wrong way around… she credits it all to her experience as a hockey player.”\n\nRich explains the fascinating cross-sport origin of Phoebe Litchfield’s signature shot, demonstrating how athletic backgrounds can create unexpected statistical advantages."
-  },
-  {
-    "objectID": "episodes/episode-003.html#discussion",
-    "href": "episodes/episode-003.html#discussion",
-    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
-    "section": "Discussion",
-    "text": "Discussion\nThis episode effectively demonstrates how statistics can tell compelling stories about sport beyond simple performance metrics. The discussion of Phoebe Litchfield’s reverse sweep statistics opens up fascinating questions about skill transfer between sports and how unconventional techniques can provide measurable advantages. Her hockey background creating a superior cricket shot challenges traditional notions of sport-specific training.\nThe tangent into MLB’s shift ban represents an important ongoing debate in sports analytics: at what point does statistical optimisation conflict with the entertainment product? As defensive positioning becomes increasingly data-driven across sports, leagues face difficult choices about preserving competitive integrity while maintaining fan engagement. The hosts’ observation that American sports tend to prioritise fan experience in rule-making offers an interesting contrast to traditions in cricket and football, where rules are often treated as more sacrosanct.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 2 likely covered other end-of-year sports topics given the hosts’ comment about two of three episodes being “end of year specials”\n\n\n\n\n\n\n⬅️ Episode 2\n\n\n➡️ Episode 4"
-  },
-  {
-    "objectID": "episodes/index.html",
-    "href": "episodes/index.html",
-    "title": "Episodes",
-    "section": "",
-    "text": "All episodes from The Corridor of Uncertainty — a podcast at the intersection of maths & sport, hosted by Dr Jess Hargreaves & Dr Rich Bingham at the University of York.\n⬅️ Back to Corridor Home\n\n\n\n\n\n\n\n\n\n\n\nEpisode 9: Have the Dodgers Broken Moneyball?\n\n\n\nBaseball\n\nMoneyball\n\nSabermetrics\n\nPlayer Recruitment\n\n\n\nExploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage.\n\n\n\nMar 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 8: Curling by Numbers: Why GB Won Silver\n\n\n\nCurling\n\nWinter Olympics\n\nGame Theory\n\nStatistical Analysis\n\n\n\nAnalysing Team GB’s silver medal performance at the 2026 Winter Olympics curling final against Canada through statistics and probability.\n\n\n\nMar 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 7: Why Did Man City Sign Semenyo?\n\n\n\nFootball\n\nPlayer Recruitment\n\nData Analytics\n\nTransfer Market\n\n\n\nExploring how football clubs use data analytics to identify and sign players, with Manchester City’s signing of Antoine Semenyo as a case study.\n\n\n\nFeb 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 6: How to Win at Curling (Using Maths)\n\n\n\nCurling\n\nWinter Olympics\n\nGame Theory\n\nStrategy\n\n\n\nRich and Jess explore the statistical strategies behind curling ahead of the Winter Olympics 2026, analysing World Championship data to understand what makes teams…\n\n\n\nFeb 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 5: Best January Transfer Signings Ever? Can Stats Decide?\n\n\n\nFootball\n\nTransfer Market\n\nPlayer Evaluation\n\nPremier League\n\n\n\nRich and Jess debate whether statistics can determine the greatest Premier League January transfer signing of all time.\n\n\n\nJan 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?\n\n\n\nBasketball\n\nRandomness\n\nNBA\n\nWin Probability\n\nGame Theory\n\n\n\nRich attempts to statistically prove why basketball is a bad sport by analysing buzzer beaters, scoring frequency, and the role of randomness in determining game outcomes.\n\n\n\nJan 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 3: The CoU Sports Statistic of the Year 2025\n\n\n\nCricket\n\nStatistics\n\nWomen's Sport\n\nRule Changes\n\n\n\nJess and Rich debate their nominations for the inaugural Corridor of Uncertainty Sports Statistic of the Year, inspired by the Royal Statistical Society’s annual tradition.\n\n\n\nDec 2025\n\n\n\n\n\n\n\n\n\n\nEpisode 2: Sports Personality of the Year - Can we use stats to rank sports?\n\n\n\nSports Awards\n\nData Visualisation\n\nVoting Systems\n\nTennis\n\nFormula One\n\n\n\nJess quizzes Rich on Sports Personality of the Year history while exploring the data behind the UK’s most prestigious sports award.\n\n\n\nDec 2025\n\n\n\n\n\n\n\n\n\n\nBonus Episode 1: Which Sports Win BBC Sports Personality of the Year the Most?\n\n\n\nData Visualisation\n\nAwards\n\nBBC SPOTY\n\nStatistics\n\n\n\nExploring the distribution of BBC Sports Personality of the Year winners across different sports using tree diagrams as an alternative to pie charts.\n\n\n\nDec 2025\n\n\n\n\n\n\n\n\n\n\nEpisode 1: The SPLit — How fair is Scottish Football?\n\n\n\nFootball\n\nScottish Premier League\n\nStatistics\n\n\n\nHow fair is Scottish football? We talk about the Split format in the Scottish Premier League, including some of the unintended consequences.\n\n\n\nDec 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "episodes/episode-009.html",
     "href": "episodes/episode-009.html",
     "title": "Episode 9: Have the Dodgers Broken Moneyball?",
@@ -292,62 +257,6 @@
     "title": "Episode 9: Have the Dodgers Broken Moneyball?",
     "section": "Discussion",
     "text": "Discussion\nThis episode touches on one of the most influential developments in modern sports analytics. The Moneyball revolution, while specific to baseball, established a template that has since spread across virtually every professional sport. The core insight—that market inefficiencies exist in player valuation and can be exploited through careful analysis—has transformed how teams approach recruitment, from football’s expected goals metrics to basketball’s three-point revolution.\nWhat makes this episode particularly relevant is its focus on the constraints that drove innovation. The Oakland Athletics didn’t adopt analytics because they were more forward-thinking; they did it because financial necessity forced them to find edges elsewhere. This pattern continues today across sports, where smaller clubs often lead analytical innovation while wealthy teams can afford to buy proven talent. The question posed in the title—have the Dodgers broken Moneyball?—hints at what happens when the largest-market teams combine both financial and analytical advantages.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode discussing curling analytics (mentioned as comparison for rules explanation format)\nFuture episodes on football analytics and the challenges of measuring player contributions in fluid sports\n\n\n\n\n\n\n⬅️ Episode 6\n\n\n➡️ Episode 8"
-  },
-  {
-    "objectID": "upcoming.html",
-    "href": "upcoming.html",
-    "title": "Upcoming Episodes",
-    "section": "",
-    "text": "Keep an eye on the YouTube channel for the latest releases.\n\nComing Soon\n\n\n\nEpisode 7 TBD\n\n\n[Title to be announced]\n\n\nDetails coming soon — subscribe on YouTube to be notified when the next episode drops.\n\n\n\n⬅️ Back to Corridor Home"
-  },
-  {
-    "objectID": "episodes/episode-008.html",
-    "href": "episodes/episode-008.html",
-    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
-    "section": "",
-    "text": "Published: 10 March 2026\nDuration: 41:52\nYouTube: Watch here\n\n\nTopics Covered: Curling, Winter Olympics 2026, Last Stone Advantage, Match Statistics"
-  },
-  {
-    "objectID": "episodes/episode-008.html#video",
-    "href": "episodes/episode-008.html#video",
-    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
-    "section": "Video",
-    "text": "Video"
-  },
-  {
-    "objectID": "episodes/episode-008.html#overview",
-    "href": "episodes/episode-008.html#overview",
-    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
-    "section": "Overview",
-    "text": "Overview\nJess and Rich dive into the data behind Team GB’s silver medal performance in the men’s curling at the 2026 Winter Olympics. They examine the crucial role of the “last stone first end” advantage, analyse the final against Canada, and explore whether controversial rule-breaking by the Canadian team can be detected in the statistics. The episode combines match-by-match analysis with broader patterns from the entire Olympic competition.\n\nTimestamps:\n\n[00:00] Introduction and Winter Olympics recap\n[00:48] Discussion of GB men’s and women’s curling results\n[01:08] The Canada controversy and rule-breaking discussion\n[02:52] Quick recap of curling rules and scoring\n[03:36] Analysing the GB vs Canada final scoreline\n[04:30] Last Stone First End (LSFE) analysis across the tournament\n\nReferences:\n\nPrevious Corridor of Uncertainty curling episode (referenced for rules explanation)\nOfficial curling rulebook (spirit of the game discussion)"
-  },
-  {
-    "objectID": "episodes/episode-008.html#key-concepts",
-    "href": "episodes/episode-008.html#key-concepts",
-    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
-    "section": "Key Concepts",
-    "text": "Key Concepts\n\n\n\n\n\n\nTipLast Stone First End (LSFE)\n\n\n\nThe team that throws the final stone in the first end gains a significant strategic advantage, determined by winning the “draw shot challenge” (getting closest to the centre). Analysis of the Olympic data shows that over 60% of matches were won by the team with last stone first end, though this may partly reflect that better teams tend to win the challenge.\n\n\n\n\n\n\n\n\nTipBlanking the End\n\n\n\nA strategic decision where a team deliberately ensures no stones remain in the house so that nobody scores, allowing them to retain the hammer (last stone) for the next end. This tactic reflects the trade-off between scoring immediately and preserving positional advantage for later, more crucial ends.\n\n\n\n\n\n\n\n\nTipThe Hammer in the Final End\n\n\n\nConventional curling wisdom suggests you want the last stone in the final end to control the outcome. However, analysis shows only about 40% of matches are won by the team with the hammer in the final end—partly because by that point, the match outcome may already be decided."
-  },
-  {
-    "objectID": "episodes/episode-008.html#resources-references",
-    "href": "episodes/episode-008.html#resources-references",
-    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
-    "section": "Resources & References",
-    "text": "Resources & References\n\nPrevious curling episode of Corridor of Uncertainty\n2026 Winter Olympics men’s curling statistics\nWorld Curling Federation rulebook"
-  },
-  {
-    "objectID": "episodes/episode-008.html#transcript-highlights",
-    "href": "episodes/episode-008.html#transcript-highlights",
-    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
-    "section": "Transcript Highlights",
-    "text": "Transcript Highlights\n\n“The first page of it is basically like you shouldn’t need the rules of curling. You shouldn’t need referees. It’s a friendly sport.”\n\nRich explains the unique spirit of curling, where sportsmanship is embedded in the game’s culture—making the Canadian controversy particularly jarring to purists.\n\n\n“One of the things that always annoys me when a team acts in a certain way that’s not very sporting and then wins, there’s always this post hoc rationalization of ‘that’s how you need to be to be a winner.’ But I don’t think you do.”\n\nJess challenges the narrative that unsporting behaviour is necessary for success, questioning whether rule-breaking actually provided a meaningful advantage.\n\n\n“So over 60%. That is though just because the team that has the last stone at the first end is probably the better team because they are better at doing the shots that they need to do.”\n\nRich highlights the challenge of interpreting sports statistics: correlation between LSFE and winning may reflect underlying skill differences rather than pure strategic advantage."
-  },
-  {
-    "objectID": "episodes/episode-008.html#discussion",
-    "href": "episodes/episode-008.html#discussion",
-    "title": "Episode 8: Curling by Numbers: Why GB Won Silver",
-    "section": "Discussion",
-    "text": "Discussion\nThis episode showcases how sports analytics can both illuminate and complicate our understanding of match outcomes. The analysis of last stone advantage demonstrates a classic problem in sports statistics: separating the effect of a tactical variable from the confounding influence of team quality. Better teams win the draw shot challenge and win more matches, but is it the challenge victory or their superior skill that drives success?\nThe discussion also touches on the ethics of sports analytics, particularly whether statistical evidence can detect rule-breaking. This connects to broader debates in sports about fair play, the role of officials, and whether “gaming the rules” should be distinguished from outright cheating. Curling’s self-policing tradition makes it a fascinating case study for how different sports cultures approach integrity and competition.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nPrevious curling episode covering accuracy statistics and basic rules\nEpisode exploring game theory concepts in sport\n\n\n\n\n\n\n⬅️ Episode 7\n\n\n➡️ Episode 9"
   },
   {
     "objectID": "episodes/episode-bonus-001.html",
@@ -424,7 +333,7 @@
     "href": "episodes/episode-002.html#key-concepts",
     "title": "Episode 2: Sports Personality of the Year - Can we use stats to rank sports?",
     "section": "Key Concepts",
-    "text": "Key Concepts\n\n\n\n\n\n\nTipCounting Placements vs Wins\n\n\n\nThe episode introduces the idea of ranking athletes by total podium placements rather than just wins—similar to how Olympic medal tables count total medals. This reveals athletes like Jessica Ennis-Hill who consistently placed highly (one second, three thirds) but never won the award.\n\n\n\n\n\n\n\n\nTipNested Tree Diagrams for Categorical Data\n\n\n\nJess presents a nested tree diagram showing SPOTY winners by UK nation and then sport within each nation. This visualisation technique reveals that Scotland, Wales, and Northern Ireland show greater diversity across sports compared to England, despite having fewer total winners.\n\n\n\n\n\n\n\n\nTipSport Popularity Bias in Voting\n\n\n\nThe discussion highlights how individual sports like tennis and Formula One consistently outperform team sports in public voting, with three of the four two-time winners being F1 drivers. This suggests systematic biases in how the public perceives and votes for sporting achievement."
+    "text": "Key Concepts\n\n\n\n\n\n\nTipCounting Placements vs Wins\n\n\n\nThe episode introduces the idea of ranking athletes by total podium placements rather than just wins — similar to how Olympic medal tables count total medals. This reveals athletes like Jessica Ennis-Hill who consistently placed highly (one second, three thirds) but never won the award.\n\n\n\n\n\n\n\n\nTipNested Tree Diagrams for Categorical Data\n\n\n\nJess presents a nested tree diagram showing SPOTY winners by UK nation and then sport within each nation. This visualisation technique reveals that Scotland, Wales, and Northern Ireland show greater diversity across sports compared to England, despite having fewer total winners.\n\n\n\n\n\n\n\n\nTipSport Popularity Bias in Voting\n\n\n\nThe discussion highlights how individual sports like tennis and Formula One consistently outperform team sports in public voting, with three of the four two-time winners being F1 drivers. This suggests systematic biases in how the public perceives and votes for sporting achievement.\n\n\n\n\n\n\n\n\nTipZ-Score Normalisation for Cross-Sport Comparison\n\n\n\nOne principled response to the challenge of comparing athletes across different sports is to standardise each athlete’s performance metric within their sport — computing a z-score as the number of standard deviations above the mean of all competitors in that discipline. This removes the effect of sport-specific scale and variance, placing, say, a batting average and a goals-per-game ratio on a common footing. The figure below illustrates just how extreme Don Bradman’s Test batting average of 99.94 is relative to all other batters who have scored 2,000 or more runs — a visual demonstration of what a 4.4 SD outlier looks like in practice.\n\n\n\nDistribution of Test batting averages for all cricketers with 2,000 or more runs. Bradman’s average of 99.94 sits far to the right of the bulk of the distribution, isolated from the next-highest scorers."
   },
   {
     "objectID": "episodes/episode-002.html#resources-references",
@@ -445,7 +354,364 @@
     "href": "episodes/episode-002.html#discussion",
     "title": "Episode 2: Sports Personality of the Year - Can we use stats to rank sports?",
     "section": "Discussion",
-    "text": "Discussion\nThis episode demonstrates how simple descriptive statistics can reveal patterns in subjective voting that might otherwise go unnoticed. By examining SPOTY data through the lens of total placements, sport categories, and geographic distribution, Jess and Rich uncover systematic biases in how the British public values different sporting achievements. The finding that motorsport dominates the two-time winners list, while team sport athletes and those from athletics struggle to convert nominations into wins, raises important questions about how we collectively evaluate sporting excellence.\nThe discussion also touches on a broader theme in sports analytics: the challenge of comparing achievements across fundamentally different sports. How do you weigh a Davis Cup tennis victory against a World Championship won months after childbirth? The SPOTY voting system essentially crowdsources this impossible comparison, but the resulting patterns suggest that some sports benefit from greater visibility and individual narratives rather than pure athletic achievement.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 1: Introduction to the Corridor of Uncertainty\n\n\n\n\n\n\n⬅️ Episode 1\n\n\n➡️ Episode 3"
+    "text": "Discussion\nThis episode demonstrates how simple descriptive statistics can reveal patterns in subjective voting that might otherwise go unnoticed. By examining SPOTY data through the lens of total placements, sport categories, and geographic distribution, Jess and Rich uncover systematic biases in how the British public values different sporting achievements. The finding that motorsport dominates the two-time winners list, while team sport athletes and those from athletics struggle to convert nominations into wins, raises important questions about how we collectively evaluate sporting excellence.\nThe discussion also touches on a broader theme in sports analytics: the challenge of comparing achievements across fundamentally different sports. How do you weigh a Davis Cup tennis victory against a World Championship won months after childbirth? The SPOTY voting system essentially crowdsources this impossible comparison, but the resulting patterns suggest that some sports benefit from greater visibility and individual narratives rather than pure athletic achievement.\nThe z-score framework offers one objective answer to this question. The boxplot below shows the distribution of standardised performance scores across seven sports, with labelled outliers identifying the athletes whose dominance is most statistically extraordinary relative to their peers. Bradman’s z-score of 6.4 in cricket dwarfs all others — roughly two standard deviations above the next most dominant athlete across any sport in the comparison.\n\n\n\nZ-scores (standard deviations from sport mean) for record-holding athletes across seven sports. Each box summarises the distribution for all athletes in that sport; labelled points are notable outliers. Bradman’s score of approximately 6.4 in cricket is the most extreme value across all disciplines.\n\n\nThe table below ranks the top five athletes by this standardised metric across sports, reinforcing Bradman’s exceptional status while also highlighting how Pelé, Ty Cobb, Jack Nicklaus, and Michael Jordan stand out within their respective disciplines.\n\n\n\nTable of the top five athletes ranked by standard deviations above the mean within their sport, showing Bradman (4.4 SD, cricket) ahead of Pelé (3.7, football), Ty Cobb (3.6, baseball), Jack Nicklaus (3.5, golf), and Michael Jordan (3.4, basketball).\n\n\nWhether this kind of analysis should inform something like SPOTY voting is a different and murkier question — public awards blend statistical achievement with narrative, timing, and national sentiment in ways that a z-score cannot capture. But it at least provides a principled baseline against which the subjectivity of the vote can be measured.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 1: The SPLit — How fair is Scottish Football?\n\n\n\n\n\n\n⬅️ Episode 1\n\n\n➡️ Episode 3"
+  },
+  {
+    "objectID": "episodes/episode-011.html",
+    "href": "episodes/episode-011.html",
+    "title": "Episode 11: The Pythagorean Theorem of Baseball",
+    "section": "",
+    "text": "Published: 2026-03-31\nDuration: 12:16\nYouTube: Watch here\n\n\nTopics Covered: Baseball, Sabermetrics, Pythagorean Expectation, Linear Regression, Win Percentage Prediction"
+  },
+  {
+    "objectID": "episodes/episode-011.html#video",
+    "href": "episodes/episode-011.html#video",
+    "title": "Episode 11: The Pythagorean Theorem of Baseball",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/episode-011.html#overview",
+    "href": "episodes/episode-011.html#overview",
+    "title": "Episode 11: The Pythagorean Theorem of Baseball",
+    "section": "Overview",
+    "text": "Overview\nJess introduces Rich to Bill James’s Pythagorean theorem of baseball—a beautifully simple formula that estimates a team’s winning percentage using runs scored and runs allowed, often more accurately than their actual win-loss record. The episode explores why this counterintuitive metric works, with Jess conducting original analysis on MLB data from 2003-2025 to optimise the exponent (finding 1.8 rather than the traditional 2). The discussion culminates in examining the 2024 New York Mets’ season as a case study, demonstrating how the formula revealed their true performance level.\n\nTimestamps:\n\n[00:09] Introduction to the Pythagorean theorem of baseball\n[01:06] Explanation of the formula and its counterintuitive nature\n[02:22] Why it’s called “Pythagorean” - the elegant squared terms\n[03:09] Original analysis: optimising the exponent using 2003-2025 data\n[04:30] Case study: the 2024 New York Mets season analysis\n[07:15] Stanley Rothman’s linear alternative formula\n\nReferences:\n\nBill James - creator of the Pythagorean theorem of baseball\nStanley Rothman - linear regression alternative (1998-2013 data)\nESPN - data source for MLB statistics"
+  },
+  {
+    "objectID": "episodes/episode-011.html#key-concepts",
+    "href": "episodes/episode-011.html#key-concepts",
+    "title": "Episode 11: The Pythagorean Theorem of Baseball",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTipPythagorean Expectation\n\n\n\nBill James’s formula estimates winning percentage as runs scored squared divided by (runs scored squared plus runs allowed squared). This metric often predicts end-of-season performance better than actual current win percentage, as it smooths out variance from close games and “scheduled losses” where teams rest key players.\n\n\n\n\n\n\n\n\nTipExponent Optimisation\n\n\n\nWhile the original formula uses 2 as the exponent for its mathematical elegance, Jess’s analysis of 2003-2025 MLB data found that 1.8 minimises prediction error. This demonstrates the classic trade-off between model simplicity and accuracy that appears throughout sports analytics.\n\n\n\n\n\n\n\n\nTipLinear Alternative (Rothman Formula)\n\n\n\nStanley Rothman proposed a simpler approach using run differential in a linear model: win% = 0.5 + (coefficient × run difference). This moves away from the Pythagorean form entirely, with the 0.5 intercept reflecting that wins and losses must balance across the league."
+  },
+  {
+    "objectID": "episodes/episode-011.html#resources-references",
+    "href": "episodes/episode-011.html#resources-references",
+    "title": "Episode 11: The Pythagorean Theorem of Baseball",
+    "section": "Resources & References",
+    "text": "Resources & References\n\nBill James’s original sabermetric work on Pythagorean expectation\nESPN MLB statistics database\nStanley Rothman’s linear regression research (1998-2013)"
+  },
+  {
+    "objectID": "episodes/episode-011.html#transcript-highlights",
+    "href": "episodes/episode-011.html#transcript-highlights",
+    "title": "Episode 11: The Pythagorean Theorem of Baseball",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“This happens a lot in maths where there’s a beautiful simplicity in the equation. And then as mathematicians, we’re like, ‘Well, that must be the answer because it’s just so elegant, right?’”\n\nJess captures the appeal of the Pythagorean formula—its mathematical beauty mirrors the original theorem while providing genuine predictive power.\n\n\n“The stats proved that the Mets were better than the second half of the season looked, but not as good as the first half of the season looked.”\n\nThis perfectly summarises how Pythagorean expectation cuts through the noise of win-loss records to reveal a team’s true performance level.\n\n\n“All runs are equal, but some are more equal than others.”\n\nRich’s Orwellian quip highlights a key limitation—the formula treats all runs equally, but context matters (garbage time, blowouts vs close games)."
+  },
+  {
+    "objectID": "episodes/episode-011.html#discussion",
+    "href": "episodes/episode-011.html#discussion",
+    "title": "Episode 11: The Pythagorean Theorem of Baseball",
+    "section": "Discussion",
+    "text": "Discussion\nThe Pythagorean theorem of baseball exemplifies a recurring theme in sports analytics: simple, elegant models often outperform intuition. Just as we saw with expected goals in football or plus-minus in basketball, looking beyond the headline result (wins) to the underlying performance indicators (run differential) provides better predictions. The formula’s success stems from regression to the mean—teams that significantly over- or underperform their Pythagorean expectation tend to move back toward it.\nThe episode also demonstrates the iterative nature of analytics work. Bill James proposed the elegant squared version, later analysts found 1.83 worked better empirically, and Rothman abandoned the Pythagorean form entirely for a linear model. Each refinement sacrifices some elegance for accuracy—a trade-off every analyst must navigate. The Mets case study beautifully illustrates practical applications: identifying when a team is “playing over their head” or “due for positive regression” has obvious implications for betting markets, trade deadline decisions, and fan expectations.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nPrevious discussions of Bill James and Moneyball\nEpisodes covering expected metrics in other sports\n\n\n\n\n\n\n⬅️ Episode 10\n\n\n➡️ Episode 12"
+  },
+  {
+    "objectID": "episodes/old-episode-001.html",
+    "href": "episodes/old-episode-001.html",
+    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
+    "section": "",
+    "text": "Published: 2025-12-09\nDuration: 37:31\nYouTube: Watch here\n\n\nTopics Covered: Football, Scottish Premier League, Statistics"
+  },
+  {
+    "objectID": "episodes/old-episode-001.html#video",
+    "href": "episodes/old-episode-001.html#video",
+    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/old-episode-001.html#overview",
+    "href": "episodes/old-episode-001.html#overview",
+    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
+    "section": "Overview",
+    "text": "Overview\nWelcome to the Corridor of Uncertainty, a podcast at the intersection of maths & sport. Hosted by Dr Jess Hargreaves & Dr Rich Bingham, two mathematicians at the University of York.\nHow fair is Scottish football? In this episode we talk about the Split format in the Scottish Premier League, including some of the unintended consequences.\n\nJess’ and Johan’s 6-page paper can be found here:\n\nhttps://eprints.whiterose.ac.uk/id/ep...\nhttps://shiny.york.ac.uk/SPLit/"
+  },
+  {
+    "objectID": "episodes/old-episode-001.html#key-concepts",
+    "href": "episodes/old-episode-001.html#key-concepts",
+    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTip[Key Concept 1]\n\n\n\n[Explanation of the concept]\n\n\n\n\n\n\n\n\nTip[Key Concept 2]\n\n\n\n[Explanation of the concept]"
+  },
+  {
+    "objectID": "episodes/old-episode-001.html#interactive-demonstration",
+    "href": "episodes/old-episode-001.html#interactive-demonstration",
+    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
+    "section": "Interactive Demonstration",
+    "text": "Interactive Demonstration\nThis interactive visualisation demonstrates how points are distributed across teams in a typical Scottish Premier League season, illustrating the competitive balance that the split format addresses.\n\n  \n  \n  \n  \n\nThis visualisation shows:\n\nInteractive features: Hover over bars to see exact point values\nColour coding: Teams are colour-coded by points (green = higher, red = lower)\nSplit indicator: The dashed line shows where the league typically splits into top and bottom halves"
+  },
+  {
+    "objectID": "episodes/old-episode-001.html#resources-references",
+    "href": "episodes/old-episode-001.html#resources-references",
+    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
+    "section": "Resources & References",
+    "text": "Resources & References\n\n[Link to paper/article 1]\n[Link to code repository]\n[Link to related resource]"
+  },
+  {
+    "objectID": "episodes/old-episode-001.html#transcript-highlights",
+    "href": "episodes/old-episode-001.html#transcript-highlights",
+    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“[Notable quote from the video]”\n\n[Additional context or explanation]\n\n\n“[Another notable quote]”\n\n[Context]"
+  },
+  {
+    "objectID": "episodes/old-episode-001.html#code-examples",
+    "href": "episodes/old-episode-001.html#code-examples",
+    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
+    "section": "Code Examples",
+    "text": "Code Examples\n\nPythonR\n\n\n# Example code from episode\ndef example_function():\n    pass\n\n\n# R equivalent if applicable\nexample_function &lt;- function() {\n  # code\n}"
+  },
+  {
+    "objectID": "episodes/old-episode-001.html#discussion",
+    "href": "episodes/old-episode-001.html#discussion",
+    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
+    "section": "Discussion",
+    "text": "Discussion\n[Add any additional commentary, extended explanations, or connections to other episodes]\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\n[Episode X: Related Topic](episode-00X.qmd)\n[Episode Y: Follow-up Topic](episode-00Y.qmd)\n\n\n\n\n\n\n⬅️ Back to Episodes\n\n\n➡️ Episode 2"
+  },
+  {
+    "objectID": "episodes/episode-012.html",
+    "href": "episodes/episode-012.html",
+    "title": "Episode 12: How to Predict Premier League Games",
+    "section": "",
+    "text": "Published: 10 April 2026\nDuration: ~15:00\nYouTube: Watch here\n\n\nTopics Covered: Poisson Distribution, Football Prediction, Probability Distributions, Premier League Title Race"
+  },
+  {
+    "objectID": "episodes/episode-012.html#video",
+    "href": "episodes/episode-012.html#video",
+    "title": "Episode 12: How to Predict Premier League Games",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/episode-012.html#overview",
+    "href": "episodes/episode-012.html#overview",
+    "title": "Episode 12: How to Predict Premier League Games",
+    "section": "Overview",
+    "text": "Overview\nWith the Premier League on an international break, Rich takes the opportunity to explore how mathematics can predict the rest of the season — from title winners to relegation candidates. The episode demystifies the “supercomputer predictions” often seen in clickbait articles, revealing that the underlying methods are accessible enough to run on a standard laptop. Rich introduces probability distributions, from the familiar binomial to the Poisson distribution, showing how the latter has been used to model football scores since the 1950s.\n\nTimestamps:\n\n[00:00] Introduction: Can maths predict the Premier League?\n[00:18] Podcast introduction\n[00:49] Debunking “supercomputer” predictions\n[01:31] Betting industry methods discussion\n[02:45] Introduction to probability distributions\n[03:01] Coin tossing and the binomial distribution\n\nReferences:\n\nMaher (1982) — Independent Poisson model for football\nCharles Reep — Pioneer of football statistics\nSiméon Denis Poisson (1781-1840) — Creator of the Poisson distribution"
+  },
+  {
+    "objectID": "episodes/episode-012.html#key-concepts",
+    "href": "episodes/episode-012.html#key-concepts",
+    "title": "Episode 12: How to Predict Premier League Games",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTipProbability Distributions\n\n\n\nA probability distribution assigns a number (probability) to all possible outcomes of a random event. For a coin toss, it’s 50-50; for more complex events like football scores, we need distributions that can handle rates of events occurring over time, such as goals per match.\n\n\n\n\n\n\n\n\nTipThe Poisson Distribution\n\n\n\nThe Poisson distribution models the probability of a given number of events occurring in a fixed interval of time, given a known average rate. It’s ideal for football because goals can be thought of as events occurring at a certain rate per game — the 2025-26 Premier League average is 1.37 goals per team per game.\n\n\n\n\n\n\n\n\nTipIndependent Poisson Model (Maher, 1982)\n\n\n\nAlso known as the “double Poisson model,” this approach models both teams’ goal-scoring simultaneously using independent Poisson distributions. This allows prediction of match outcomes by considering the attacking and defensive strengths of each team."
+  },
+  {
+    "objectID": "episodes/episode-012.html#resources-references",
+    "href": "episodes/episode-012.html#resources-references",
+    "title": "Episode 12: How to Predict Premier League Games",
+    "section": "Resources & References",
+    "text": "Resources & References\n\nMaher, M.J. (1982) — Modelling association football scores\nCharles Reep’s pioneering work on football statistics (1950s onwards)\nHistorical note: Ladislaus Bortkiewicz used the Poisson distribution to model Prussian soldiers killed by horse kicks"
+  },
+  {
+    "objectID": "episodes/episode-012.html#transcript-highlights",
+    "href": "episodes/episode-012.html#transcript-highlights",
+    "title": "Episode 12: How to Predict Premier League Games",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“It always makes me laugh a little bit because it’s a supercomputer. And the things we go through today are probably the same method they’re using. And it takes about two seconds to run on my laptop.”\n\nJess debunks the mystique around “supercomputer predictions” seen in clickbait articles, highlighting that the mathematical methods are surprisingly accessible.\n\n\n“The betting industry does a good job, right? They’re still there making money doing well… they sort of said yeah, it’s similar to what you’ll be doing. But they have lots of data that they can buy.”\n\nJess shares insights from conversations with betting industry professionals, revealing that even professional bookmakers use similar foundational methods — their edge comes from data access rather than exotic algorithms.\n\n\n“He calculated the frequency with which soldiers in the Prussian army were accidentally killed by being kicked in the head by a horse.”\n\nRich shares a memorable historical application of the Poisson distribution, demonstrating the versatility of this mathematical tool beyond football."
+  },
+  {
+    "objectID": "episodes/episode-012.html#discussion",
+    "href": "episodes/episode-012.html#discussion",
+    "title": "Episode 12: How to Predict Premier League Games",
+    "section": "Discussion",
+    "text": "Discussion\nThe methods explored in this episode represent the foundation of modern sports analytics and prediction markets. The Poisson distribution’s application to football, established in academic literature since the 1950s, remains remarkably relevant today. What’s particularly striking is the democratisation of these techniques — while betting companies and media outlets may dress up their predictions with “supercomputer” branding, the core mathematical framework is accessible to anyone with basic statistical knowledge and a laptop.\nThis episode also touches on an important theme in sports analytics: the gap between sophisticated-sounding predictions and their underlying simplicity. The real competitive advantage in prediction markets often lies not in algorithmic complexity but in data quality and quantity. As Jess notes from industry conversations, betting companies gain their edge through proprietary data and market information rather than fundamentally different mathematical approaches.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode exploring expected goals (xG) metrics\nEpisodes on other probabilistic sports models\n\n\n\n\n\n\n⬅️ Episode 11\n\n\n➡️ Episode 13"
+  },
+  {
+    "objectID": "episodes/episode-bonus-002.html",
+    "href": "episodes/episode-bonus-002.html",
+    "title": "Episode 900: Man U: Amorim vs Carrick | How would the season have gone?",
+    "section": "",
+    "text": "Published: 2026-04-14\nDuration: 10:17\nYouTube: Watch here\n\n\nTopics Covered: Football, Premier League, Statistical Modelling, Manager Analysis, Counterfactuals"
+  },
+  {
+    "objectID": "episodes/episode-bonus-002.html#video",
+    "href": "episodes/episode-bonus-002.html#video",
+    "title": "Episode 900: Man U: Amorim vs Carrick | How would the season have gone?",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/episode-bonus-002.html#overview",
+    "href": "episodes/episode-bonus-002.html#overview",
+    "title": "Episode 900: Man U: Amorim vs Carrick | How would the season have gone?",
+    "section": "Overview",
+    "text": "Overview\nRich extends the Premier League prediction model from the previous episode to explore counterfactual scenarios: what would have happened if Manchester United had kept Amorim all season, or had Carrick from the start? The analysis also examines Tottenham’s managerial changes between Thomas Frank and Tuchel, revealing surprising insights about relegation probabilities and the interconnected nature of league outcomes.\n\nTimestamps:\n\n[00:08] Introduction and recap of the Premier League model\n[00:46] Discussion of manager switches this season\n[01:03] Methodology: fitting parameters for different managers\n[02:18] Why points per game doesn’t account for fixture difficulty\n[02:51] Running simulations for Amorim vs Carrick at Man United\n[06:30] Thomas Frank vs Tuchel at Tottenham analysis\n[08:30] Surprising impact on Arsenal’s title chances\n\nReferences:\n\nPrevious episode on Premier League modelling methodology"
+  },
+  {
+    "objectID": "episodes/episode-bonus-002.html#key-concepts",
+    "href": "episodes/episode-bonus-002.html#key-concepts",
+    "title": "Episode 900: Man U: Amorim vs Carrick | How would the season have gone?",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTipCounterfactual Season Simulation\n\n\n\nBy fitting separate attack and defence parameters for each manager’s tenure, the model can simulate how a full season would have played out under either manager. This involves running 10,000 simulations of the remaining fixtures using the manager-specific parameters, giving probability distributions for final league positions.\n\n\n\n\n\n\n\n\nTipFixture-Adjusted Analysis vs Points Per Game\n\n\n\nSimple points-per-game comparisons don’t account for the difficulty of opponents faced. If a manager is sacked before an easy run of fixtures, their replacement will appear better than they actually are. The model addresses this by considering opponent strength in each simulated match.\n\n\n\n\n\n\n\n\nTipMinimum Sample Size for Parameter Fitting\n\n\n\nThe analysis requires sufficient games to reliably fit attack and defence parameters. Nuno’s tenure at Forest (only three games) was deemed insufficient, while Carrick’s longer spell allowed for meaningful parameter estimation despite being shorter than a full season."
+  },
+  {
+    "objectID": "episodes/episode-bonus-002.html#resources-references",
+    "href": "episodes/episode-bonus-002.html#resources-references",
+    "title": "Episode 900: Man U: Amorim vs Carrick | How would the season have gone?",
+    "section": "Resources & References",
+    "text": "Resources & References\n\nPrevious Corridor of Uncertainty episode on Premier League season modelling\n2025-26 Premier League data up to 22nd March"
+  },
+  {
+    "objectID": "episodes/episode-bonus-002.html#transcript-highlights",
+    "href": "episodes/episode-bonus-002.html#transcript-highlights",
+    "title": "Episode 900: Man U: Amorim vs Carrick | How would the season have gone?",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“So you can do this with points per game. You know, a lot of people do this with points per game. But that doesn’t consider who you’re playing in each of those games… If you’ve sacked Amorim right before a nice easy run of fixtures, then it’s going to look like Carrick is amazing.”\n\nThis highlights the key methodological advantage of using a full simulation model rather than simple summary statistics when comparing manager performance.\n\n\n“If you look at Tuchel, the Spurs probabilities now fourth from bottom, they were actually most likely to get relegated… better than 50% chance of them getting relegated.”\n\nThis striking finding demonstrates how the model can quantify relegation risk and justify managerial decisions that might otherwise seem reactive.\n\n\n“If you look at Arsenal’s probability of winning the league, it’s down to 70% from what it was previously. So Spurs fans could have had them being relegated, but then Arsenal wouldn’t have won the league.”\n\nAn unexpected interconnection showing how one team’s results ripple through the entire league simulation."
+  },
+  {
+    "objectID": "episodes/episode-bonus-002.html#discussion",
+    "href": "episodes/episode-bonus-002.html#discussion",
+    "title": "Episode 900: Man U: Amorim vs Carrick | How would the season have gone?",
+    "section": "Discussion",
+    "text": "Discussion\nThis episode showcases the power of simulation-based counterfactual analysis in football. Rather than relying on simplistic metrics like points per game, the approach accounts for the full complexity of fixture difficulty and opponent strength. The finding that Amorim’s Man United would have been “more than likely to finish fifth or below” challenges the narrative that he was a catastrophic appointment, while Carrick’s 4% title-winning probability tempers enthusiasm about his early results.\nThe Tottenham analysis is particularly striking, suggesting Tuchel’s continuation would have led to probable relegation. Perhaps most fascinating is the model’s revelation of league-wide interdependencies—the Tottenham manager affecting Arsenal’s title chances illustrates how Monte Carlo simulations capture emergent properties that simple analysis misses. This type of modelling has applications beyond manager comparisons, potentially informing transfer decisions, tactical changes, or in-season strategic pivots.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nPrevious episode on Premier League season modelling methodology\n\n\n\n\n\n\n⬅️ Episode 899\n\n\n➡️ Episode 901"
+  },
+  {
+    "objectID": "episodes/episode-004.html",
+    "href": "episodes/episode-004.html",
+    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
+    "section": "",
+    "text": "Published: 13 January 2026\nDuration: 29:15\nYouTube: Watch here\n\n\nTopics Covered: Basketball, Buzzer Beaters, Randomness in Sport, Win Probability, NBA Statistics"
+  },
+  {
+    "objectID": "episodes/episode-004.html#video",
+    "href": "episodes/episode-004.html#video",
+    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/episode-004.html#overview",
+    "href": "episodes/episode-004.html#overview",
+    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
+    "section": "Overview",
+    "text": "Overview\nRich presents his case for why basketball might be a “bad sport” from a statistical perspective, focusing on the high frequency of scoring events and how often games are decided by the final basket. Using nine seasons of NBA data (over 10,700 games), he explores whether the prevalence of last-minute turnarounds suggests an element of randomness in determining winners. Jess pushes back with insights about strategic clock management and the skill involved in controlling those crucial final seconds.\n\nTimestamps:\n\n[00:10] Introduction and episode overview\n[00:31] Rich introduces his controversial thesis on basketball\n[01:24] The buzzer beater problem explained\n[02:16] Indiana Pacers 2024-25 season as inspiration\n[02:41] Win probability graphs and how they’re calculated\n[03:24] Data methodology: hoopR package and 9 seasons of NBA data\n\nReferences:\n\nhoopR package for R (basketball data analysis)\nIndiana Pacers 2024-25 season\nMichael Jordan’s “The Shot”"
+  },
+  {
+    "objectID": "episodes/episode-004.html#key-concepts",
+    "href": "episodes/episode-004.html#key-concepts",
+    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTipScoring Frequency and Game Outcomes\n\n\n\nIn NBA basketball, teams combined score an average of 116 times per game, yet 10% of games are decided by the final scoring event. This raises philosophical questions about whether basketball truly tests which team can dominate over a full game, or whether timing and the final possession matter disproportionately.\n\n\n\n\n\n\n\n\nTipWin Probability Models\n\n\n\nSports broadcasts often display real-time win probabilities (e.g., “99.7% loss probability”), but the methodology behind these calculations is rarely transparent. While used to emphasise dramatic moments, these models raise questions about how we quantify uncertainty in live sporting events.\n\n\n\n\n\n\n\n\nTipOptimal Randomness in Sport\n\n\n\nThe episode explores the philosophical question of how much randomness is desirable in sport. Too little randomness (like chess) means the better player always wins, removing excitement. Too much randomness undermines the contest as a test of skill. Basketball’s high scoring frequency may push it towards more randomness than other sports."
+  },
+  {
+    "objectID": "episodes/episode-004.html#resources-references",
+    "href": "episodes/episode-004.html#resources-references",
+    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
+    "section": "Resources & References",
+    "text": "Resources & References\n\nhoopR: R package for NBA data analysis\nNBA regular season data (2016-17 to 2024-25 seasons)\n10,740 games analysed (excluding postseason and in-season tournaments)"
+  },
+  {
+    "objectID": "episodes/episode-004.html#transcript-highlights",
+    "href": "episodes/episode-004.html#transcript-highlights",
+    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“So is the sport of basketball a test of one team’s ability to score more points and to dominate in a game, or is it about timing?”\n\nRich poses the central philosophical question of the episode, challenging whether basketball’s high-scoring nature undermines its function as a fair test of team quality.\n\n\n“It had never really occurred to me that it was random… I was like no, Leeds United are the best team in the world and they play the game and the right person wins.”\n\nJess reflects on how sports fans often overlook the role of chance, assuming outcomes are determined purely by skill until they start examining the mathematics more closely.\n\n\n“You want to have some level of uncertainty because if the best wins all the time then what’s the point?”\n\nThe hosts discuss the paradox that some randomness makes sport exciting, comparing it to board games where complete skill dominance (like chess) might actually reduce enjoyment."
+  },
+  {
+    "objectID": "episodes/episode-004.html#discussion",
+    "href": "episodes/episode-004.html#discussion",
+    "title": "Episode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?",
+    "section": "Discussion",
+    "text": "Discussion\nThis episode touches on a fundamental tension in sports analytics: the balance between skill and chance in determining outcomes. Rich’s analysis of NBA scoring patterns connects to broader research on competitive balance and what makes sporting contests compelling. The finding that 10% of games are decided by the final scoring event, despite 116 scoring opportunities per game, suggests that basketball’s structure may amplify the importance of clutch moments beyond what we might expect from a purely skill-based contest.\nThe discussion also highlights the importance of transparency in sports statistics. Win probability models have become ubiquitous in sports broadcasting, yet their underlying assumptions and methodologies are rarely explained to viewers. This episode encourages a healthy scepticism about the precision implied by statistics like “99.7% loss probability” while acknowledging that such models can still provide useful frameworks for understanding game dynamics.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 2: Expected Goals in Football - Another exploration of probabilistic models in sport\nFuture episodes may revisit the randomness vs. skill debate in other sports contexts\n\n\n\n\n\n\n⬅️ Episode 3\n\n\n➡️ Episode 5"
+  },
+  {
+    "objectID": "episodes/episode-014.html",
+    "href": "episodes/episode-014.html",
+    "title": "Episode 14: Who Will Win the NBA Championship? Basketball & Elo Ratings",
+    "section": "",
+    "text": "Published: 2026-04-21\nDuration: 52:37\nYouTube: Watch here\n\n\nTopics Covered: Basketball, Elo Ratings, NBA Playoffs, Prediction Models, Conference Structure"
+  },
+  {
+    "objectID": "episodes/episode-014.html#video",
+    "href": "episodes/episode-014.html#video",
+    "title": "Episode 14: Who Will Win the NBA Championship? Basketball & Elo Ratings",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/episode-014.html#overview",
+    "href": "episodes/episode-014.html#overview",
+    "title": "Episode 14: Who Will Win the NBA Championship? Basketball & Elo Ratings",
+    "section": "Overview",
+    "text": "Overview\nWith the NBA playoffs underway, Jess takes the lead in attempting to predict who will win the championship using Elo ratings. The episode provides a thorough explanation of the NBA’s complex structure, including the 82-game regular season, conference and division breakdowns, and the play-in tournament format. Building on their previous Premier League prediction episode, the hosts explore how different prediction methods might apply across different sports contexts.\n\nTimestamps:\n\n[00:00] Introduction and NBA playoffs setup\n[00:33] Overview of basketball as a data-rich sport\n[02:01] Explaining the NBA playoff structure\n[02:28] The play-in tournament explained\n[03:01] Best-of-seven series format\n\nReferences:\n\nPrevious Corridor of Uncertainty episode on basketball\nPrevious episode on predicting the Premier League"
+  },
+  {
+    "objectID": "episodes/episode-014.html#key-concepts",
+    "href": "episodes/episode-014.html#key-concepts",
+    "title": "Episode 14: Who Will Win the NBA Championship? Basketball & Elo Ratings",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTipElo Rating System\n\n\n\nThe Elo rating system, originally developed for chess, is applied here to predict NBA playoff outcomes. By using data from the 82-game regular season, Elo ratings can estimate the probability of each team winning best-of-seven playoff series and ultimately the championship.\n\n\n\n\n\n\n\n\nTipNBA Playoff Structure\n\n\n\nThe NBA uses a complex playoff format with Eastern and Western conferences, each seeding 8 teams through a combination of regular season performance and a play-in tournament. The play-in tournament allows teams seeded 7-10 to compete for the final two playoff spots, adding an extra layer of complexity to predictions.\n\n\n\n\n\n\n\n\nTipWin Percentage Rankings\n\n\n\nUnlike football leagues that use points (3 for a win, 1 for a draw), the NBA ranks teams by win percentage since basketball games always produce a winner. This creates a cleaner comparison between teams, though unequal schedules mean direct comparisons aren’t straightforward."
+  },
+  {
+    "objectID": "episodes/episode-014.html#resources-references",
+    "href": "episodes/episode-014.html#resources-references",
+    "title": "Episode 14: Who Will Win the NBA Championship? Basketball & Elo Ratings",
+    "section": "Resources & References",
+    "text": "Resources & References\n\nNBA official standings and playoff bracket\nPrevious episode: Basketball analytics introduction\nPrevious episode: Premier League prediction methods"
+  },
+  {
+    "objectID": "episodes/episode-014.html#transcript-highlights",
+    "href": "episodes/episode-014.html#transcript-highlights",
+    "title": "Episode 14: Who Will Win the NBA Championship? Basketball & Elo Ratings",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“Basketball is maybe not my most favorite sport, but it is a popular sport and it generates a great amount of numbers.”\n\nRich acknowledges that while basketball isn’t his favourite, he appreciates the wealth of statistical data the sport produces, setting up the analytical focus of the episode.\n\n\n“I think this could be the episode we change your mind where you love the basketball.”\n\nJess optimistically suggests that diving into the mathematical aspects of NBA prediction might convert Rich into a basketball fan.\n\n\n“You do get a winner. So, it’s all on your win percentage. How many games have you won? Because you’re not getting three points for a win because there’s no draw.”\n\nThis highlights a key difference between basketball and football that affects how teams are ranked and rated."
+  },
+  {
+    "objectID": "episodes/episode-014.html#discussion",
+    "href": "episodes/episode-014.html#discussion",
+    "title": "Episode 14: Who Will Win the NBA Championship? Basketball & Elo Ratings",
+    "section": "Discussion",
+    "text": "Discussion\nThis episode demonstrates how prediction methods can be adapted across different sports contexts. While Rich’s Premier League predictions used known future fixtures, Jess faces the challenge of predicting multiple rounds of playoff series where matchups depend on previous results. The NBA’s structure—with its conferences, divisions, and play-in tournament—creates a fascinating prediction problem that requires modelling not just individual game outcomes but entire series and tournament paths.\nThe discussion of Elo ratings connects to broader themes in sports analytics about transferable methodologies. Originally designed for chess, Elo ratings have proven remarkably versatile across sports, from tennis to American football to basketball. The episode highlights how understanding a sport’s specific structure—such as best-of-seven series eliminating single-game variance—is crucial for applying any prediction model effectively.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode on Premier League predictions using simulation methods\nPrevious basketball analytics episode\n\n\n\n\n\n\n⬅️ Episode 13\n\n\n➡️ Episode 15"
+  },
+  {
+    "objectID": "episodes/old-episode-003.html",
+    "href": "episodes/old-episode-003.html",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "",
+    "text": "Published: 24 December 2025\nDuration: 47:27\nYouTube: Watch here\n\n\nTopics Covered: Statistic of the Year, Women’s Cricket, Reverse Sweep, MLB Rule Changes"
+  },
+  {
+    "objectID": "episodes/old-episode-003.html#video",
+    "href": "episodes/old-episode-003.html#video",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/old-episode-003.html#overview",
+    "href": "episodes/old-episode-003.html#overview",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Overview",
+    "text": "Overview\nIn this episode, Jess and Rich introduce their own “Sports Statistic of the Year” award, inspired by the Royal Statistical Society’s annual initiative. They explore how a single number can encapsulate an entire year in sport, using the RSS’s 2021 winner (53% of Team GB athletes at Tokyo 2020 being female) as an example. Rich nominates Phoebe Litchfield’s remarkable reverse sweep statistics from the Women’s Hundred, which sparks a broader discussion about defensive shifts in baseball and rule changes that balance statistical optimisation with fan experience.\n\nTimestamps:\n\n[00:17] Introduction and episode concept\n[01:37] Background on the Royal Statistical Society’s Statistic of the Year\n[03:16] RSS 2021 winner: 53% female athletes at Tokyo 2020\n[04:30] Rich’s nomination: Phoebe Litchfield’s reverse sweep statistics\n[08:00] Discussion on MLB’s shift ban and fan experience vs optimal play\n\nReferences:\n\nRoyal Statistical Society - Statistic of the Year\nRoyal Statistical Society Statistics and Sports Section"
+  },
+  {
+    "objectID": "episodes/old-episode-003.html#key-concepts",
+    "href": "episodes/old-episode-003.html#key-concepts",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTipStatistic as Time Capsule\n\n\n\nThe episode explores the idea that a well-chosen statistic can serve as a “time capsule” for an entire year in sport. Unlike technical statistical distributions, these are single numbers that encapsulate significant moments, trends, or achievements that defined the sporting landscape.\n\n\n\n\n\n\n\n\nTipThe Reverse Sweep and Cross-Sport Skill Transfer\n\n\n\nRich highlights how Phoebe Litchfield averages 47 with a strike rate of 195 when playing the reverse sweep, compared to 41 and 160 batting conventionally. This remarkable statistic demonstrates how skills from one sport (hockey, where all players use right-handed sticks) can transfer to create unusual advantages in another.\n\n\n\n\n\n\n\n\nTipOptimal Defence vs Fan Experience\n\n\n\nThe discussion touches on the tension between statistically optimal play and entertainment value. MLB’s ban on extreme defensive shifts exemplifies how leagues must balance analytical improvements in gameplay with maintaining an engaging spectator experience."
+  },
+  {
+    "objectID": "episodes/old-episode-003.html#resources-references",
+    "href": "episodes/old-episode-003.html#resources-references",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Resources & References",
+    "text": "Resources & References\n\nRoyal Statistical Society Statistic of the Year initiative\nRSS Statistics and Sports Section\nApple TV baseball coverage (mentioned for statistical visualisations)\nThe Women’s Hundred cricket competition"
+  },
+  {
+    "objectID": "episodes/old-episode-003.html#transcript-highlights",
+    "href": "episodes/old-episode-003.html#transcript-highlights",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“There’s a beautiful skill in terms of taking something like the year of 2025 and representing that in one number.”\n\nJess articulates the core challenge of the Statistic of the Year concept—finding a single number that meaningfully captures the essence of an entire year in sport.\n\n\n“Statistics have made you play the sport better. It’s making your defense better because you understand where they’re going to put the ball… This is actually forcing people to play what we know to be suboptimal defense.”\n\nRich recounts a compelling argument from an MLB pundit about the shift ban, highlighting the philosophical tension between data-driven optimisation and regulatory intervention for entertainment purposes.\n\n\n“She actually averages higher hitting it the wrong way around… she credits it all to her experience as a hockey player.”\n\nRich explains the fascinating cross-sport origin of Phoebe Litchfield’s signature shot, demonstrating how athletic backgrounds can create unexpected statistical advantages."
+  },
+  {
+    "objectID": "episodes/old-episode-003.html#discussion",
+    "href": "episodes/old-episode-003.html#discussion",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Discussion",
+    "text": "Discussion\nThis episode effectively demonstrates how statistics can tell compelling stories about sport beyond simple performance metrics. The discussion of Phoebe Litchfield’s reverse sweep statistics opens up fascinating questions about skill transfer between sports and how unconventional techniques can provide measurable advantages. Her hockey background creating a superior cricket shot challenges traditional notions of sport-specific training.\nThe tangent into MLB’s shift ban represents an important ongoing debate in sports analytics: at what point does statistical optimisation conflict with the entertainment product? As defensive positioning becomes increasingly data-driven across sports, leagues face difficult choices about preserving competitive integrity while maintaining fan engagement. The hosts’ observation that American sports tend to prioritise fan experience in rule-making offers an interesting contrast to traditions in cricket and football, where rules are often treated as more sacrosanct.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 2 likely covered other end-of-year sports topics given the hosts’ comment about two of three episodes being “end of year specials”\n\n\n\n\n\n\n⬅️ Episode 2\n\n\n➡️ Episode 4"
   },
   {
     "objectID": "episodes/episode-001.html",
@@ -473,42 +739,91 @@
     "href": "episodes/episode-001.html#key-concepts",
     "title": "Episode 1: The SPLit — How fair is Scottish Football?",
     "section": "Key Concepts",
-    "text": "Key Concepts\n\n\n\n\n\n\nTip[Key Concept 1]\n\n\n\n[Explanation of the concept]\n\n\n\n\n\n\n\n\nTip[Key Concept 2]\n\n\n\n[Explanation of the concept]"
+    "text": "Key Concepts\nThe analysis centres on whether the SPL Split format distorts incentives — particularly whether a team’s pre-split league position causally affects their post-split attendance. The scatter below shows the relationship between pre-split position and post-split attendance (on a log scale), motivating the need for a more rigorous causal approach.\n\n\n\nPre-split league position versus natural log of post-split attendance across SPL seasons.\n\n\n\n\n\n\n\n\nTipThe SPL Split Format\n\n\n\nThe Scottish Premier League uses a mid-season “split” after 33 matches: the top six teams play each other for European places and the title, while the bottom six contest relegation. Although designed to keep late-season fixtures meaningful, the format creates a sharp discontinuity in competitive incentives around the 6th/7th place boundary — teams just above and just below the cut-off face very different post-split schedules despite having accumulated nearly identical points.\n\n\n\n\n\n\n\n\nTipRegression Discontinuity Design\n\n\n\nRegression Discontinuity (RD) is a quasi-experimental method for estimating causal effects when treatment is assigned by whether a continuous “running variable” crosses a known threshold. Here, pre-split league position is the running variable and finishing in the top six is the treatment. By comparing teams just above and just below the cut-off — who are otherwise very similar — it is possible to isolate the causal effect of split placement on post-split attendance, rather than simply observing a correlation. The plot below shows the estimated discontinuity in log-attendance at the split boundary (cut-off = 0), with 95% confidence bands.\n\n\n\nLinear RD plot estimating the causal effect of top-six placement on post-split attendance. The dashed line marks the split cut-off; the gap between the two regression lines represents the estimated treatment effect."
   },
   {
     "objectID": "episodes/episode-001.html#interactive-demonstration",
     "href": "episodes/episode-001.html#interactive-demonstration",
     "title": "Episode 1: The SPLit — How fair is Scottish Football?",
     "section": "Interactive Demonstration",
-    "text": "Interactive Demonstration\nThis interactive visualisation demonstrates how points are distributed across teams in a typical Scottish Premier League season, illustrating the competitive balance that the split format addresses.\n\n  \n  \n  \n  \n\nThis visualisation shows:\n\nInteractive features: Hover over bars to see exact point values\nColour coding: Teams are colour-coded by points (green = higher, red = lower)\nSplit indicator: The dashed line shows where the league typically splits into top and bottom halves"
+    "text": "Interactive Demonstration\nThis interactive visualisation demonstrates how points are distributed across teams in a typical Scottish Premier League season, illustrating the competitive balance that the split format addresses.\n\n  \n  \n  \n  \n\nThe scatter below complements the interactive chart by showing how points accumulated pre-split vary across all 12 league positions across multiple seasons, illustrating the degree of overlap near the cut-off that makes the RD approach credible.\n\n\n\nPoints accumulated pre-split by league position across SPL seasons. The overlap in points between adjacent positions — especially around 6th and 7th — supports the RD assumption of local exchangeability near the threshold.\n\n\nThis visualisation shows:\n\nInteractive features: Hover over bars to see exact point values\nColour coding: Teams are colour-coded by points (green = higher, red = lower)\nSplit indicator: The dashed line shows where the league typically splits into top and bottom halves"
   },
   {
     "objectID": "episodes/episode-001.html#resources-references",
     "href": "episodes/episode-001.html#resources-references",
     "title": "Episode 1: The SPLit — How fair is Scottish Football?",
     "section": "Resources & References",
-    "text": "Resources & References\n\n[Link to paper/article 1]\n[Link to code repository]\n[Link to related resource]"
-  },
-  {
-    "objectID": "episodes/episode-001.html#transcript-highlights",
-    "href": "episodes/episode-001.html#transcript-highlights",
-    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
-    "section": "Transcript Highlights",
-    "text": "Transcript Highlights\n\n“[Notable quote from the video]”\n\n[Additional context or explanation]\n\n\n“[Another notable quote]”\n\n[Context]"
-  },
-  {
-    "objectID": "episodes/episode-001.html#code-examples",
-    "href": "episodes/episode-001.html#code-examples",
-    "title": "Episode 1: The SPLit — How fair is Scottish Football?",
-    "section": "Code Examples",
-    "text": "Code Examples\n\nPythonR\n\n\n# Example code from episode\ndef example_function():\n    pass\n\n\n# R equivalent if applicable\nexample_function &lt;- function() {\n  # code\n}"
+    "text": "Resources & References\n\nHargreaves, J. & [co-author]: The SPLit — fairness in the Scottish Premier League — https://eprints.whiterose.ac.uk/id/ep...\nInteractive SPLit tool: https://shiny.york.ac.uk/SPLit/\n\n:::"
   },
   {
     "objectID": "episodes/episode-001.html#discussion",
     "href": "episodes/episode-001.html#discussion",
     "title": "Episode 1: The SPLit — How fair is Scottish Football?",
     "section": "Discussion",
-    "text": "Discussion\n[Add any additional commentary, extended explanations, or connections to other episodes]\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\n[Episode X: Related Topic](episode-00X.qmd)\n[Episode Y: Follow-up Topic](episode-00Y.qmd)\n\n\n\n\n\n\n⬅️ Back to Episodes\n\n\n➡️ Episode 2"
+    "text": "Discussion\nBeyond the causal question of whether split placement affects attendance, the episode also examines how consistently teams fill their stadiums across the full season. The chart below tracks each club’s attendance as a proportion of stadium capacity match-by-match, with the shaded region indicating the post-split period. The stark divergence between clubs — Celtic and Rangers consistently near capacity, some sides regularly below 50% — contextualises why the commercial stakes of split placement differ so dramatically between the top and bottom of the table.\n\n\n\nAttendance as a proportion of stadium capacity by match week for all 12 SPL clubs. The shaded region marks the post-split fixtures. Solid lines denote the Old Firm; dashed lines all other clubs.\n\n\nThe SPLit paper is a nice example of RD design being applied in a sports context where a clean threshold exists naturally in the competition structure. The same logic could extend to other split or playoff formats — the A-League, the Danish Superliga, or even promotion play-offs — wherever a discrete cut-off generates a discontinuity in incentives or outcomes that would otherwise be confounded with underlying team quality.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode X: Related Topic\nEpisode Y: Follow-up Topic\n\n\n\n\n\n\n⬅️ Back to Episodes\n\n\n➡️ Episode 2"
+  },
+  {
+    "objectID": "episodes/index.html",
+    "href": "episodes/index.html",
+    "title": "Episodes",
+    "section": "",
+    "text": "All episodes from The Corridor of Uncertainty — a podcast at the intersection of maths & sport, hosted by Dr Jess Hargreaves & Dr Rich Bingham at the University of York.\n⬅️ Back to Corridor Home\n\n\n\n\n\n\n\n\n\n\n\nEpisode 14: Who Will Win the NBA Championship? Basketball & Elo Ratings\n\n\n\nBasketball\n\nElo Ratings\n\nPrediction\n\nNBA\n\nPlayoffs\n\n\n\nJess uses Elo ratings to predict the NBA playoffs winner, explaining how the rating system works for basketball’s complex playoff structure.\n\n\n\nApr 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 900: Man U: Amorim vs Carrick | How would the season have gone?\n\n\n\nFootball\n\nPremier League\n\nStatistical Modelling\n\nManager Analysis\n\nCounterfactuals\n\n\n\nUsing Premier League modelling to explore hypothetical season outcomes under different Manchester United and Tottenham managers.\n\n\n\nApr 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 12: How to Predict Premier League Games\n\n\n\nFootball\n\nProbability\n\nPoisson Distribution\n\nPremier League\n\nPrediction\n\n\n\nCan maths predict who will win the Premier League title and who will be relegated? Rich and Jess explore the Poisson distribution and football modelling.\n\n\n\nApr 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 11: The Pythagorean Theorem of Baseball\n\n\n\nBaseball\n\nSabermetrics\n\nPredictive Modelling\n\nBill James\n\n\n\nExploring Bill James’s elegant formula for predicting baseball win percentages using runs scored and allowed, with original analysis optimising the exponent.\n\n\n\nMar 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 9: Have the Dodgers Broken Moneyball?\n\n\n\nBaseball\n\nMoneyball\n\nSabermetrics\n\nPlayer Recruitment\n\n\n\nExploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage.\n\n\n\nMar 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 8: Curling by Numbers: Why GB Won Silver\n\n\n\nCurling\n\nWinter Olympics\n\nGame Theory\n\nStatistical Analysis\n\n\n\nAnalysing Team GB’s silver medal performance at the 2026 Winter Olympics curling final against Canada through statistics and probability.\n\n\n\nMar 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 7: Why Did Man City Sign Semenyo?\n\n\n\nFootball\n\nPlayer Recruitment\n\nData Analytics\n\nTransfer Market\n\n\n\nExploring how football clubs use data analytics to identify and sign players, with Manchester City’s signing of Antoine Semenyo as a case study.\n\n\n\nFeb 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 6: How to Win at Curling (Using Maths)\n\n\n\nCurling\n\nWinter Olympics\n\nGame Theory\n\nStrategy\n\n\n\nRich and Jess explore the statistical strategies behind curling ahead of the Winter Olympics 2026, analysing World Championship data to understand what makes teams…\n\n\n\nFeb 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 5: Best January Transfer Signings Ever? Can Stats Decide?\n\n\n\nFootball\n\nTransfer Market\n\nPlayer Evaluation\n\nPremier League\n\n\n\nRich and Jess debate whether statistics can determine the greatest Premier League January transfer signing of all time.\n\n\n\nJan 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 4: How Random is the NBA? Can Statistics Prove That Basketball is a Bad Sport?\n\n\n\nBasketball\n\nRandomness\n\nNBA\n\nWin Probability\n\nGame Theory\n\n\n\nRich attempts to statistically prove why basketball is a bad sport by analysing buzzer beaters, scoring frequency, and the role of randomness in determining game outcomes.\n\n\n\nJan 2026\n\n\n\n\n\n\n\n\n\n\nEpisode 3: The CoU Sports Statistic of the Year 2025\n\n\n\nCricket\n\nStatistics\n\nWomen's Sport\n\nRule Changes\n\nCycling\n\nAthletics\n\nBaseball\n\nFootball\n\n\n\nJess and Rich debate their nominations for the inaugural Corridor of Uncertainty Sports Statistic of the Year, inspired by the Royal Statistical Society’s annual tradition.\n\n\n\nDec 2025\n\n\n\n\n\n\n\n\n\n\nEpisode 2: Sports Personality of the Year - Can we use stats to rank sports?\n\n\n\nSports Awards\n\nData Visualisation\n\nVoting Systems\n\nTennis\n\nFormula One\n\n\n\nJess quizzes Rich on Sports Personality of the Year history while exploring the data behind the UK’s most prestigious sports award.\n\n\n\nDec 2025\n\n\n\n\n\n\n\n\n\n\nBonus Episode 1: Which Sports Win BBC Sports Personality of the Year the Most?\n\n\n\nData Visualisation\n\nAwards\n\nBBC SPOTY\n\nStatistics\n\n\n\nExploring the distribution of BBC Sports Personality of the Year winners across different sports using tree diagrams as an alternative to pie charts.\n\n\n\nDec 2025\n\n\n\n\n\n\n\n\n\n\nEpisode 1: The SPLit — How fair is Scottish Football?\n\n\n\nFootball\n\nScottish Premier League\n\nStatistics\n\n\n\nHow fair is Scottish football? We talk about the Split format in the Scottish Premier League, including some of the unintended consequences.\n\n\n\nDec 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "episodes/episode-003.html",
+    "href": "episodes/episode-003.html",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "",
+    "text": "Published: 24 December 2025\nDuration: 47:27\nYouTube: Watch here\n\n\nTopics Covered: Statistic of the Year, Cycling, Set-Piece Football, Pole Vault, Women’s Cricket, Baseball, Women’s Cycling"
+  },
+  {
+    "objectID": "episodes/episode-003.html#video",
+    "href": "episodes/episode-003.html#video",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "episodes/episode-003.html#overview",
+    "href": "episodes/episode-003.html#overview",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Overview",
+    "text": "Overview\nIn this episode, Jess and Rich introduce their own “Sports Statistic of the Year” award, inspired by the Royal Statistical Society’s annual initiative. They explore how a single number can encapsulate an entire year in sport, using the RSS’s 2021 winner (53% of Team GB athletes at Tokyo 2020 being female) as an example. The nominations span cycling, football, athletics, cricket, baseball, and women’s road racing — from Pogačar’s extraordinary power output on Hautacam to a record-breaking season for Premier League set-piece goals.\n\nTimestamps:\n\n[00:17] Introduction and episode concept\n[01:37] Background on the Royal Statistical Society’s Statistic of the Year\n[03:16] RSS 2021 winner: 53% female athletes at Tokyo 2020\n[04:30] Nomination: Pogačar’s 6.7 W/kg on Hautacam\n[08:00] Nomination: Premier League set-piece goals in 2025–26\n[14:00] Nomination: Armand Duplantis — 14 world records\n[20:00] Nomination: Phoebe Litchfield’s reverse sweep statistics\n[28:00] Nomination: Shohei Ohtani’s NLCS Game 4\n[36:00] Nomination: Marianne Vos and Mavi Garcia at Tour de France Femme 2025\n\nReferences:\n\nRoyal Statistical Society — Statistic of the Year\nBerg, O.K. (2025). Journal of Science and Cycling — Pogačar Hautacam power analysis\nBBC Sport — Set-piece goals in the PL (28 October 2025)\nGiveMeSport — PL set-piece goals tracker\nRoyal Statistical Society Statistics and Sports Section"
+  },
+  {
+    "objectID": "episodes/episode-003.html#key-concepts",
+    "href": "episodes/episode-003.html#key-concepts",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\n\n\n\n\n\nTipStatistic as Time Capsule\n\n\n\nThe episode explores the idea that a well-chosen statistic can serve as a “time capsule” for an entire year in sport. Unlike technical statistical distributions, these are single numbers that encapsulate significant moments, trends, or achievements — the RSS’s 2021 winner (53% of Team GB athletes at Tokyo 2020 being female) being a prime example of a figure that tells a story well beyond the raw number itself.\n\n\n\n\n\n\n\n\nTipPogačar’s Power Output — 6.7 W/kg on Hautacam\n\n\n\nAt Stage 12 of the 2025 Tour de France, Tadej Pogačar sustained 441 watts (6.7 W/kg at 66 kg) for approximately 33 minutes on the Hautacam climb — 13 km at 8% gradient (1,200 m of elevation gain) after already racing 167 km. He put 2 minutes 10 seconds into Jonas Vingegaard on the stage alone. Analysed by Ole Kristian Berg of Molde University College, Norway, and published in the Journal of Science and Cycling, this power figure sits at the outer edge of what has been recorded in professional road cycling and raises the perennial question of where physiological limits actually lie.\n\n\n\n\n\n\n\n\nTipPremier League Set-Piece Goals — A Record-Breaking Season\n\n\n\nThe 2025–26 Premier League season has seen a historically unusual proportion of goals originating from set-pieces and corners. As of late 2025, 27.8% of all PL goals (excluding penalties) came from set-pieces, compared to an average of 21.65% since 2015–16 — and 33.7% as of 4 January 2026, according to GiveMeSport’s running tracker. The figures suggest a structural shift in how teams are exploiting dead-ball situations, with coaching innovation and deliberate corner routines — most visibly associated with Arsenal — playing a central role.\n\n\n\n\n\n\n\n\nTipArmand Duplantis — 14 World Records\n\n\n\nSwedish-American pole vaulter Armand Duplantis has broken the world record 14 times since his first at 6.17 m in 2020, with the current mark standing at 6.30 m. At 1.8 m tall, his height-to-vault ratio is itself remarkable. He holds two Olympic gold medals and three World Championship titles. The rate of world record progression in pole vault under Duplantis illustrates how a single dominant athlete can shift the distributional upper tail of a sport’s performance record — analogous in some ways to the Bradman z-score discussed in Episode 2.\n\n\n\n\n\n\n\n\nTipPhoebe Litchfield — The Reverse Sweep\n\n\n\nLeft-handed batter Phoebe Litchfield (Northern Superchargers in the Women’s Hundred) averages 47.0 at a strike rate of 195 when playing the reverse sweep, compared to 41.71 overall (292 runs, 10 innings, 157.83 strike rate batting conventionally). She credits the shot to her background as a hockey player, where all players use right-handed sticks regardless of natural handedness — creating a muscle memory that transfers directly to the unorthodox batting grip. This is a clean example of cross-sport skill transfer producing a statistically measurable advantage.\n\n\n\n\n\n\n\n\nTipShohei Ohtani — NLCS Game 4\n\n\n\nIn Game 4 of the 2025 NLCS (Los Angeles Dodgers vs Milwaukee Brewers), Shohei Ohtani became the first player in baseball history to hit three home runs and record a strikeout as a pitcher in the same game. As a batter: 3 HR, 1 BB. As a pitcher: 6.0 innings, 10 strikeouts, 0 earned runs (2 hits, 3 walks). The nearest historical precedent is Jim Tobin of the 1942 Boston Braves, who hit three home runs and threw a complete game — but allowed five runs, making Ohtani’s combined performance categorically more dominant.\n\n\n\n\n\n\n\n\nTipMarianne Vos and Mavi Garcia — Tour de France Femme 2025\n\n\n\nThe 2025 Tour de France Femme opened with stage victories for two of the oldest riders in the peloton: Marianne Vos (Stage 1, aged 38, with 258 career wins) and Mavi Garcia (Stage 2, aged 41). Together they underscore how peak endurance performance in women’s professional cycling extends well beyond what was previously assumed, with important implications for how training, recovery, and career longevity are modelled in sports science.\n\n\n\n\n\n\n\n\nTipOptimal Defence vs Fan Experience\n\n\n\nThe episode also touches on MLB’s ban on extreme defensive shifts, which exemplifies the tension between statistically optimal play and entertainment value. As analytical methods make defence increasingly data-driven across sports, leagues face difficult choices about preserving competitive integrity while maintaining fan engagement — a regulatory problem that cricket and football may face in different forms as set-piece and field-placement optimisation continues to develop."
+  },
+  {
+    "objectID": "episodes/episode-003.html#resources-references",
+    "href": "episodes/episode-003.html#resources-references",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Resources & References",
+    "text": "Resources & References\n\nBerg, O.K. (2025). Pogačar power analysis. Journal of Science and Cycling — https://www.jsc-journal.com/index.php/JSC/article/view/1054/854\nRoyal Statistical Society Statistic of the Year initiative — https://rss.org.uk/news-publication/news-publications/2021/general-news/statistics-of-the-year-2021-announced/\nBBC Sport — PL set-piece goals (28 October 2025) — https://www.bbc.co.uk/sport/football/articles/c781zwgx419o\nGiveMeSport — PL set-piece goals tracker — https://www.givemesport.com/premier-league-set-piece-goals/\nRSS Statistics and Sports Section\nApple TV baseball coverage (mentioned for statistical visualisations)\nThe Women’s Hundred cricket competition"
+  },
+  {
+    "objectID": "episodes/episode-003.html#the-set-piece-statistics-in-detail",
+    "href": "episodes/episode-003.html#the-set-piece-statistics-in-detail",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "The Set-Piece Statistics in Detail",
+    "text": "The Set-Piece Statistics in Detail\nThe Premier League set-piece nomination is supported by data from Opta and the BBC. The headline figure — 27.8% of goals from set-pieces in 2025–26, against a 21.65% average since 2015–16 — is contextualised below across four charts.\nThe current season’s corner goal share of 18.7% is the highest in Premier League history, surpassing the previous record of 14.2% set in 2010–11.\n\n\n\nThe 2025–26 Premier League season leads all others in history for the share of goals scored directly from corners, at 18.7% — more than four percentage points clear of any previous season.\n\n\nThe broader set-piece picture (which includes free-kicks and long throws, not just corners) shows the 2025–26 figure of 27.8% sitting well above the decade average of 21.65%.\n\n\n\nSet-piece goals (excluding penalties) as a percentage of all PL goals: 27.8% in 2025–26 compared to a 21.65% average since 2015–16.\n\n\nThe trend is not solely a Premier League phenomenon. Across the big five European leagues, corner goal percentages have risen notably in 2025–26 compared to 2024–25, with the PL leading at 18.7% but Serie A (17.6%) and Ligue 1 (16.0%) also elevated.\n\n\n\nGoals from corners as a percentage of all goals in the big five European leagues, comparing 2024–25 and 2025–26. The Premier League leads in both seasons, with all five leagues showing an increase.\n\n\nAt club level, Arsenal lead all teams across the big five European leagues since the start of 2023–24, with 37 corner goals — 11 more than the next-highest club (Borussia Mönchengladbach on 26).\n\n\n\nGoals scored from corners since the start of 2023–24, ranked across the big five European leagues. Arsenal lead with 37, followed by Borussia Mönchengladbach (26), Inter Milan (25), Bayer Leverkusen (24), and Tottenham (24).\n\n\nThe defensive side of the picture shows West Ham United conceding the most set-piece goals in the 2025–26 PL season (9), ahead of Nottingham Forest (7), Liverpool (6), and Leeds United (6).\n\n\n\nSet-piece goals conceded (excluding penalties) in the 2025–26 Premier League season. West Ham United lead with 9, followed by Nottingham Forest (7), Liverpool (6), and Leeds United (6)."
+  },
+  {
+    "objectID": "episodes/episode-003.html#transcript-highlights",
+    "href": "episodes/episode-003.html#transcript-highlights",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Transcript Highlights",
+    "text": "Transcript Highlights\n\n“There’s a beautiful skill in terms of taking something like the year of 2025 and representing that in one number.”\n\nJess articulates the core challenge of the Statistic of the Year concept — finding a single figure that meaningfully captures the essence of an entire year in sport.\n\n\n“Statistics have made you play the sport better. It’s making your defense better because you understand where they’re going to put the ball… This is actually forcing people to play what we know to be suboptimal defense.”\n\nRich recounts a compelling argument from an MLB pundit about the shift ban, highlighting the philosophical tension between data-driven optimisation and regulatory intervention for entertainment.\n\n\n“She actually averages higher hitting it the wrong way around… she credits it all to her experience as a hockey player.”\n\nRich explains the cross-sport origin of Phoebe Litchfield’s signature shot, demonstrating how athletic backgrounds can create unexpected statistical advantages."
+  },
+  {
+    "objectID": "episodes/episode-003.html#discussion",
+    "href": "episodes/episode-003.html#discussion",
+    "title": "Episode 3: The CoU Sports Statistic of the Year 2025",
+    "section": "Discussion",
+    "text": "Discussion\nThis episode effectively demonstrates how statistics can tell compelling stories about sport beyond simple performance metrics. The nominations span six sports and connect through a common thread: each figure marks the outer boundary of what was previously thought possible — whether that is a cyclist’s power output, a vaulter’s height, or a batter’s average with an unorthodox technique.\nThe set-piece data is perhaps the most structurally interesting of the nominations from a statistical perspective, because it points to a systemic change in how football is being played rather than an individual exceptional performance. A 27.8% set-piece goal share, and a corner goal record that eclipses anything in 30+ years of Premier League history, suggests the sport may be at a methodological inflection point — one where deliberate corner routines are shifting the expected-goals landscape in ways that have yet to be fully absorbed into tactical doctrine or defensive coaching.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 2: Sports Personality of the Year — Can we use stats to rank sports?\n\n\n\n\n\n\n⬅️ Episode 2\n\n\n➡️ Episode 4"
   },
   {
     "objectID": "episodes/episode-005.html",
@@ -560,59 +875,94 @@
     "text": "Discussion\nThis episode exemplifies the tension between narrative-driven sports discourse and rigorous statistical analysis. The debate over January signings naturally invites comparison metrics—trophies, appearances, transfer fees—but Rich and Jess push deeper to question whether these metrics actually capture what we mean by “best.” The introduction of randomness research from James Reed challenges the common assumption that winning equals being better.\nThe discussion also touches on an underexplored area of sports analytics: contextual transfer evaluation. A £60,000 signing that provides 15 years of service (Coleman) and a £75 million signing that transforms a team’s defensive capabilities (Van Dijk) might both be “successful” but require entirely different frameworks to assess. This mirrors broader debates in player valuation about whether we should measure absolute contribution or contribution relative to cost—a question with significant implications for clubs operating under financial constraints.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode discussing Elo ratings and league position randomness\nEpisodes on player performance metrics and evaluation methods\n\n\n\n\n\n\n⬅️ Episode 4\n\n\n➡️ Episode 6"
   },
   {
-    "objectID": "episodes/episode-006.html",
-    "href": "episodes/episode-006.html",
-    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "objectID": "episodes/bonus-001.html",
+    "href": "episodes/bonus-001.html",
+    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
     "section": "",
-    "text": "Published: 10 February 2026\nDuration: 31:16\nYouTube: Watch here\n\n\nTopics Covered: Curling, Winter Olympics 2026, Strategic Scoring, World Championship Analysis"
+    "text": "Published: 25 March 2026\nDuration: ~03:00\nYouTube: Watch here\n\n\nTopics Covered: Data Visualisation, BBC Sports Personality of the Year, Tree Diagrams, Sport Statistics"
   },
   {
-    "objectID": "episodes/episode-006.html#video",
-    "href": "episodes/episode-006.html#video",
-    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "objectID": "episodes/bonus-001.html#video",
+    "href": "episodes/bonus-001.html#video",
+    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
     "section": "Video",
     "text": "Video"
   },
   {
-    "objectID": "episodes/episode-006.html#overview",
-    "href": "episodes/episode-006.html#overview",
-    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "objectID": "episodes/bonus-001.html#overview",
+    "href": "episodes/bonus-001.html#overview",
+    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
     "section": "Overview",
-    "text": "Overview\nIn this episode, Rich and Jess dive into the fascinating world of curling ahead of the Winter Olympics 2026, exploring why they consider it “the best sport” and breaking down its unique scoring mechanics. Using data from World Championship competitions, they analyse which nations dominate the sport and examine the strategic importance of the “hammer” - the crucial last stone advantage. The episode combines an introduction to curling’s rules with statistical analysis of 336 games across four championships.\n\nTimestamps:\n\n[00:00] Introduction and Winter Olympics preview\n[00:17] Welcome and podcast introduction\n[00:34] Why curling is “the best sport”\n[01:22] Curling basics explained\n[02:14] Scoring system and the “house”\n[03:07] Comparison to bowls and other target sports\n\nReferences:\n\nCurl It (curling statistics website)\nWorld Curling Federation results"
+    "text": "Overview\nIn this episode, Jess and Rich examine the historical data behind BBC Sports Personality of the Year winners, breaking down which sports have claimed the most victories across 71 awards. Using a nested tree diagram as an alternative to the traditional pie chart, they quiz each other on the top sports and reveal some surprising results. The discussion also touches on the difference between individual and team sports in terms of public recognition.\n\nTimestamps:\n\n[00:03] Introduction to nested tree diagrams as pie chart alternatives\n[00:36] Overview of Sports Personality winners by sport\n[01:00] Guessing game: which sports have the most wins\n[02:18] Figure skating and Torvill and Dean connection\n\nReferences:\n\nBBC Sports Personality of the Year historical data"
   },
   {
-    "objectID": "episodes/episode-006.html#key-concepts",
-    "href": "episodes/episode-006.html#key-concepts",
-    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "objectID": "episodes/bonus-001.html#key-concepts",
+    "href": "episodes/bonus-001.html#key-concepts",
+    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
     "section": "Key Concepts",
-    "text": "Key Concepts\n\n\n\n\n\n\nTipThe Hammer Advantage\n\n\n\nIn curling, the team that throws the final stone (the “hammer”) has a significant strategic advantage, as they can guarantee at least one point by placing their stone closest to the centre. Teams often deliberately “blank” ends (score zero) to retain the hammer for crucial later ends, creating a fascinating tactical dynamic around when to score and when to preserve this advantage.\n\n\n\n\n\n\n\n\nTipCumulative Scoring System\n\n\n\nUnlike many sports with fixed point values, curling uses a proximity-based scoring system where only the team closest to the centre scores, and they continue accumulating points for each consecutive stone closer than any opponent’s stone. This creates strategic scenarios where forcing your opponent to score just one point (a “steal”) can be advantageous.\n\n\n\n\n\n\n\n\nTipRound Robin Tournament Analysis\n\n\n\nThe episode analyses 336 games (84 per championship) from the 2024-25 World Championships, using round robin results to fairly compare team performance across the 13 competing nations while excluding knockout stages where not all teams participate equally."
+    "text": "Key Concepts\n\n\n\n\n\n\nTipNested Tree Diagrams\n\n\n\nRich introduces the nested tree diagram (also known as a treemap) as a visualisation tool for displaying proportional data. Unlike pie charts, these diagrams use rectangular areas to show the relative size of categories, making it easier to compare sports with similar numbers of wins.\n\n\n\n\n\n\n\n\nTipIndividual vs Team Sport Recognition\n\n\n\nThe episode highlights how individual sports like athletics (19 wins) dominate the BBC SPOTY awards compared to team sports like football (7 wins). This reflects how public voting tends to favour athletes where individual achievement is more easily identifiable and attributable.\n\n\n\n\n\n\n\n\nTipCategorical Data Distribution\n\n\n\nWith 71 winners spread across multiple sports, the data reveals a highly skewed distribution. Athletics accounts for nearly 27% of all wins, demonstrating how certain sports consistently produce recognisable national sporting heroes."
   },
   {
-    "objectID": "episodes/episode-006.html#resources-references",
-    "href": "episodes/episode-006.html#resources-references",
-    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "objectID": "episodes/bonus-001.html#resources-references",
+    "href": "episodes/bonus-001.html#resources-references",
+    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
     "section": "Resources & References",
-    "text": "Resources & References\n\nCurl It - Curling statistics database\nWorld Curling Federation\nWinter Olympics 2026"
+    "text": "Resources & References\n\nBBC Sports Personality of the Year official records\nHistorical winner data (71 winners analysed)"
   },
   {
-    "objectID": "episodes/episode-006.html#transcript-highlights",
-    "href": "episodes/episode-006.html#transcript-highlights",
-    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "objectID": "episodes/bonus-001.html#transcript-highlights",
+    "href": "episodes/bonus-001.html#transcript-highlights",
+    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
     "section": "Transcript Highlights",
-    "text": "Transcript Highlights\n\n“People refer to it as chess on ice because it’s so strategic… it’s like chess on ice except for the fact that putting the pieces on the board was actually also really hard.”\n\nRich captures the dual challenge of curling perfectly - it combines the strategic depth of chess with the physical precision of darts, where executing your strategy is as difficult as formulating it.\n\n\n“If you score using the hammer, you give it up for the next go. So that dynamic of keeping and if you don’t score, if there’s no score on the end, what’s called a blank end, then you keep the hammer for the next go.”\n\nThis explains the counterintuitive tactical element where teams sometimes deliberately avoid scoring to maintain strategic advantage for later ends.\n\n\n“It’s the only sport where you can impact what happens to it when it’s left your hand.”\n\nJess highlights curling’s unique characteristic - the sweeping mechanism that allows players to influence the stone’s trajectory after release."
+    "text": "Transcript Highlights\n\n“This is actually a nested tree diagram, I think it’s called, but I’m not using it as a nested tree diagram at this point in time. It’s basically how I’m using it here is as an alternative to everyone’s favorite chart, the pie chart.”\n\nRich introduces a data visualisation approach that sidesteps the often-criticised pie chart, setting up the episode’s exploration of sports award data.\n\n\n“So because this is personality, so it’s single person. I’m going to guess it’s not football… So the 19 I’m going to guess is athletics.”\n\nJess demonstrates sharp statistical intuition, correctly identifying that individual sports would dominate an award focused on single athletes rather than teams.\n\n\n“I am from Nottingham. So, you know… Christopher Dean went to my secondary school before I went there and I sat next to Jane Torvill at the playoff final for Notts County versus Chesterfield.”\n\nRich reveals a personal connection to figure skating legends Torvill and Dean, adding a local touch to the statistical discussion."
   },
   {
-    "objectID": "episodes/episode-006.html#discussion",
-    "href": "episodes/episode-006.html#discussion",
-    "title": "Episode 6: How to Win at Curling (Using Maths)",
+    "objectID": "episodes/bonus-001.html#discussion",
+    "href": "episodes/bonus-001.html#discussion",
+    "title": "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most?",
     "section": "Discussion",
-    "text": "Discussion\nCurling represents a fascinating case study in sports analytics because it combines deterministic strategy (like chess) with stochastic execution (like darts or golf). The hammer advantage creates a game-theoretic element where the optimal strategy isn’t always to maximise immediate points - sometimes blanking an end provides greater expected value for the match outcome. This mirrors concepts in baseball analytics around “playing for one run” versus “playing for a big inning.”\nThe dominance of nations like Canada and Switzerland in the World Championship data raises interesting questions about the development pathways and infrastructure that create curling powerhouses. The episode’s analysis of 336 games provides a solid foundation for understanding team performance, though future episodes might explore individual shot success rates or the impact of specific tactical decisions on win probability.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisode 5 - Previous episode on sports strategy\n\n\n\n\n\n\n⬅️ Episode 5\n\n\n➡️ Episode 7"
+    "text": "Discussion\nThe analysis of BBC Sports Personality of the Year winners provides a fascinating case study in how public recognition of sporting achievement varies across disciplines. The dominance of athletics (19 wins) over team sports like football (7 wins) reflects both the individual nature of the award and the heightened visibility that Olympic success brings to track and field athletes in British sporting culture.\nFrom a data visualisation perspective, the choice to use a treemap rather than a pie chart demonstrates good practice in statistical communication. While pie charts struggle to convey differences between similarly-sized categories, treemaps allow for more intuitive comparison—particularly useful when explaining that Formula One (8 wins) edges out both tennis and football (7 wins each). This episode serves as a reminder that choosing the right visualisation method can significantly impact how effectively data tells its story.\n\n\n\n\n\n\nNoteRelated Episodes\n\n\n\n\nEpisodes discussing multiple award winners and repeat champions in sports\nPrevious episodes on data visualisation techniques in sports analytics\n\n\n\n\n\n\n⬅️ Episode 10\n\n\n➡️ Episode 12"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Corridor of Uncertainty",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Corridor of Uncertainty",
     "section": "",
-    "text": "The Corridor of Uncertainty\n  A podcast at the intersection of maths & sport — exploring what the numbers really tell us.\n  Hosted by Dr Jess Hargreaves & Dr Rich Bingham  ·  Department of Mathematics, University of York\n  \n  📺 Browse Episodes\n  ▶ YouTube Channel\n\n\n\nLatest Episodes\n\n\n  Episode 9\n  Have the Dodgers Broken Moneyball?\n  📅 24 Mar 2026  ·  ⏱ ~41:00\n  Exploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage.\n  \n    BaseballMoneyballSabermetricsPlayer Recruitment\n  \n  Read more →\n    \n  Watch on YouTube ↗\n\n\n\n  Episode 8\n  Curling by Numbers: Why GB Won Silver\n  📅 25 Mar 2026  ·  ⏱ ~25:00\n  Analysing Team GB's silver medal performance at the 2026 Winter Olympics curling final against Canada through statistics and probability.\n  \n    CurlingWinter OlympicsGame TheoryStatistical Analysis\n  \n  Read more →\n    \n  Watch on YouTube ↗\n\n\n\n  Episode 7\n  Why Did Man City Sign Semenyo?\n  📅 25 Mar 2025  ·  ⏱ ~15:00\n  Exploring how football clubs use data analytics to identify and sign players, with Manchester City's signing of Antoine Semenyo as a case study.\n  \n    FootballPlayer RecruitmentData AnalyticsTransfer Market\n  \n  Read more →\n    \n  Watch on YouTube ↗\n\n\n\nView all episodes →\n\n\n\nExplore\n\n\n  \n    📋\n    All Episodes\n    Full episode archive\n  \n  \n    ℹ️\n    About\n    About the channel and team\n  \n  \n    🔮\n    Upcoming\n    What's coming next\n  \n  \n    ▶️\n    YouTube\n    Watch on YouTube"
+    "text": "The Corridor of Uncertainty is the YouTube channel for the Quantitative Sports Analysis: York (QSA:Y) group, based in the Department of Mathematics at the University of York. We highlight and critique interesting applications of mathematical modelling and analysis in sport, and promote a dialogue between the worlds of sport and mathematics — which ought to benefit both, as well as being fun!\nCreated by: Dr Jess Hargreaves and Dr Rich Bingham"
+  },
+  {
+    "objectID": "about.html#the-channel",
+    "href": "about.html#the-channel",
+    "title": "About the Corridor of Uncertainty",
+    "section": "",
+    "text": "The Corridor of Uncertainty is the YouTube channel for the Quantitative Sports Analysis: York (QSA:Y) group, based in the Department of Mathematics at the University of York. We highlight and critique interesting applications of mathematical modelling and analysis in sport, and promote a dialogue between the worlds of sport and mathematics — which ought to benefit both, as well as being fun!\nCreated by: Dr Jess Hargreaves and Dr Rich Bingham"
+  },
+  {
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "About the Corridor of Uncertainty",
+    "section": "Mission",
+    "text": "Mission\n[Add mission statement]"
+  },
+  {
+    "objectID": "about.html#episodes",
+    "href": "about.html#episodes",
+    "title": "About the Corridor of Uncertainty",
+    "section": "Episodes",
+    "text": "Episodes\n\nEpisode 1: The SPLit — How fair is Scottish Football?\nEpisode 2: Sports Personality of the Year — Can we use stats to rank sports?\nEpisode 3: The CoU Sports Statistic of the Year 2025\nEpisode 4: How random is the NBA? — Can statistics prove that basketball is a bad sport?\nEpisode 5: Best January Transfer Signings Ever? — Can Stats Decide?\nEpisode 6: Can Maths Predict Curling Games?\nBonus: Which Sports win BBC Sports Personality of the Year the most?"
+  },
+  {
+    "objectID": "about.html#about-this-site",
+    "href": "about.html#about-this-site",
+    "title": "About the Corridor of Uncertainty",
+    "section": "About This Site",
+    "text": "About This Site\nThis companion website is built using Quarto, an open-source scientific and technical publishing system. It provides:\n\n\n\n\n📝 Enhanced Content\nEpisode summaries, code samples, and extended explanations\n\n\n\n\n\n\n🔬 Interactive Visualisations\nExplore data and concepts hands-on\n\n\n\n\n\n\n🔗 Organised Resources\nAll links, papers, and references in one place\n\n\n\n\n\n\n🔍 Full-Text Search\nFind content across all episodes instantly"
+  },
+  {
+    "objectID": "about.html#connect",
+    "href": "about.html#connect",
+    "title": "About the Corridor of Uncertainty",
+    "section": "Connect",
+    "text": "Connect\n\nYouTube: The Corridor of Uncertainty\nQSA:Y Group: University of York\n\n\n\n\n🏠 Back to Home"
   }
 ]
