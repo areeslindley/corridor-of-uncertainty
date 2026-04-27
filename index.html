@@ -34,6 +34,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -71,8 +73,66 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-latest-episodes .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-latest-episodes'] = new List('listing-latest-episodes', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -198,44 +258,50 @@ ul.task-list li input[type="checkbox"] {
     border-bottom: 3px solid #f0c040;
     display: inline-block;
   }
-  .episode-card {
+  /* Latest episodes listing — Quarto emits #listing-{id} */
+  #listing-latest-episodes .listing-pagination,
+  #listing-latest-episodes .page-link {
+    display: none !important;
+  }
+  #listing-latest-episodes .quarto-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  #listing-latest-episodes .quarto-grid-item {
     border: 1px solid #e0e0e0;
     border-radius: 10px;
     padding: 1.2rem 1.4rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0 !important;
     transition: box-shadow 0.2s, border-color 0.2s;
     background: white;
   }
-  .episode-card:hover {
+  #listing-latest-episodes .quarto-grid-item:hover {
     box-shadow: 0 4px 16px rgba(0,0,0,0.10);
     border-color: #f0c040;
   }
-  .episode-number {
-    font-size: 0.75rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: #888;
-    margin-bottom: 0.2rem;
-  }
-  .episode-title {
+  #listing-latest-episodes .quarto-grid-item h5 a,
+  #listing-latest-episodes .quarto-grid-item .listing-title a {
     font-size: 1rem;
     font-weight: 700;
-    margin-bottom: 0.3rem;
-    color: #1a1a1a;
+    color: #1a1a1a !important;
+    text-decoration: none !important;
   }
-  .episode-meta {
+  #listing-latest-episodes .quarto-grid-item h5 a:hover {
+    text-decoration: underline !important;
+  }
+  #listing-latest-episodes .listing-date {
     font-size: 0.82rem;
     color: #888;
     margin-bottom: 0.5rem;
   }
-  .episode-desc {
+  #listing-latest-episodes .listing-description {
     font-size: 0.9rem;
     color: #444;
     margin-bottom: 0.7rem;
     line-height: 1.5;
   }
-  .episode-tags span {
+  #listing-latest-episodes .listing-categories .listing-category {
     display: inline-block;
     background: #f5f5f5;
     color: #555;
@@ -276,7 +342,6 @@ ul.task-list li input[type="checkbox"] {
   .nav-card .nav-label { font-weight: 600; font-size: 0.95rem; }
   .nav-card .nav-desc { font-size: 0.82rem; color: #888; margin-top: 0.2rem; }
 </style>
-
 <!-- Hero -->
 <div class="cou-hero">
   <img src="logo.png" alt="Corridor of Uncertainty logo">
@@ -287,49 +352,134 @@ ul.task-list li input[type="checkbox"] {
   <a class="cou-btn cou-btn-primary" href="episodes/index.html">📺 Browse Episodes</a>
   <a class="cou-btn cou-btn-secondary" href="https://www.youtube.com/@CorridorOfUncertainty" target="_blank">▶ YouTube Channel</a>
 </div>
-
-<!-- Latest Episodes -->
-<p class="cou-section-title">Latest Episodes</p>
-
-<div class="episode-card">
-  <div class="episode-number">Episode 9</div>
-  <div class="episode-title">Have the Dodgers Broken Moneyball?</div>
-  <div class="episode-meta">📅 24 Mar 2026 &nbsp;·&nbsp; ⏱ ~41:00</div>
-  <div class="episode-desc">Exploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage.</div>
-  <div class="episode-tags">
-    <span>Baseball</span><span>Moneyball</span><span>Sabermetrics</span><span>Player Recruitment</span>
-  </div>
-  <a class="episode-link" href="episodes/episode-009.html">Read more →</a>
-  &nbsp;&nbsp;
-  <a class="episode-link" href="https://www.youtube.com/watch?v=w43yhwejkn8" target="_blank">Watch on YouTube ↗</a>
+<div class="cou-section-title">
+<p>Latest Episodes</p>
 </div>
+<div id="listing-latest-episodes" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-1">
+<div class="g-col-1" data-index="0" data-categories="QmFza2V0YmFsbCUyQ0VsbyUyMFJhdGluZ3MlMkNQcmVkaWN0aW9uJTJDTkJBJTJDUGxheW9mZnM=" data-listing-date-sort="1776729600000" data-listing-file-modified-sort="1777315429856" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="582">
+<a href="./episodes/episode-014.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Episode 14: Who Will Win the NBA Championship? Basketball &amp; Elo Ratings
+</h5>
+<div class="listing-categories">
 
-<div class="episode-card">
-  <div class="episode-number">Episode 8</div>
-  <div class="episode-title">Curling by Numbers: Why GB Won Silver</div>
-  <div class="episode-meta">📅 25 Mar 2026 &nbsp;·&nbsp; ⏱ ~25:00</div>
-  <div class="episode-desc">Analysing Team GB's silver medal performance at the 2026 Winter Olympics curling final against Canada through statistics and probability.</div>
-  <div class="episode-tags">
-    <span>Curling</span><span>Winter Olympics</span><span>Game Theory</span><span>Statistical Analysis</span>
-  </div>
-  <a class="episode-link" href="episodes/episode-008.html">Read more →</a>
-  &nbsp;&nbsp;
-  <a class="episode-link" href="https://www.youtube.com/watch?v=noA2d75QkEM" target="_blank">Watch on YouTube ↗</a>
+<div class="listing-category" onclick="window.quartoListingCategory('QmFza2V0YmFsbA=='); return false;">Basketball</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWxvJTIwUmF0aW5ncw=='); return false;">Elo Ratings</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJlZGljdGlvbg=='); return false;">Prediction</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TkJB'); return false;">NBA</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UGxheW9mZnM='); return false;">Playoffs</div>
+
 </div>
-
-<div class="episode-card">
-  <div class="episode-number">Episode 7</div>
-  <div class="episode-title">Why Did Man City Sign Semenyo?</div>
-  <div class="episode-meta">📅 25 Mar 2025 &nbsp;·&nbsp; ⏱ ~15:00</div>
-  <div class="episode-desc">Exploring how football clubs use data analytics to identify and sign players, with Manchester City's signing of Antoine Semenyo as a case study.</div>
-  <div class="episode-tags">
-    <span>Football</span><span>Player Recruitment</span><span>Data Analytics</span><span>Transfer Market</span>
-  </div>
-  <a class="episode-link" href="episodes/episode-007.html">Read more →</a>
-  &nbsp;&nbsp;
-  <a class="episode-link" href="https://www.youtube.com/watch?v=-v1nLR34YGA&amp;t=303s" target="_blank">Watch on YouTube ↗</a>
+<div class="card-text listing-description delink">
+<p>Jess uses Elo ratings to predict the NBA playoffs winner, explaining how the rating system works for basketball’s complex playoff structure.</p>
 </div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+21 Apr 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Rm9vdGJhbGwlMkNQcm9iYWJpbGl0eSUyQ1BvaXNzb24lMjBEaXN0cmlidXRpb24lMkNQcmVtaWVyJTIwTGVhZ3VlJTJDUHJlZGljdGlvbg==" data-listing-date-sort="1775779200000" data-listing-file-modified-sort="1777315429856" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="676">
+<a href="./episodes/episode-012.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Episode 12: How to Predict Premier League Games
+</h5>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9vdGJhbGw='); return false;">Football</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJvYmFiaWxpdHk='); return false;">Probability</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG9pc3NvbiUyMERpc3RyaWJ1dGlvbg=='); return false;">Poisson Distribution</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJlbWllciUyMExlYWd1ZQ=='); return false;">Premier League</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJlZGljdGlvbg=='); return false;">Prediction</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Can maths predict who will win the Premier League title and who will be relegated? Rich and Jess explore the Poisson distribution and football modelling.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+10 Apr 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="QmFzZWJhbGwlMkNTYWJlcm1ldHJpY3MlMkNQcmVkaWN0aXZlJTIwTW9kZWxsaW5nJTJDQmlsbCUyMEphbWVz" data-listing-date-sort="1774915200000" data-listing-file-modified-sort="1777315429856" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="662">
+<a href="./episodes/episode-011.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Episode 11: The Pythagorean Theorem of Baseball
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QmFzZWJhbGw='); return false;">Baseball</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2FiZXJtZXRyaWNz'); return false;">Sabermetrics</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJlZGljdGl2ZSUyME1vZGVsbGluZw=='); return false;">Predictive Modelling</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QmlsbCUyMEphbWVz'); return false;">Bill James</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Exploring Bill James’s elegant formula for predicting baseball win percentages using runs scored and allowed, with original analysis optimising the exponent.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+31 Mar 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="QmFzZWJhbGwlMkNNb25leWJhbGwlMkNTYWJlcm1ldHJpY3MlMkNQbGF5ZXIlMjBSZWNydWl0bWVudA==" data-listing-date-sort="1774310400000" data-listing-file-modified-sort="1777315429856" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="697">
+<a href="./episodes/episode-009.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Episode 9: Have the Dodgers Broken Moneyball?
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QmFzZWJhbGw='); return false;">Baseball</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TW9uZXliYWxs'); return false;">Moneyball</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2FiZXJtZXRyaWNz'); return false;">Sabermetrics</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UGxheWVyJTIwUmVjcnVpdG1lbnQ='); return false;">Player Recruitment</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Exploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+24 Mar 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 <br>
 <a class="episode-link" href="episodes/index.html">View all episodes →</a>
 
@@ -359,6 +509,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="nav-desc">Watch on YouTube</div>
   </a>
 </div>
+
 
 
 
