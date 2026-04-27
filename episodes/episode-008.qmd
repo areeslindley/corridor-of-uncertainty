@@ -3,6 +3,7 @@ title: "Episode 8: Curling by Numbers: Why GB Won Silver"
 date: 2026-03-10
 description: "Analysing Team GB's silver medal performance at the 2026 Winter Olympics curling final against Canada through statistics and probability."
 categories: [Curling, Winter Olympics, Game Theory, Statistical Analysis]
+youtube_id: "noA2d75QkEM"
 ---
 
 ::: {.grid}

@@ -3,6 +3,7 @@ title: "Episode 5: Best January Transfer Signings Ever? Can Stats Decide?"
 date: 2026-01-27
 description: "Rich and Jess debate whether statistics can determine the greatest Premier League January transfer signing of all time."
 categories: [Football, Transfer Market, Player Evaluation, Premier League]
+youtube_id: "fEXpzZSyGoI"
 ---
 
 ::: {.grid}

@@ -1,0 +1,23 @@
+/.quarto/
+**/*.quarto_ipynb
+
+# YouTube cookie exports for yt-dlp (optional local paths preferred)
+youtube_cookies.txt
+yt_cookies.txt
+
+# Local tooling (audits / episode generation) — not part of the published site
+audit_youtube_episodes.py
+youtube_episode_audit.csv
+youtube_episode_audit_commands.sh
+generate_episode.py
+generate_episode_2.py
+
+# Build output (GitHub Actions renders to gh-pages)
+/_site/
+/site_libs/
+
+# Stray single-page HTML renders (source is .qmd)
+/episodes/*.html
+
+.DS_Store
+**/.DS_Store

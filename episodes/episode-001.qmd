@@ -3,6 +3,7 @@ title: "Episode 1: The SPLit — How fair is Scottish Football?"
 date: 2025-12-09
 description: "How fair is Scottish football? We talk about the Split format in the Scottish Premier League, including some of the unintended consequences."
 categories: [Football, Scottish Premier League, Statistics]
+youtube_id: "sgeDr1ykMaI"
 ---
 
 ::: {.grid}
@@ -38,14 +39,20 @@ Jess' and Johan's 6-page paper can be found here:
 
 ## Key Concepts
 
+The analysis centres on whether the SPL Split format distorts incentives — particularly whether a team's pre-split league position causally affects their post-split attendance. The scatter below shows the relationship between pre-split position and post-split attendance (on a log scale), motivating the need for a more rigorous causal approach.
+
+![Pre-split league position versus natural log of post-split attendance across SPL seasons.](images/episode_1/Fig2_Scatter.jpg){fig-alt="Scatter plot of SPL attendance (log scale) against league position pre-split, showing a general negative relationship with considerable spread." width="100%"}
+
 ::: {.callout-tip}
-## \[Key Concept 1\]
-\[Explanation of the concept\]
+## The SPL Split Format
+The Scottish Premier League uses a mid-season "split" after 33 matches: the top six teams play each other for European places and the title, while the bottom six contest relegation. Although designed to keep late-season fixtures meaningful, the format creates a sharp discontinuity in competitive incentives around the 6th/7th place boundary — teams just above and just below the cut-off face very different post-split schedules despite having accumulated nearly identical points.
 :::
 
 ::: {.callout-tip}
-## \[Key Concept 2\]
-\[Explanation of the concept\]
+## Regression Discontinuity Design
+Regression Discontinuity (RD) is a quasi-experimental method for estimating causal effects when treatment is assigned by whether a continuous "running variable" crosses a known threshold. Here, pre-split league position is the running variable and finishing in the top six is the treatment. By comparing teams just above and just below the cut-off — who are otherwise very similar — it is possible to isolate the causal effect of split placement on post-split attendance, rather than simply observing a correlation. The plot below shows the estimated discontinuity in log-attendance at the split boundary (cut-off = 0), with 95% confidence bands.
+
+![Linear RD plot estimating the causal effect of top-six placement on post-split attendance. The dashed line marks the split cut-off; the gap between the two regression lines represents the estimated treatment effect.](images/episode_1/Fig4A_LinearRD.jpg){fig-alt="Linear regression discontinuity plot with natural log of attendance on the y-axis and normalised cut-off on the x-axis, showing a downward jump at the threshold." width="100%"}
 :::
 
 ## Interactive Demonstration
@@ -71,6 +78,10 @@ This interactive visualisation demonstrates how points are distributed across te
 </div>
 ```
 
+The scatter below complements the interactive chart by showing how points accumulated pre-split vary across all 12 league positions across multiple seasons, illustrating the degree of overlap near the cut-off that makes the RD approach credible.
+
+![Points accumulated pre-split by league position across SPL seasons. The overlap in points between adjacent positions — especially around 6th and 7th — supports the RD assumption of local exchangeability near the threshold.](images/episode_1/Fig3_Points.JPG){fig-alt="Scatter plot of pre-split points accumulated against league position for all 12 SPL teams, showing decreasing points with lower position and notable overlap near the split boundary." width="100%"}
+
 This visualisation shows:
 
 - **Interactive features**: Hover over bars to see exact point values
@@ -79,53 +90,24 @@ This visualisation shows:
 
 ## Resources & References
 
-- \[Link to paper/article 1\]
-- \[Link to code repository\]
-- \[Link to related resource\]
+- Hargreaves, J. & [co-author]: *The SPLit — fairness in the Scottish Premier League* — <https://eprints.whiterose.ac.uk/id/ep...>
+- Interactive SPLit tool: <https://shiny.york.ac.uk/SPLit/>
 
-## Transcript Highlights
-
-> "\[Notable quote from the video\]"
-
-\[Additional context or explanation\]
-
----
-
-> "\[Another notable quote\]"
-
-\[Context\]
-
-## Code Examples
-
-::: {.panel-tabset}
-
-## Python
-
-```python
-# Example code from episode
-def example_function():
-    pass
-```
-
-## R
-
-```r
-# R equivalent if applicable
-example_function <- function() {
-  # code
-}
-```
 
 :::
 
 ## Discussion
 
-\[Add any additional commentary, extended explanations, or connections to other episodes\]
+Beyond the causal question of whether split placement affects attendance, the episode also examines how consistently teams fill their stadiums across the full season. The chart below tracks each club's attendance as a proportion of stadium capacity match-by-match, with the shaded region indicating the post-split period. The stark divergence between clubs — Celtic and Rangers consistently near capacity, some sides regularly below 50% — contextualises why the commercial stakes of split placement differ so dramatically between the top and bottom of the table.
+
+![Attendance as a proportion of stadium capacity by match week for all 12 SPL clubs. The shaded region marks the post-split fixtures. Solid lines denote the Old Firm; dashed lines all other clubs.](images/episode_1/attendance_timeline.png){fig-alt="Line chart showing attendance as a proportion of stadium capacity across the SPL season for all 12 clubs, with the post-split period shaded in grey." width="100%"}
+
+The SPLit paper is a nice example of RD design being applied in a sports context where a clean threshold exists naturally in the competition structure. The same logic could extend to other split or playoff formats — the A-League, the Danish Superliga, or even promotion play-offs — wherever a discrete cut-off generates a discontinuity in incentives or outcomes that would otherwise be confounded with underlying team quality.
 
 ::: {.callout-note}
 ## Related Episodes
-- \[Episode X: Related Topic\](episode-00X.qmd)
-- \[Episode Y: Follow-up Topic\](episode-00Y.qmd)
+- [Episode X: Related Topic](episode-00X.qmd)
+- [Episode Y: Follow-up Topic](episode-00Y.qmd)
 :::
 
 ---

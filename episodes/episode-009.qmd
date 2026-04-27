@@ -3,6 +3,7 @@ title: "Episode 9: Have the Dodgers Broken Moneyball?"
 date: 2026-03-24
 description: "Exploring the origins of Moneyball, myth-busting common misconceptions, and examining how MLB teams use mathematics for competitive advantage."
 categories: [Baseball, Moneyball, Sabermetrics, Player Recruitment]
+youtube_id: "w43yhwejkn8"
 ---
 
 ::: {.grid}

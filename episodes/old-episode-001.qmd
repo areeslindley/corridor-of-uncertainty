@@ -1,0 +1,144 @@
+---
+title: "Episode 1: The SPLit — How fair is Scottish Football?"
+date: 2025-12-09
+description: "How fair is Scottish football? We talk about the Split format in the Scottish Premier League, including some of the unintended consequences."
+categories: [Football, Scottish Premier League, Statistics]
+youtube_id: "sgeDr1ykMaI"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 2025-12-09  
+**Duration**: 37:31  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=sgeDr1ykMaI&t=334s)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Football, Scottish Premier League, Statistics
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/sgeDr1ykMaI?si=dSLc7mIKrpnNASCZ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Welcome to the Corridor of Uncertainty, a podcast at the intersection of maths & sport. Hosted by Dr Jess Hargreaves & Dr Rich Bingham, two mathematicians at the University of York.
+
+How fair is Scottish football? In this episode we talk about the Split format in the Scottish Premier League, including some of the unintended consequences.
+
+---
+
+Jess' and Johan's 6-page paper can be found here:
+
+- <https://eprints.whiterose.ac.uk/id/ep...>
+- <https://shiny.york.ac.uk/SPLit/>
+
+## Key Concepts
+
+::: {.callout-tip}
+## \[Key Concept 1\]
+\[Explanation of the concept\]
+:::
+
+::: {.callout-tip}
+## \[Key Concept 2\]
+\[Explanation of the concept\]
+:::
+
+## Interactive Demonstration
+
+This interactive visualisation demonstrates how points are distributed across teams in a typical Scottish Premier League season, illustrating the competitive balance that the split format addresses.
+
+```{=html}
+<div>
+  <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+  <script charset="utf-8" src="https://cdn.plot.ly/plotly-2.29.1.min.js"></script>
+  <div id="spl-plot" class="plotly-graph-div" style="height:600px; width:100%;"></div>
+  <script type="text/javascript">
+    window.PLOTLYENV=window.PLOTLYENV || {};
+    if (document.getElementById("spl-plot")) {
+      Plotly.newPlot(
+        "spl-plot",
+        [{"alignmentgroup":"True","hovertemplate":"Total Points=%{marker.color}<br>Team=%{y}<extra></extra>","legendgroup":"","marker":{"color":[26,30,37,38,46,51,52,57,66,69,84,89],"coloraxis":"coloraxis","pattern":{"shape":""}},"name":"","offsetgroup":"","orientation":"h","showlegend":false,"text":[26.0,30.0,37.0,38.0,46.0,51.0,52.0,57.0,66.0,69.0,84.0,89.0],"textposition":"outside","x":[26,30,37,38,46,51,52,57,66,69,84,89],"xaxis":"x","y":["Livingston","St. Johnstone","Ross County","Motherwell","Kilmarnock","St. Mirren","Dundee","Hibernian","Aberdeen","Hearts","Rangers","Celtic"],"yaxis":"y","type":"bar"}],
+        {"xaxis":{"anchor":"y","domain":[0.0,1.0],"title":{"text":"Total Points"}},"yaxis":{"anchor":"x","domain":[0.0,1.0],"title":{"text":""},"categoryorder":"total ascending"},"coloraxis":{"colorbar":{"title":{"text":"Total Points"}},"colorscale":[[0.0,"rgb(165,0,38)"],[0.1,"rgb(215,48,39)"],[0.2,"rgb(244,109,67)"],[0.3,"rgb(253,174,97)"],[0.4,"rgb(254,224,139)"],[0.5,"rgb(255,255,191)"],[0.6,"rgb(217,239,139)"],[0.7,"rgb(166,217,106)"],[0.8,"rgb(102,189,99)"],[0.9,"rgb(26,152,80)"],[1.0,"rgb(0,104,55)"]]},"legend":{"tracegroupgap":0},"title":{"text":"Scottish Premier League Points Distribution (Example Season)"},"barmode":"relative","shapes":[{"line":{"color":"red","dash":"dash"},"type":"line","x0":51,"x1":51,"xref":"x","y0":0,"y1":1,"yref":"y domain"}],"annotations":[{"showarrow":false,"text":"Split Line (Top 6 / Bottom 6)","x":51,"xanchor":"center","xref":"x","y":1,"yanchor":"bottom","yref":"y domain"}],"height":600,"showlegend":false,"hovermode":"closest"},
+        {"responsive": true}
+      )
+    };
+  </script>
+</div>
+```
+
+This visualisation shows:
+
+- **Interactive features**: Hover over bars to see exact point values
+- **Colour coding**: Teams are colour-coded by points (green = higher, red = lower)
+- **Split indicator**: The dashed line shows where the league typically splits into top and bottom halves
+
+## Resources & References
+
+- \[Link to paper/article 1\]
+- \[Link to code repository\]
+- \[Link to related resource\]
+
+## Transcript Highlights
+
+> "\[Notable quote from the video\]"
+
+\[Additional context or explanation\]
+
+---
+
+> "\[Another notable quote\]"
+
+\[Context\]
+
+## Code Examples
+
+::: {.panel-tabset}
+
+## Python
+
+```python
+# Example code from episode
+def example_function():
+    pass
+```
+
+## R
+
+```r
+# R equivalent if applicable
+example_function <- function() {
+  # code
+}
+```
+
+:::
+
+## Discussion
+
+\[Add any additional commentary, extended explanations, or connections to other episodes\]
+
+::: {.callout-note}
+## Related Episodes
+- \[Episode X: Related Topic\](episode-00X.qmd)
+- \[Episode Y: Follow-up Topic\](episode-00Y.qmd)
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Back to Episodes](index.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 2](episode-002.qmd)
+:::
+
+:::

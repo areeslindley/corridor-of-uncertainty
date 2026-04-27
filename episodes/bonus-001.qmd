@@ -3,6 +3,7 @@ title: "Episode 11: Which Sports Win BBC Sports Personality of the Year the Most
 date: 2026-03-25
 description: "Exploring the distribution of BBC Sports Personality of the Year winners across different sports using tree diagrams as an alternative to pie charts."
 categories: [Data Visualisation, Awards, BBC SPOTY, Statistics]
+youtube_id: "n4g1kiPJw3k"
 ---
 
 ::: {.grid}

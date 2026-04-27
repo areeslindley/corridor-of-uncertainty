@@ -3,6 +3,7 @@ title: "Episode 6: How to Win at Curling (Using Maths)"
 date: 2026-02-10
 description: "Rich and Jess explore the statistical strategies behind curling ahead of the Winter Olympics 2026, analysing World Championship data to understand what makes teams successful."
 categories: [Curling, Winter Olympics, Game Theory, Strategy]
+youtube_id: "H2lbiTPuMhc"
 ---
 
 ::: {.grid}

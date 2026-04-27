@@ -1,0 +1,111 @@
+---
+title: "Episode 14: Who Will Win the NBA Championship? Basketball & Elo Ratings"
+date: 2026-04-21
+description: "Jess uses Elo ratings to predict the NBA playoffs winner, explaining how the rating system works for basketball's complex playoff structure."
+categories: [Basketball, Elo Ratings, Prediction, NBA, Playoffs]
+youtube_id: "g2K6SbBuNxU"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 2026-04-21  
+**Duration**: 52:37  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=g2K6SbBuNxU)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Basketball, Elo Ratings, NBA Playoffs, Prediction Models, Conference Structure
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/g2K6SbBuNxU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+With the NBA playoffs underway, Jess takes the lead in attempting to predict who will win the championship using Elo ratings. The episode provides a thorough explanation of the NBA's complex structure, including the 82-game regular season, conference and division breakdowns, and the play-in tournament format. Building on their previous Premier League prediction episode, the hosts explore how different prediction methods might apply across different sports contexts.
+
+---
+
+**Timestamps:**
+
+- [00:00] Introduction and NBA playoffs setup
+- [00:33] Overview of basketball as a data-rich sport
+- [02:01] Explaining the NBA playoff structure
+- [02:28] The play-in tournament explained
+- [03:01] Best-of-seven series format
+
+**References:**
+
+- Previous Corridor of Uncertainty episode on basketball
+- Previous episode on predicting the Premier League
+
+## Key Concepts
+
+::: {.callout-tip}
+## Elo Rating System
+The Elo rating system, originally developed for chess, is applied here to predict NBA playoff outcomes. By using data from the 82-game regular season, Elo ratings can estimate the probability of each team winning best-of-seven playoff series and ultimately the championship.
+:::
+
+::: {.callout-tip}
+## NBA Playoff Structure
+The NBA uses a complex playoff format with Eastern and Western conferences, each seeding 8 teams through a combination of regular season performance and a play-in tournament. The play-in tournament allows teams seeded 7-10 to compete for the final two playoff spots, adding an extra layer of complexity to predictions.
+:::
+
+::: {.callout-tip}
+## Win Percentage Rankings
+Unlike football leagues that use points (3 for a win, 1 for a draw), the NBA ranks teams by win percentage since basketball games always produce a winner. This creates a cleaner comparison between teams, though unequal schedules mean direct comparisons aren't straightforward.
+:::
+
+## Resources & References
+
+- NBA official standings and playoff bracket
+- Previous episode: Basketball analytics introduction
+- Previous episode: Premier League prediction methods
+
+## Transcript Highlights
+
+> "Basketball is maybe not my most favorite sport, but it is a popular sport and it generates a great amount of numbers."
+
+Rich acknowledges that while basketball isn't his favourite, he appreciates the wealth of statistical data the sport produces, setting up the analytical focus of the episode.
+
+---
+
+> "I think this could be the episode we change your mind where you love the basketball."
+
+Jess optimistically suggests that diving into the mathematical aspects of NBA prediction might convert Rich into a basketball fan.
+
+---
+
+> "You do get a winner. So, it's all on your win percentage. How many games have you won? Because you're not getting three points for a win because there's no draw."
+
+This highlights a key difference between basketball and football that affects how teams are ranked and rated.
+
+## Discussion
+
+This episode demonstrates how prediction methods can be adapted across different sports contexts. While Rich's Premier League predictions used known future fixtures, Jess faces the challenge of predicting multiple rounds of playoff series where matchups depend on previous results. The NBA's structure—with its conferences, divisions, and play-in tournament—creates a fascinating prediction problem that requires modelling not just individual game outcomes but entire series and tournament paths.
+
+The discussion of Elo ratings connects to broader themes in sports analytics about transferable methodologies. Originally designed for chess, Elo ratings have proven remarkably versatile across sports, from tennis to American football to basketball. The episode highlights how understanding a sport's specific structure—such as best-of-seven series eliminating single-game variance—is crucial for applying any prediction model effectively.
+
+::: {.callout-note}
+## Related Episodes
+- Episode on Premier League predictions using simulation methods
+- Previous basketball analytics episode
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 13](episode-013.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 15](episode-015.qmd)
+:::
+
+:::

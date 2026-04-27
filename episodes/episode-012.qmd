@@ -1,0 +1,113 @@
+---
+title: "Episode 12: How to Predict Premier League Games"
+date: 2026-04-10
+description: "Can maths predict who will win the Premier League title and who will be relegated? Rich and Jess explore the Poisson distribution and football modelling."
+categories: [Football, Probability, Poisson Distribution, Premier League, Prediction]
+youtube_id: "lwdJHCQNE_E"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 10 April 2026  
+**Duration**: ~15:00  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=lwdJHCQNE_E)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Poisson Distribution, Football Prediction, Probability Distributions, Premier League Title Race
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/lwdJHCQNE_E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+With the Premier League on an international break, Rich takes the opportunity to explore how mathematics can predict the rest of the season — from title winners to relegation candidates. The episode demystifies the "supercomputer predictions" often seen in clickbait articles, revealing that the underlying methods are accessible enough to run on a standard laptop. Rich introduces probability distributions, from the familiar binomial to the Poisson distribution, showing how the latter has been used to model football scores since the 1950s.
+
+---
+
+**Timestamps:**
+
+- [00:00] Introduction: Can maths predict the Premier League?
+- [00:18] Podcast introduction
+- [00:49] Debunking "supercomputer" predictions
+- [01:31] Betting industry methods discussion
+- [02:45] Introduction to probability distributions
+- [03:01] Coin tossing and the binomial distribution
+
+**References:**
+
+- Maher (1982) — Independent Poisson model for football
+- Charles Reep — Pioneer of football statistics
+- Siméon Denis Poisson (1781-1840) — Creator of the Poisson distribution
+
+## Key Concepts
+
+::: {.callout-tip}
+## Probability Distributions
+A probability distribution assigns a number (probability) to all possible outcomes of a random event. For a coin toss, it's 50-50; for more complex events like football scores, we need distributions that can handle rates of events occurring over time, such as goals per match.
+:::
+
+::: {.callout-tip}
+## The Poisson Distribution
+The Poisson distribution models the probability of a given number of events occurring in a fixed interval of time, given a known average rate. It's ideal for football because goals can be thought of as events occurring at a certain rate per game — the 2025-26 Premier League average is 1.37 goals per team per game.
+:::
+
+::: {.callout-tip}
+## Independent Poisson Model (Maher, 1982)
+Also known as the "double Poisson model," this approach models both teams' goal-scoring simultaneously using independent Poisson distributions. This allows prediction of match outcomes by considering the attacking and defensive strengths of each team.
+:::
+
+## Resources & References
+
+- Maher, M.J. (1982) — Modelling association football scores
+- Charles Reep's pioneering work on football statistics (1950s onwards)
+- Historical note: Ladislaus Bortkiewicz used the Poisson distribution to model Prussian soldiers killed by horse kicks
+
+## Transcript Highlights
+
+> "It always makes me laugh a little bit because it's a supercomputer. And the things we go through today are probably the same method they're using. And it takes about two seconds to run on my laptop."
+
+Jess debunks the mystique around "supercomputer predictions" seen in clickbait articles, highlighting that the mathematical methods are surprisingly accessible.
+
+---
+
+> "The betting industry does a good job, right? They're still there making money doing well... they sort of said yeah, it's similar to what you'll be doing. But they have lots of data that they can buy."
+
+Jess shares insights from conversations with betting industry professionals, revealing that even professional bookmakers use similar foundational methods — their edge comes from data access rather than exotic algorithms.
+
+---
+
+> "He calculated the frequency with which soldiers in the Prussian army were accidentally killed by being kicked in the head by a horse."
+
+Rich shares a memorable historical application of the Poisson distribution, demonstrating the versatility of this mathematical tool beyond football.
+
+## Discussion
+
+The methods explored in this episode represent the foundation of modern sports analytics and prediction markets. The Poisson distribution's application to football, established in academic literature since the 1950s, remains remarkably relevant today. What's particularly striking is the democratisation of these techniques — while betting companies and media outlets may dress up their predictions with "supercomputer" branding, the core mathematical framework is accessible to anyone with basic statistical knowledge and a laptop.
+
+This episode also touches on an important theme in sports analytics: the gap between sophisticated-sounding predictions and their underlying simplicity. The real competitive advantage in prediction markets often lies not in algorithmic complexity but in data quality and quantity. As Jess notes from industry conversations, betting companies gain their edge through proprietary data and market information rather than fundamentally different mathematical approaches.
+
+::: {.callout-note}
+## Related Episodes
+- Episode exploring expected goals (xG) metrics
+- Episodes on other probabilistic sports models
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 11](episode-011.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 13](episode-013.qmd)
+:::
+
+:::

@@ -1,0 +1,113 @@
+---
+title: "Episode 11: The Pythagorean Theorem of Baseball"
+date: 2026-03-31
+description: "Exploring Bill James's elegant formula for predicting baseball win percentages using runs scored and allowed, with original analysis optimising the exponent."
+categories: [Baseball, Sabermetrics, Predictive Modelling, Bill James]
+youtube_id: "jmmTcIgFjfM"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 2026-03-31  
+**Duration**: 12:16  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=jmmTcIgFjfM)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Baseball, Sabermetrics, Pythagorean Expectation, Linear Regression, Win Percentage Prediction
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/jmmTcIgFjfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Jess introduces Rich to Bill James's Pythagorean theorem of baseball—a beautifully simple formula that estimates a team's winning percentage using runs scored and runs allowed, often more accurately than their actual win-loss record. The episode explores why this counterintuitive metric works, with Jess conducting original analysis on MLB data from 2003-2025 to optimise the exponent (finding 1.8 rather than the traditional 2). The discussion culminates in examining the 2024 New York Mets' season as a case study, demonstrating how the formula revealed their true performance level.
+
+---
+
+**Timestamps:**
+
+- [00:09] Introduction to the Pythagorean theorem of baseball
+- [01:06] Explanation of the formula and its counterintuitive nature
+- [02:22] Why it's called "Pythagorean" - the elegant squared terms
+- [03:09] Original analysis: optimising the exponent using 2003-2025 data
+- [04:30] Case study: the 2024 New York Mets season analysis
+- [07:15] Stanley Rothman's linear alternative formula
+
+**References:**
+
+- Bill James - creator of the Pythagorean theorem of baseball
+- Stanley Rothman - linear regression alternative (1998-2013 data)
+- ESPN - data source for MLB statistics
+
+## Key Concepts
+
+::: {.callout-tip}
+## Pythagorean Expectation
+Bill James's formula estimates winning percentage as runs scored squared divided by (runs scored squared plus runs allowed squared). This metric often predicts end-of-season performance better than actual current win percentage, as it smooths out variance from close games and "scheduled losses" where teams rest key players.
+:::
+
+::: {.callout-tip}
+## Exponent Optimisation
+While the original formula uses 2 as the exponent for its mathematical elegance, Jess's analysis of 2003-2025 MLB data found that 1.8 minimises prediction error. This demonstrates the classic trade-off between model simplicity and accuracy that appears throughout sports analytics.
+:::
+
+::: {.callout-tip}
+## Linear Alternative (Rothman Formula)
+Stanley Rothman proposed a simpler approach using run differential in a linear model: win% = 0.5 + (coefficient × run difference). This moves away from the Pythagorean form entirely, with the 0.5 intercept reflecting that wins and losses must balance across the league.
+:::
+
+## Resources & References
+
+- Bill James's original sabermetric work on Pythagorean expectation
+- ESPN MLB statistics database
+- Stanley Rothman's linear regression research (1998-2013)
+
+## Transcript Highlights
+
+> "This happens a lot in maths where there's a beautiful simplicity in the equation. And then as mathematicians, we're like, 'Well, that must be the answer because it's just so elegant, right?'"
+
+Jess captures the appeal of the Pythagorean formula—its mathematical beauty mirrors the original theorem while providing genuine predictive power.
+
+---
+
+> "The stats proved that the Mets were better than the second half of the season looked, but not as good as the first half of the season looked."
+
+This perfectly summarises how Pythagorean expectation cuts through the noise of win-loss records to reveal a team's true performance level.
+
+---
+
+> "All runs are equal, but some are more equal than others."
+
+Rich's Orwellian quip highlights a key limitation—the formula treats all runs equally, but context matters (garbage time, blowouts vs close games).
+
+## Discussion
+
+The Pythagorean theorem of baseball exemplifies a recurring theme in sports analytics: simple, elegant models often outperform intuition. Just as we saw with expected goals in football or plus-minus in basketball, looking beyond the headline result (wins) to the underlying performance indicators (run differential) provides better predictions. The formula's success stems from regression to the mean—teams that significantly over- or underperform their Pythagorean expectation tend to move back toward it.
+
+The episode also demonstrates the iterative nature of analytics work. Bill James proposed the elegant squared version, later analysts found 1.83 worked better empirically, and Rothman abandoned the Pythagorean form entirely for a linear model. Each refinement sacrifices some elegance for accuracy—a trade-off every analyst must navigate. The Mets case study beautifully illustrates practical applications: identifying when a team is "playing over their head" or "due for positive regression" has obvious implications for betting markets, trade deadline decisions, and fan expectations.
+
+::: {.callout-note}
+## Related Episodes
+- Previous discussions of Bill James and Moneyball
+- Episodes covering expected metrics in other sports
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 10](episode-010.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 12](episode-012.qmd)
+:::
+
+:::
