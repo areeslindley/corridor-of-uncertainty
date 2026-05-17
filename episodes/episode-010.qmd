@@ -1,0 +1,110 @@
+---
+title: "Episode 10: RSS Sports Statistic of the Year 2025"
+date: 2026-03-27
+description: |
+  Rich and Jess review shortlisted entries for the Royal Statistical Society's Sports Statistic of the Year 2025, discussing what makes a compelling sports stat and how to communicate uncertainty.
+categories:
+  - "Statistics"
+  - "RSS"
+  - "Awards"
+  - "Sports Analytics"
+  - "Communication"
+youtube_id: "7YF81_vLNIM"
+youtube_episode: 10
+---
+
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 27 March 2026  
+**Duration**: 13:47  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=7YF81_vLNIM)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Royal Statistical Society, Sports Statistic of the Year, Data Communication, Uncertainty, Award Shortlists
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/7YF81_vLNIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Each year the Royal Statistical Society invites nominations for its Sports Statistic of the Year award. In this episode, Rich and Jess work through the 2025 shortlist, debating which entries best combine sporting insight with statistical clarity. They discuss how to judge a good sports statistic — from surprising findings to careful framing of uncertainty — and reflect on what the Corridor of Uncertainty might nominate in future years.
+
+***
+
+**Timestamps:**
+
+- [00:00] Introduction to the RSS Sports Statistic of the Year
+- [00:30] How the award works and what makes a strong entry
+- [02:00] Reviewing shortlisted statistics from 2025
+- [05:00] Discussing communication, context, and uncertainty
+- [08:00] Favourites and disagreements among the hosts
+- [11:00] What would we nominate for next year?
+
+**References:**
+
+- [Royal Statistical Society — Statistics of the Year](https://rss.org.uk/training-events/events/events-2025/official-statistics/statistics-of-the-year-2025/)
+
+## Key Concepts
+
+::: {.callout-tip}
+## What Makes a Good Sports Statistic?
+A compelling sports statistic should be surprising yet interpretable, grounded in reproducible data, and honest about limitations. The best entries tell a story about the sport while teaching the audience something about measurement and uncertainty.
+:::
+
+::: {.callout-tip}
+## Communicating Uncertainty
+Sports statistics are often shared without confidence intervals, sample sizes, or definitions. The RSS award highlights examples that do this well — or cases where missing context leads to misleading conclusions.
+:::
+
+::: {.callout-tip}
+## Public Engagement with Statistics
+Awards like this help bridge academic statistics and everyday sports discourse, encouraging fans and journalists to think more critically about the numbers behind headlines.
+:::
+
+## Resources & References
+
+- Royal Statistical Society Statistics of the Year programme
+- Previous Corridor of Uncertainty episodes on sports awards and data visualisation
+
+## Transcript Highlights
+
+> "It's not just about the biggest number — it's about whether the stat actually changes how you understand the game."
+
+The hosts emphasise that impact and clarity matter more than shock value alone when judging nominated statistics.
+
+***
+
+> "If you don't say what the denominator is, you've basically just written a headline."
+
+A recurring theme is the importance of sample size, definitions, and context when sharing sports data publicly.
+
+## Discussion
+
+This episode sits at the intersection of sports analytics and statistical literacy. By walking through real shortlisted entries, Rich and Jess model how to critique sports statistics constructively — asking where data came from, what assumptions were made, and whether the conclusion follows from the evidence. The discussion complements more technical episodes on modelling and prediction by focusing on how results are communicated to a general audience.
+
+::: {.callout-note}
+## Related Episodes
+- [Episode 11: The Pythagorean Theorem of Baseball](episode-011.qmd)
+- [Episode 9: Have the Dodgers Broken Moneyball?](episode-009.qmd)
+:::
+
+***
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 9](episode-009.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 11](episode-011.qmd)
+:::
+
+:::

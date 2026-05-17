@@ -4,6 +4,7 @@ date: 2026-03-31
 description: "Exploring Bill James's elegant formula for predicting baseball win percentages using runs scored and allowed, with original analysis optimising the exponent."
 categories: [Baseball, Sabermetrics, Predictive Modelling, Bill James]
 youtube_id: "jmmTcIgFjfM"
+youtube_episode: 11
 ---
 
 ::: {.grid}

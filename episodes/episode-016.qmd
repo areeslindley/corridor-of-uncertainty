@@ -1,0 +1,115 @@
+---
+title: "Episode 16: What is xG? How to Actually Calculate It"
+date: 2026-05-05
+description: |
+  Rich and Jess demystify expected goals (xG): what it measures, how models estimate shot quality, and how to calculate xG-style metrics from event data.
+categories:
+  - "Football"
+  - "xG"
+  - "Expected Goals"
+  - "Shot Data"
+  - "Modelling"
+youtube_id: "mxUqGyrSc7U"
+youtube_episode: 16
+production_episode: 12
+---
+
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 5 May 2026  
+**Duration**: 34:36  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=mxUqGyrSc7U)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Expected Goals, Shot Quality, Event Data, Football Analytics, Model Building
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/mxUqGyrSc7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Expected goals (xG) has moved from specialist analytics blogs to mainstream match coverage — but what is it really? This episode goes beyond the headline number. Rich and Jess explain how xG models estimate the probability that a shot becomes a goal based on features like location, angle, and shot type, and walk through how you might calculate xG-style values from event-level football data. The discussion connects xG to broader themes in performance measurement and the limits of single-match interpretation.
+
+***
+
+**Timestamps:**
+
+- [00:00] Introduction: xG in the media vs xG in the data
+- [01:00] Why goals alone are a noisy measure of performance
+- [04:00] What information an xG model uses
+- [08:00] From shots to probabilities: intuitive explanation
+- [14:00] Building or calibrating a simple xG model
+- [22:00] Using xG for teams and players — and common misreadings
+- [30:00] Limitations and what xG does not capture
+
+**References:**
+
+- [Episode 12: How to Predict Premier League Games](episode-012.qmd)
+- Academic and industry literature on expected goals models
+- Public event data providers (e.g. StatsBomb open data, Opta-style feeds where available)
+
+## Key Concepts
+
+::: {.callout-tip}
+## Expected Goals (xG)
+xG assigns each shot a probability of being scored, typically between 0 and 1. Summing xG across shots gives an "expected" goal total that often regresses toward future performance more stably than raw goals in small samples.
+:::
+
+::: {.callout-tip}
+## Shot Quality Features
+Common inputs include distance and angle to goal, body part, assist type, and pressure/defensive context. More advanced models add freeze-frame or tracking data where available.
+:::
+
+::: {.callout-tip}
+## Goals vs xG Over Small Samples
+A team can score more or fewer goals than xG suggests over a few matches due to finishing luck. xG is a tool for describing chance creation, not a guarantee of immediate results.
+:::
+
+## Resources & References
+
+- StatsBomb and other open football analytics resources
+- [Episode 12: How to Predict Premier League Games](episode-012.qmd) — Poisson and goal modelling
+- [Episode 17: Can we find the Corridor of Uncertainty?](episode-017.qmd) — event data applications
+
+## Transcript Highlights
+
+> "xG isn't saying you should have scored exactly 2.3 goals — it's saying your chances were worth about 2.3 goals on average."
+
+The hosts clarify the probabilistic interpretation that is often lost in social media summaries.
+
+***
+
+> "Once you see how the model is built, the mystique disappears — but the insight doesn't."
+
+The episode treats transparency about methodology as a feature, not a weakness, of analytics communication.
+
+## Discussion
+
+xG sits at the centre of modern football analytics discourse, and this episode is designed as a practical companion to probabilistic modelling elsewhere on the site. By linking shot-level models to the Poisson-based match models in Episode 12, Rich and Jess show how different layers of football statistics connect — from single chances to season-long projections. The length of the episode reflects the depth of the topic: calculating and interpreting xG responsibly requires more than a one-line definition.
+
+::: {.callout-note}
+## Related Episodes
+- [Episode 12: How to Predict Premier League Games](episode-012.qmd)
+- [Episode 17: Can we find the Corridor of Uncertainty?](episode-017.qmd)
+:::
+
+***
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 15](episode-015.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 17](episode-017.qmd)
+:::
+
+:::

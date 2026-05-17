@@ -4,6 +4,8 @@ date: 2026-02-24
 description: "Exploring how football clubs use data analytics to identify and sign players, with Manchester City's signing of Antoine Semenyo as a case study."
 categories: [Football, Player Recruitment, Data Analytics, Transfer Market]
 youtube_id: "-v1nLR34YGA"
+youtube_episode: 7
+production_episode: 7
 ---
 
 ::: {.grid}

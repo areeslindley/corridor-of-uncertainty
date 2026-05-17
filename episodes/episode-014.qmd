@@ -4,6 +4,8 @@ date: 2026-04-21
 description: "Jess uses Elo ratings to predict the NBA playoffs winner, explaining how the rating system works for basketball's complex playoff structure."
 categories: [Basketball, Elo Ratings, Prediction, NBA, Playoffs]
 youtube_id: "g2K6SbBuNxU"
+youtube_episode: 14
+production_episode: 11
 ---
 
 ::: {.grid}

@@ -4,6 +4,8 @@ date: 2025-12-09
 description: "How fair is Scottish football? We talk about the Split format in the Scottish Premier League, including some of the unintended consequences."
 categories: [Football, Scottish Premier League, Statistics]
 youtube_id: "sgeDr1ykMaI"
+youtube_episode: 1
+production_episode: 1
 ---
 
 ::: {.grid}

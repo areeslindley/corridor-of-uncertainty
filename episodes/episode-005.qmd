@@ -4,6 +4,8 @@ date: 2026-01-27
 description: "Rich and Jess debate whether statistics can determine the greatest Premier League January transfer signing of all time."
 categories: [Football, Transfer Market, Player Evaluation, Premier League]
 youtube_id: "fEXpzZSyGoI"
+youtube_episode: 5
+production_episode: 5
 ---
 
 ::: {.grid}

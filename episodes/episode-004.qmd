@@ -4,6 +4,8 @@ date: 2026-01-13
 description: "Rich attempts to statistically prove why basketball is a bad sport by analysing buzzer beaters, scoring frequency, and the role of randomness in determining game outcomes."
 categories: [Basketball, Randomness, NBA, Win Probability, Game Theory]
 youtube_id: "sBAKID4RidY"
+youtube_episode: 4
+production_episode: 4
 ---
 
 ::: {.grid}

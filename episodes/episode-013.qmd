@@ -1,15 +1,16 @@
 ---
-title: "Episode 900: Man U: Amorim vs Carrick | How would the season have gone?"
+title: "Episode 13: Man U — Amorim vs Carrick"
 date: 2026-04-14
 description: "Using Premier League modelling to explore hypothetical season outcomes under different Manchester United and Tottenham managers."
 categories: [Football, Premier League, Statistical Modelling, Manager Analysis, Counterfactuals]
 youtube_id: "3Moo0UFwMPw"
+youtube_episode: 13
 ---
 
 ::: {.grid}
 
 ::: {.g-col-6}
-**Published**: 2026-04-14  
+**Published**: 14 April 2026  
 **Duration**: 10:17  
 **YouTube**: [Watch here](https://www.youtube.com/watch?v=3Moo0UFwMPw)
 :::
@@ -42,7 +43,7 @@ Rich extends the Premier League prediction model from the previous episode to ex
 
 **References:**
 
-- Previous episode on Premier League modelling methodology
+- [Episode 12: How to Predict Premier League Games](episode-012.qmd)
 
 ## Key Concepts
 
@@ -63,7 +64,7 @@ The analysis requires sufficient games to reliably fit attack and defence parame
 
 ## Resources & References
 
-- Previous Corridor of Uncertainty episode on Premier League season modelling
+- [Episode 12: How to Predict Premier League Games](episode-012.qmd)
 - 2025-26 Premier League data up to 22nd March
 
 ## Transcript Highlights
@@ -92,7 +93,8 @@ The Tottenham analysis is particularly striking, suggesting Tuchel's continuatio
 
 ::: {.callout-note}
 ## Related Episodes
-- Previous episode on Premier League season modelling methodology
+- [Episode 12: How to Predict Premier League Games](episode-012.qmd)
+- [Episode 14: Who Will Win the NBA Championship?](episode-014.qmd)
 :::
 
 ---
@@ -100,11 +102,11 @@ The Tottenham analysis is particularly striking, suggesting Tuchel's continuatio
 ::: {.grid}
 
 ::: {.g-col-6}
-[⬅️ Episode 899](episode-899.qmd)
+[⬅️ Episode 12](episode-012.qmd)
 :::
 
 ::: {.g-col-6 .text-end}
-[➡️ Episode 901](episode-901.qmd)
+[➡️ Episode 14](episode-014.qmd)
 :::
 
 :::

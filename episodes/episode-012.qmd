@@ -4,6 +4,8 @@ date: 2026-04-10
 description: "Can maths predict who will win the Premier League title and who will be relegated? Rich and Jess explore the Poisson distribution and football modelling."
 categories: [Football, Probability, Poisson Distribution, Premier League, Prediction]
 youtube_id: "lwdJHCQNE_E"
+youtube_episode: 12
+production_episode: 10
 ---
 
 ::: {.grid}

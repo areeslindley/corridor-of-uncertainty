@@ -4,6 +4,8 @@ date: 2025-12-17
 description: "Jess quizzes Rich on Sports Personality of the Year history while exploring the data behind the UK's most prestigious sports award."
 categories: [Sports Awards, Data Visualisation, Voting Systems, Tennis, Formula One]
 youtube_id: "fQYV_adrnNI"
+youtube_episode: 2
+production_episode: 2
 ---
 
 ::: {.grid}

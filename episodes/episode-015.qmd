@@ -1,0 +1,111 @@
+---
+title: "Episode 15: West is Best? Ranking NBA Divisions Using Maths"
+date: 2026-04-28
+description: |
+  Jess and Rich use statistical methods to rank NBA divisions and test whether the Western Conference really is stronger than the East — or if the data tells a more nuanced story.
+categories:
+  - "Basketball"
+  - "NBA"
+  - "Divisions"
+  - "Ranking Methods"
+  - "Conference Comparison"
+youtube_id: "IBF0ZvjJmfI"
+youtube_episode: 15
+---
+
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 28 April 2026  
+**Duration**: 11:21  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=IBF0ZvjJmfI)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: NBA Structure, Eastern vs Western Conference, Division Strength, Ranking Methods, Win Percentage
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/IBF0ZvjJmfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+The phrase "West is best" is a staple of NBA discourse — but does the data back it up at the division level? Building on their basketball analytics episodes, Jess and Rich aggregate team performance across divisions and conferences, comparing strength using win percentage and related metrics. The episode explains how the NBA's geographic structure shapes playoff narratives and whether simple league tables tell the full story.
+
+***
+
+**Timestamps:**
+
+- [00:00] Introduction: Is the West really stronger?
+- [00:40] Recap of NBA conference and division structure
+- [02:00] Choosing metrics to compare divisions
+- [04:30] Ranking divisions by team performance
+- [07:00] East vs West — headline findings
+- [09:30] Caveats: schedule strength and sample size
+
+**References:**
+
+- [Episode 14: Who Will Win the NBA Championship?](episode-014.qmd)
+- NBA official standings and schedule data
+
+## Key Concepts
+
+::: {.callout-tip}
+## NBA Conference and Division Structure
+The NBA splits teams into Eastern and Western conferences, each with three divisions. Playoff seeding is conference-based, so cross-conference strength debates often matter for predicting finals matchups rather than regular-season titles alone.
+:::
+
+::: {.callout-tip}
+## Win Percentage as a Comparison Tool
+Because basketball games do not end in draws, win percentage provides a direct way to compare teams and aggregate division strength — though uneven schedules complicate head-to-head conclusions.
+:::
+
+::: {.callout-tip}
+## Aggregating Team Strength to Divisions
+Ranking divisions requires deciding how to weight teams (mean win percentage, median, top-heavy vs depth). Different choices can shift the story the data tells.
+:::
+
+## Resources & References
+
+- NBA.com standings and historical results
+- Previous Corridor of Uncertainty basketball episodes
+
+## Transcript Highlights
+
+> "Everyone says the West is tougher — we wanted to see if that's true when you actually line the divisions up."
+
+The episode frames a popular talking point as a testable statistical question.
+
+***
+
+> "Divisions are a bit arbitrary geographically, but they're how the league organises the schedule and the narrative."
+
+Rich notes that analytical choices should respect how the NBA structures competition even when divisions are not the only meaningful unit.
+
+## Discussion
+
+This episode bridges explainer content on NBA structure and applied ranking analysis. It pairs naturally with the Elo-based playoff prediction in Episode 14: understanding conference and division strength provides context for why certain seeds and matchups surprise fans each spring. The hosts emphasise that a single aggregate statistic rarely settles debate — but transparent ranking methods make disagreement more productive.
+
+::: {.callout-note}
+## Related Episodes
+- [Episode 14: Who Will Win the NBA Championship?](episode-014.qmd)
+- [Episode 16: What is xG?](episode-016.qmd)
+:::
+
+***
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 14](episode-014.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 16](episode-016.qmd)
+:::
+
+:::

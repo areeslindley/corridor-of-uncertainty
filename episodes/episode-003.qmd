@@ -4,6 +4,8 @@ date: 2025-12-24
 description: "Jess and Rich debate their nominations for the inaugural Corridor of Uncertainty Sports Statistic of the Year, inspired by the Royal Statistical Society's annual tradition."
 categories: [Cricket, Statistics, Women's Sport, Rule Changes, Cycling, Athletics, Baseball, Football]
 youtube_id: "L4TlGfVxhFg"
+youtube_episode: 3
+production_episode: 3
 ---
 
 ::: {.grid}
