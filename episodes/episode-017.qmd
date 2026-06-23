@@ -74,7 +74,7 @@ Event data records actions (shots, passes, tackles) with coordinates and timesta
 
 - Open football event datasets used in the episode
 - [Episode 16: What is xG?](episode-016.qmd) — shot probability foundations
-- [Upcoming Episodes](../upcoming.html) — what's coming next on the channel
+- [Episode 18: How Good Were the 2016 Golden State Warriors Really?](episode-018.qmd)
 
 ## Transcript Highlights
 
@@ -90,7 +90,7 @@ The hosts distinguish statistical noise from structurally hard-to-judge zones on
 
 ## Discussion
 
-This episode is a capstone for the site's football analytics thread — from Poisson models to xG to spatial event analysis — while staying accessible to viewers who enjoy the storytelling side of sport. Whether the empirical "corridor" matches cricketing intuition is less important than the method: define a question, use transparent data, and show your working. Episode 18 and beyond continue on the [Upcoming](../upcoming.html) page.
+This episode is a capstone for the site's football analytics thread — from Poisson models to xG to spatial event analysis — while staying accessible to viewers who enjoy the storytelling side of sport. Whether the empirical "corridor" matches cricketing intuition is less important than the method: define a question, use transparent data, and show your working. Later episodes build on event data and season reviews through [Episode 18](episode-018.qmd) and beyond.
 
 ::: {.callout-note}
 ## Related Episodes
@@ -107,7 +107,7 @@ This episode is a capstone for the site's football analytics thread — from Poi
 :::
 
 ::: {.g-col-6 .text-end}
-[➡️ Upcoming Episodes](../upcoming.html)
+[➡️ Episode 18](episode-018.qmd)
 :::
 
 :::

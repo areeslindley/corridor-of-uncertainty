@@ -58,22 +58,7 @@ Keep an eye on the [YouTube channel](https://www.youtube.com/@CorridorOfUncertai
 <p class="cou-section-title">Coming Soon</p>
 
 <div class="upcoming-card">
-  <div class="episode-label">Episode 18 · Basketball <span class="tbd-badge">19 May 2026</span></div>
-  <div class="episode-title">How good were the 2016 Golden State Warriors Really?</div>
-</div>
-
-<div class="upcoming-card">
-  <div class="episode-label">Episode 19 · Football <span class="tbd-badge">26 May 2026</span></div>
-  <div class="episode-title">How competitive balance in the WSL has evolved over time</div>
-</div>
-
-<div class="upcoming-card">
-  <div class="episode-label">Episode 20 · Football <span class="tbd-badge">2 June 2026</span></div>
-  <div class="episode-title">Upsets & Underperformers: Premier League Season Review</div>
-</div>
-
-<div class="upcoming-card">
-  <div class="episode-label">Episode 21 · Football <span class="tbd-badge">9 June 2026</span></div>
+  <div class="episode-label">Episode 24 · Football <span class="tbd-badge">9 June 2026</span></div>
   <div class="episode-title">The Lioness Effect: investigating stadium attendance in elite women's football</div>
 </div>
 

@@ -1,0 +1,107 @@
+---
+title: "Episode 18: How Good Were the 2016 Golden State Warriors Really?"
+date: 2026-05-19
+description: "Examining the historic 73-win Golden State Warriors season using Elo ratings and comparing it to the 2025-26 Oklahoma City Thunder."
+categories: [Basketball, NBA, Elo Ratings, Historical Analysis, Tanking]
+youtube_id: "uYNJMV-kCWI"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 2026-05-19  
+**Duration**: 27:11  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=uYNJMV-kCWI)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: NBA, Elo Ratings, Golden State Warriors, Tanking, Schedule Analysis
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/uYNJMV-kCWI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+On the 10th anniversary of the Golden State Warriors' record-breaking 73-win season, Rich and Jess investigate just how impressive that achievement really was. Using Elo ratings and divisional analysis, they examine whether the Warriors benefited from an easier schedule compared to the 2015-16 San Antonio Spurs and draw parallels to the current OKC Thunder season. The episode explores how tanking, conference structure, and schedule imbalance can affect win totals and team ratings.
+
+---
+
+**Timestamps:**
+
+- [00:00] Introduction to the 2016 Golden State Warriors record
+- [00:17] Podcast introduction and episode topic
+- [01:07] Recap of previous Elo ratings analysis
+- [03:09] Division structure and tanking explanation
+
+**References:**
+
+- Previous episode on NBA Elo ratings (Episode 17)
+
+## Key Concepts
+
+::: {.callout-tip}
+## Tanking in Professional Sports
+Tanking refers to teams deliberately losing games to secure better draft picks. The Philadelphia 76ers famously embraced this strategy from 2013-2016 with "Trust the Process," going 47-199 over three seasons. This year saw 10 teams (a third of the league) allegedly tanking, affecting the competitive balance of the schedule.
+:::
+
+::: {.callout-tip}
+## Divisional Schedule Imbalance
+NBA teams play opponents within their division more frequently than other teams. This means a team in a weak division (like the 2016 Warriors with the 17-win Lakers) faces easier competition than one in a strong division (like the 2016 Spurs, who had four playoff teams in their division). This structural factor can significantly inflate or deflate win totals.
+:::
+
+::: {.callout-tip}
+## Elo Rating Adjustments
+In Elo systems, beating a highly-rated team provides more rating points than beating a weak team. When a dominant team like the Warriors loses, their rating drops more significantly because they were expected to win. This makes their nine losses particularly visible as dips in their rating trajectory.
+:::
+
+## Resources & References
+
+- Episode 17: NBA Elo Ratings and Playoff Predictions
+- Philadelphia 76ers "Trust the Process" era (2013-2016)
+
+## Transcript Highlights
+
+> "If you hadn't have had the Golden State Warriors having their 73, then everyone would have been talking about the San Antonio Spurs that year. So, they did super well."
+
+Rich highlights how the Spurs' remarkable 67-win season was completely overshadowed by the Warriors' historic achievement, despite facing a much tougher divisional schedule.
+
+---
+
+> "That is an unbelievable achievement... those four teams are playing each other a large percentage of their games across the whole year."
+
+Jess emphasises how the San Antonio Spurs' 67 wins against four playoff-calibre divisional opponents represents a potentially more impressive feat than the Warriors' record when accounting for strength of schedule.
+
+---
+
+> "Between 2013 and 2016, they went 47 and 199. So, 47 wins in the 3 years... They were quite vocal, there were hashtags about it."
+
+Rich explains the notorious Philadelphia 76ers tanking strategy, noting it was openly acknowledged rather than alleged, setting a precedent for strategic losing in the NBA.
+
+## Discussion
+
+This episode demonstrates the importance of contextualising raw statistics within their competitive environment. While 73 wins is an extraordinary achievement, the analysis reveals that divisional structure creates unequal paths to high win totals. The San Antonio Spurs' 67 wins came against significantly tougher competition, raising questions about how we evaluate historical greatness in sports.
+
+The comparison between 2016 and the current season also highlights how tanking has evolved from a single team's bold strategy to a league-wide phenomenon affecting competitive integrity. As analytics become more sophisticated, teams increasingly recognise the mathematical value of losing strategically, creating new challenges for rating systems that assume all teams are trying to win.
+
+::: {.callout-note}
+## Related Episodes
+- Episode 17: NBA Elo Ratings and Playoff Predictions
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 17](episode-017.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 19](episode-019.qmd)
+:::
+
+:::

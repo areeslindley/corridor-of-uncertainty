@@ -1,0 +1,113 @@
+---
+title: "Episode 22: Is there a group of death at the World Cup? | Who will England Play?"
+date: 2026-06-09
+description: "Analysing England's World Cup round of 32 opponents and redefining what constitutes a 'group of death' using Elo ratings and simulation variance."
+categories: [Football, World Cup, Elo Ratings, Tournament Prediction, Probability]
+youtube_id: "n31FnTSLkeE"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 2026-06-09  
+**Duration**: 20:52  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=n31FnTSLkeE)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Elo Ratings, World Cup Group Analysis, Tournament Simulation, Group of Death Definition
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/n31FnTSLkeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+In this episode, Jess and Rich are joined by Professor James Reed from Reading University to analyse England's prospects at the upcoming World Cup. They examine England's 53% chance of winning Group L and identify likely round of 32 opponents including Colombia, Uzbekistan, and Portugal. The discussion evolves into a fascinating debate about how to statistically define a "group of death" - challenging the traditional definition by proposing that variance in qualification probabilities better captures the concept than simply looking at average Elo ratings.
+
+---
+
+**Timestamps:**
+
+- [00:26] England's group stage chances and round of 32 opponents
+- [01:28] James Reed's predictions for England's most likely opposition
+- [03:13] Discussion of England vs Colombia penalty shootout history
+- [04:30] Defining the "group of death" using Elo ratings
+- [05:15] Alternative definition using variance in qualification probabilities
+- [07:30] Analysis of Group D (USA, Paraguay, Australia, Turkey)
+- [10:00] Host nation groups and their competitive balance
+
+**References:**
+
+- Elo rating system for football predictions
+- FIFA World Rankings methodology
+
+## Key Concepts
+
+::: {.callout-tip}
+## Elo Ratings for Tournament Prediction
+The episode uses Elo ratings to assess team strength and simulate World Cup outcomes. James Reed calculates England have a 53% chance to win their group and 93% chance to qualify, demonstrating how Elo-based simulations can quantify tournament probabilities.
+:::
+
+::: {.callout-tip}
+## Redefining "Group of Death" Using Variance
+Rich proposes that a true "group of death" should be identified by low variance in qualification probabilities across teams, rather than high average Elo. This captures groups where any team could realistically be eliminated, making Group D (USA, Paraguay, Australia, Turkey) the statistical group of death despite lacking traditional powerhouses.
+:::
+
+::: {.callout-tip}
+## Third-Place Team Allocation Rules
+The discussion reveals the complex rules governing which third-place teams face which group winners. If the Group K third-place team qualifies among the eight best, they always play the Group L winner - a deterministic rule that significantly affects opponent probability calculations.
+:::
+
+## Resources & References
+
+- Elo World Football Ratings
+- FIFA World Rankings (based on modified Elo approach)
+- James Reed's World Cup simulation model
+
+## Transcript Highlights
+
+> "I think it's a more accurate statistically definition to talk about which group is could any of the teams go home quite easily. And that's what the stats say."
+
+Rich challenges the conventional wisdom about what makes a "group of death," arguing that evenness of competition - measured through variance - is more meaningful than simply having multiple strong teams.
+
+---
+
+> "That could be a disastrous England campaign, couldn't it, having to play Portugal or Colombia in that second in the first knockout stage."
+
+James Reed highlights the risk of England facing a top-tier opponent early if they finish second in their group, demonstrating how group position significantly impacts tournament trajectory.
+
+---
+
+> "Group D has the smallest variance of Elo ratings by my metric... there I've got that group D winner is with 35% chance USA, 26% chance Turkey, 20% Paraguay, 19% Australia."
+
+James confirms Rich's statistical approach, showing Group D's remarkable competitive balance where no team has a dominant probability of winning.
+
+## Discussion
+
+This episode exemplifies how mathematical thinking can challenge and refine common sports terminology. The traditional "group of death" concept focuses on the presence of multiple elite teams, but this framing benefits those strong teams - they face tough matches but still likely qualify. The hosts' variance-based redefinition shifts focus to the teams most at risk, identifying groups where qualification is genuinely uncertain for all participants.
+
+The analysis also demonstrates the complexity of World Cup tournament structures, particularly the round of 32 format with third-place qualifiers. Understanding the deterministic rules (like Group K third-place always facing Group L winner) is crucial for accurate probability modelling. The discussion of Switzerland potentially gaming FIFA rankings through strategic friendly matches raises interesting questions about how rating systems can be exploited - a theme relevant to any competitive ranking methodology in sports.
+
+::: {.callout-note}
+## Related Episodes
+- Previous World Cup prediction episodes
+- Episodes discussing Elo ratings in football
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 21](episode-021.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 23](episode-023.qmd)
+:::
+
+:::

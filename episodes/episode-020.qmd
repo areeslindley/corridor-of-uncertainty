@@ -1,0 +1,109 @@
+---
+title: "Episode 20: Premier League Season Review | How did our predictions turn out?"
+date: 2026-06-02
+description: "Rich and Jess revisit their Dixon-Coles model predictions to see how well maths predicted the Premier League season."
+categories: [Football, Predictions, Dixon-Coles Model, Premier League, Model Validation]
+youtube_id: "N8yco-00XoQ"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 2026-06-02  
+**Duration**: 33:47  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=N8yco-00XoQ)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Football, Predictions, Dixon-Coles Model, Premier League, Model Validation
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/N8yco-00XoQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Rich and Jess take a mathematical look back at the Premier League season, evaluating how well their Dixon-Coles model predictions from March performed against the actual final standings. The episode reveals that the model correctly predicted the top five and bottom five teams' finishing positions, while examining the inherent uncertainty in mid-table predictions. Along the way, they discuss some remarkable facts about Arsenal's title-winning discipline and the historic absence of any team beginning with 'W' in next season's top flight.
+
+---
+
+**Timestamps:**
+
+- [00:00] Introduction and episode premise
+- [00:35] Dixon-Coles model recap and approach
+- [01:22] Fun facts: Arsenal's disciplined title win
+- [02:13] Mind-blowing fact: No 'W' teams in top flight next season
+- [03:01] Reviewing the season predictions
+
+**References:**
+
+- Previous Dixon-Coles model episode (referenced for methodology)
+- BBC poll on title favourites after Arsenal vs Man City
+
+## Key Concepts
+
+::: {.callout-tip}
+## Dixon-Coles Model for League Predictions
+The Dixon-Coles model, previously explained in an earlier episode, was used to generate probability distributions for each team's finishing position. Rather than predicting exact positions, the model assigns probabilities across all possible outcomes, allowing for uncertainty quantification in the predictions.
+:::
+
+::: {.callout-tip}
+## Prediction Uncertainty in Mid-Table
+The model showed high uncertainty for teams predicted to finish between 6th and 14th place, visualised as a "big blob" of overlapping probabilities. This reflects the genuine competitive balance in the middle of the Premier League table, where a few results can dramatically shift final positions.
+:::
+
+::: {.callout-tip}
+## Wisdom of the Crowd vs Statistical Models
+After Arsenal lost to Man City at home, a BBC poll showed 83% of voters backing City to win the title. However, the Dixon-Coles model still favoured Arsenal due to their existing points cushion, demonstrating how statistical models can resist recency bias that affects crowd predictions.
+:::
+
+## Resources & References
+
+- Dixon-Coles model explanation (previous episode)
+- BBC website poll on title favourites
+
+## Transcript Highlights
+
+> "Arsenal are the first team in the Premier League era to win the title and have no red cards and no penalties. To give away no penalties."
+
+Rich highlights the remarkable discipline of Arsenal's title-winning campaign, noting the contrast with the previous season when Declan Rice's red card was deemed crucial.
+
+---
+
+> "Next season is the first season in the history of English football where there will be no team beginning with W in the top flight."
+
+A fun statistical observation that demonstrates the podcast's love for unusual metrics, with West Ham and Wolves both relegated ending over 100 years of 'W' teams in the top division.
+
+---
+
+> "The wisdom of the crowd was that 83% chance of Man City were going to definitely win the league because of that game... The model was not confident that Bournemouth would have such a strong finish. And, you know, 1% chance of finishing where they did, and they did it."
+
+This quote captures both the limitations and strengths of probabilistic modelling—resisting crowd bias while acknowledging genuine surprises.
+
+## Discussion
+
+This episode exemplifies a crucial aspect of sports analytics: model validation. Too often, prediction models are published and then forgotten, but Rich's approach of revisiting predictions against actual outcomes provides genuine insight into model performance. The success in predicting both the top and bottom five teams suggests the Dixon-Coles model captures important structural features of Premier League competition, while the acknowledged uncertainty in mid-table predictions shows appropriate epistemic humility.
+
+The comparison between the BBC crowd poll (83% for Man City) and the model's Arsenal favouritism illustrates a recurring theme in sports analytics—the tension between public perception and statistical evidence. Crowds tend to overweight recent results and narratives, while well-constructed models maintain broader context. However, Bournemouth's 1% probability finish also reminds us that even good models will be surprised by outlier performances, particularly when human factors like managerial changes come into play.
+
+::: {.callout-note}
+## Related Episodes
+- Previous Dixon-Coles model episode (explains the methodology used for these predictions)
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 19](episode-019.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 21](episode-021.qmd)
+:::
+
+:::

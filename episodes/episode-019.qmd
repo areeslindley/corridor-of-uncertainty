@@ -1,0 +1,111 @@
+---
+title: "Episode 19: How Fair is the Women's Super League? What is Competitive Balance?"
+date: 2026-05-26
+description: "Exploring competitive balance in the Women's Super League using the Herfindahl-Hirschman Index to measure how fair and unpredictable football leagues really are."
+categories: [Football, Competitive Balance, WSL, Statistics, Economics]
+youtube_id: "w2IiNzyfskI"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 2026-05-26  
+**Duration**: 32:50  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=w2IiNzyfskI)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: Women's Super League, Competitive Balance, Herfindahl-Hirschman Index, Football Economics
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/w2IiNzyfskI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+With Manchester City breaking Chelsea's six-year winning streak in the Women's Super League, Jess and Rich explore whether this signals a more competitively balanced league. The episode traces the history of women's professional football in England from 1991 to the present day, examining how team dominance has shifted over the decades. They introduce the concept of competitive balance from economics literature and discuss mathematical measures like the Herfindahl-Hirschman Index that can quantify how evenly distributed success is across a league.
+
+---
+
+**Timestamps:**
+
+- [00:00] Introduction and Manchester City's WSL triumph
+- [01:48] History of Women's Super League and its predecessors
+- [03:00] Points systems and league structure changes
+- [12:30] Historical winners and team dominance patterns
+- [16:00] Introduction to competitive balance concept
+- [18:00] Herfindahl-Hirschman Index of Competitive Balance
+
+**References:**
+
+- Academic paper on statistical methods for measuring competitive balance (authors not specified in transcript)
+
+## Key Concepts
+
+::: {.callout-tip}
+## Competitive Balance
+Competitive balance refers to how evenly matched teams are within a sports league, affecting the predictability of outcomes. When the same teams consistently win trophies (like Chelsea's six consecutive WSL titles or Bayern Munich's Bundesliga dominance), a league is considered less competitively balanced. This concept is important for fan engagement, as supporters may lose interest when results become too predictable.
+:::
+
+::: {.callout-tip}
+## Herfindahl-Hirschman Index of Competitive Balance (HHICB)
+The Herfindahl-Hirschman Index, borrowed from economics where it measures market concentration, can be applied to sports leagues to quantify competitive balance. Higher values on this index indicate less balance (more dominance by fewer teams), while lower values suggest a more evenly competitive league. The episode references research showing the Premier League trending upward on this measure, suggesting decreasing competitive balance over time.
+:::
+
+::: {.callout-tip}
+## League Structure and Professionalisation
+The transition of the WSL to a fully professional league in 2018 represents a significant structural change that affects competitive balance. Investment levels, team expansions (from 8 to 12 teams), and the shift from summer to winter scheduling all influence how competitive a league becomes over time.
+:::
+
+## Resources & References
+
+- Herfindahl-Hirschman Index methodology for competitive balance measurement
+- Historical WSL and FA Women's Premier League records
+- Premier League competitive balance trends (1978-79 to present)
+
+## Transcript Highlights
+
+> "Is it boring when the same teams win all the trophies? Or maybe like at the start of the Premier League season you start to see loads of headlines like, it's boring. It's just going to be between Man City and Arsenal."
+
+This quote captures the fundamental question that competitive balance research tries to address - whether predictable outcomes diminish the appeal of sport.
+
+---
+
+> "It's now 35 years since anybody outside the old firm won the title. Really heartbreaking end to the season as well."
+
+Rich's observation about Scottish football illustrates an extreme case of competitive imbalance, where Celtic and Rangers have dominated for over three decades.
+
+---
+
+> "Not even 10 years ago as it's been full-time professional... Compare and contrast that with the following year, so last season. Chelsea won again and went undefeated. They played 22 games, won 19, drew three."
+
+This highlights how recent the professionalisation of women's football is in England, and how dominant Chelsea had become before this season's shift.
+
+## Discussion
+
+The measurement of competitive balance sits at an interesting intersection of sports analytics and economics. Tools like the Herfindahl-Hirschman Index were originally developed to assess market concentration and monopoly power, but translate naturally to sports contexts where we're interested in whether competition is "fair" or dominated by a few powerful entities. This episode demonstrates how methods from one field can illuminate questions in another.
+
+The tension between competitive balance and sporting excellence raises important questions for league administrators. While fans generally prefer unpredictable outcomes, investment and professionalisation tend to concentrate talent at wealthy clubs. The WSL's recent history - with Chelsea's dominance followed by Manchester City's breakthrough - provides a fascinating case study in how these dynamics play out. The episode's approach of combining historical narrative with quantitative measurement shows how sports analytics can move beyond simple statistics to address broader questions about the structure and fairness of sporting competition.
+
+::: {.callout-note}
+## Related Episodes
+- Episodes discussing league structure and points systems
+- Future episode promised on statistically rigorous methods for measuring competitive balance
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 18](episode-018.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Episode 20](episode-020.qmd)
+:::
+
+:::

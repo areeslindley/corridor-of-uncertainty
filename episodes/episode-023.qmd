@@ -1,0 +1,111 @@
+---
+title: "Episode 23: WSL Season Review – Did Man City Deserve the Title?"
+date: 2026-06-16
+description: "Using the Dixon-Coles model to analyse the WSL season and evaluate Manchester City's title-winning campaign."
+categories: [Football, WSL, Dixon-Coles Model, Predictive Modelling, Women's Football]
+youtube_id: "bwtBbsXz_GA"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+**Published**: 2026-06-16  
+**Duration**: 23:50  
+**YouTube**: [Watch here](https://www.youtube.com/watch?v=bwtBbsXz_GA)
+:::
+
+::: {.g-col-6}
+**Topics Covered**: WSL, Dixon-Coles Model, Attacking & Defensive Strength, Result Prediction, Competitive Balance
+:::
+
+:::
+
+## Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/bwtBbsXz_GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Overview
+
+Rich and Jess celebrate Manchester City Women's historic double-winning season and apply the Dixon-Coles model—previously used for Premier League predictions—to the WSL. They examine attacking and defensive strengths across WSL teams, finding striking parallels with the men's game, and investigate which teams performed predictably versus unpredictably throughout the season. The episode also explores how fewer fixtures in women's football amplify the importance of goal difference in title races.
+
+---
+
+**Timestamps:**
+
+- [00:26] Introduction to the WSL season and Man City's double
+- [01:20] Recap of Premier League predictions and the Dixon-Coles model
+- [03:01] Attacking and defensive strengths of WSL teams
+- [06:30] Variance in result probability and team predictability
+- [10:00] Most and least likely match results of the season
+
+**References:**
+
+- Episode 12: Premier League Predictions using Dixon-Coles
+- Previous WSL episode on competitive balance
+
+## Key Concepts
+
+::: {.callout-tip}
+## Dixon-Coles Model
+The Dixon-Coles model assigns each team an attacking strength and a defensive strength, which together allow predictions of match outcomes. Rich applies this model retrospectively to the WSL season to characterise how teams performed relative to expectations.
+:::
+
+::: {.callout-tip}
+## Attacking vs Defensive Strength
+By separating offensive and defensive capabilities, the model reveals nuanced team profiles. Manchester City had the best attacking strength while Arsenal topped the defensive rankings—mirroring their counterparts in the men's Premier League.
+:::
+
+::: {.callout-tip}
+## Result Probability Variance
+Examining the variance in predicted probabilities for actual results shows how predictable a team's season was. Arsenal showed the highest variance, indicating they produced more unexpected results (both positive and negative) than other top teams.
+:::
+
+## Resources & References
+
+- [Episode 12: Premier League Predictions](episode-012.qmd)
+- Dixon-Coles Model for football prediction
+- WSL Competitive Balance episode (referenced)
+
+## Transcript Highlights
+
+> "It's always great when an individual has done something more than a club."
+
+Jess reflects on the stat that Karen Carney and Ellen White have each won the league-cup double three times—more than Manchester City Women had achieved as a club before this season.
+
+---
+
+> "Arsenal are kind of the opposite... they were the most unreliable. And that kind of, you know, as somebody who watched a lot of the Arsenal games this year, that was how they played."
+
+Rich explains how the variance analysis captured Arsenal's frustrating tendency to draw games they should have won, matching Jess's experience watching them throughout the campaign.
+
+---
+
+> "Man City in the men's game tend to run up the score against the weaker teams... it really is that you're kind of aware of that as a fan. You need to be not just winning, but getting the goals in."
+
+Jess highlights how goal difference matters more in the WSL due to fewer fixtures, making strong attacking performances against weaker teams strategically essential.
+
+## Discussion
+
+This episode demonstrates how statistical models developed for men's football can provide valuable insights when applied to the women's game, while also highlighting important structural differences. The Dixon-Coles framework reveals that top WSL teams exhibit similar attacking/defensive profiles to their Premier League counterparts, suggesting comparable tactical approaches at the elite level.
+
+However, the smaller sample size of a 22-game WSL season creates distinct analytical challenges. The heightened importance of goal difference—and the greater impact of individual match results—means that variance in performance has larger consequences. This connects to broader questions in sports analytics about sample size requirements and whether models calibrated on men's data transfer reliably to women's competitions with different fixture volumes and competitive structures.
+
+::: {.callout-note}
+## Related Episodes
+- [Episode 12: Premier League Predictions](episode-012.qmd) – Original Dixon-Coles model explanation
+- WSL Competitive Balance episode – Historical analysis of title races
+:::
+
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+[⬅️ Episode 22](episode-022.qmd)
+:::
+
+::: {.g-col-6 .text-end}
+[➡️ Upcoming: Episode 24](../upcoming.html)
+:::
+
+:::
