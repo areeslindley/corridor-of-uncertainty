@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Examining the historic 73-win Golden State Warriors season using Elo ratings and comparing it to the 2025-26 Oklahoma City Thunder.">
 
-<title>Corridor of Uncertainty</title>
+<title>Episode 18: How Good Were the 2016 Golden State Warriors Really? – Corridor of Uncertainty</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,26 +27,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a2626ff1341dce8dbd8a7958c7e4f9ae.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-a2626ff1341dce8dbd8a7958c7e4f9ae.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,69 +72,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-latest-episodes .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-date','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 18,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-latest-episodes'] = new List('listing-latest-episodes', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -145,9 +85,9 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./logo.png" alt="Corridor of Uncertainty" class="navbar-logo light-content">
-    <img src="./logo.png" alt="Corridor of Uncertainty" class="navbar-logo dark-content">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../logo.png" alt="Corridor of Uncertainty" class="navbar-logo light-content">
+    <img src="../logo.png" alt="Corridor of Uncertainty" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -157,19 +97,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./upcoming.html"> 
+    <a class="nav-link" href="../upcoming.html"> 
 <span class="menu-text">Upcoming</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./episodes/index.html"> 
+    <a class="nav-link" href="../episodes/index.html"> 
 <span class="menu-text">Episodes</span></a>
   </li>  
 </ul>
@@ -186,337 +126,191 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#video" id="toc-video" class="nav-link active" data-scroll-target="#video">Video</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#key-concepts" id="toc-key-concepts" class="nav-link" data-scroll-target="#key-concepts">Key Concepts</a></li>
+  <li><a href="#resources-references" id="toc-resources-references" class="nav-link" data-scroll-target="#resources-references">Resources &amp; References</a></li>
+  <li><a href="#transcript-highlights" id="toc-transcript-highlights" class="nav-link" data-scroll-target="#transcript-highlights">Transcript Highlights</a></li>
+  <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion">Discussion</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Episode 18: How Good Were the 2016 Golden State Warriors Really?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Basketball</div>
+    <div class="quarto-category">NBA</div>
+    <div class="quarto-category">Elo Ratings</div>
+    <div class="quarto-category">Historical Analysis</div>
+    <div class="quarto-category">Tanking</div>
+  </div>
+  </div>
 
-
-
-<style>
-  .cou-hero {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
-    border-radius: 12px;
-    padding: 3rem 2rem;
-    text-align: center;
-    margin-bottom: 2.5rem;
-    color: white;
-  }
-  .cou-hero img {
-    width: 140px;
-    height: 140px;
-    border-radius: 50%;
-    margin-bottom: 1.5rem;
-    box-shadow: 0 0 0 6px #f0c040, 0 0 0 10px #1a1a1a;
-  }
-  .cou-hero h1 {
-    font-size: 2.2rem;
-    font-weight: 700;
-    margin-bottom: 0.5rem;
-    color: #f0c040;
-    border: none;
-  }
-  .cou-hero .subtitle {
-    font-size: 1.1rem;
-    color: #cccccc;
-    margin-bottom: 1.5rem;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .cou-hero .hosts {
-    font-size: 0.95rem;
-    color: #aaaaaa;
-  }
-  .cou-btn {
-    display: inline-block;
-    margin: 0.3rem;
-    padding: 0.55rem 1.3rem;
-    border-radius: 6px;
-    font-size: 0.9rem;
-    font-weight: 600;
-    text-decoration: none !important;
-    transition: opacity 0.2s;
-  }
-  .cou-btn:hover { opacity: 0.85; }
-  .cou-btn-primary {
-    background: #f0c040;
-    color: #1a1a1a !important;
-  }
-  .cou-btn-secondary {
-    background: transparent;
-    color: #f0c040 !important;
-    border: 2px solid #f0c040;
-  }
-  .cou-section-title {
-    font-size: 1.4rem;
-    font-weight: 700;
-    margin-bottom: 1.2rem;
-    padding-bottom: 0.4rem;
-    border-bottom: 3px solid #f0c040;
-    display: inline-block;
-  }
-  /* Latest episodes listing — Quarto emits #listing-{id} */
-  #listing-latest-episodes .listing-pagination,
-  #listing-latest-episodes .page-link {
-    display: none !important;
-  }
-  #listing-latest-episodes .quarto-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-  }
-  #listing-latest-episodes .quarto-grid-item {
-    border: 1px solid #e0e0e0;
-    border-radius: 10px;
-    padding: 1.2rem 1.4rem;
-    margin-bottom: 0 !important;
-    transition: box-shadow 0.2s, border-color 0.2s;
-    background: white;
-  }
-  #listing-latest-episodes .quarto-grid-item:hover {
-    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
-    border-color: #f0c040;
-  }
-  #listing-latest-episodes .quarto-grid-item h5 a,
-  #listing-latest-episodes .quarto-grid-item .listing-title a {
-    font-size: 1rem;
-    font-weight: 700;
-    color: #1a1a1a !important;
-    text-decoration: none !important;
-  }
-  #listing-latest-episodes .quarto-grid-item h5 a:hover {
-    text-decoration: underline !important;
-  }
-  #listing-latest-episodes .listing-date {
-    font-size: 0.82rem;
-    color: #888;
-    margin-bottom: 0.5rem;
-  }
-  #listing-latest-episodes .listing-description {
-    font-size: 0.9rem;
-    color: #444;
-    margin-bottom: 0.7rem;
-    line-height: 1.5;
-  }
-  #listing-latest-episodes .listing-categories .listing-category {
-    display: inline-block;
-    background: #f5f5f5;
-    color: #555;
-    font-size: 0.75rem;
-    padding: 0.15rem 0.55rem;
-    border-radius: 20px;
-    margin-right: 0.3rem;
-    margin-bottom: 0.3rem;
-  }
-  .episode-link {
-    font-size: 0.85rem;
-    font-weight: 600;
-    color: #2a7ae2;
-    text-decoration: none;
-  }
-  .episode-link:hover { text-decoration: underline; }
-  .nav-cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
-    margin-top: 1.5rem;
-  }
-  .nav-card {
-    border: 1px solid #e0e0e0;
-    border-radius: 10px;
-    padding: 1.2rem;
-    text-align: center;
-    text-decoration: none !important;
-    color: #1a1a1a !important;
-    transition: box-shadow 0.2s, border-color 0.2s;
-    background: white;
-  }
-  .nav-card:hover {
-    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
-    border-color: #f0c040;
-  }
-  .nav-card .nav-icon { font-size: 1.8rem; margin-bottom: 0.5rem; }
-  .nav-card .nav-label { font-weight: 600; font-size: 0.95rem; }
-  .nav-card .nav-desc { font-size: 0.82rem; color: #888; margin-top: 0.2rem; }
-</style>
-<!-- Hero -->
-<div class="cou-hero">
-  <img src="logo.png" alt="Corridor of Uncertainty logo">
-  <h1>The Corridor of Uncertainty</h1>
-  <p class="subtitle">A podcast at the intersection of maths &amp; sport — exploring what the numbers really tell us.</p>
-  <p class="hosts">Hosted by <strong>Dr Jess Hargreaves</strong> &amp; <strong>Dr Rich Bingham</strong> &nbsp;·&nbsp; Department of Mathematics, University of York</p>
-  <br>
-  <a class="cou-btn cou-btn-primary" href="episodes/index.html">📺 Browse Episodes</a>
-  <a class="cou-btn cou-btn-secondary" href="https://www.youtube.com/@CorridorOfUncertainty" target="_blank">▶ YouTube Channel</a>
-</div>
-<div class="cou-section-title">
-<p>Latest Episodes</p>
-</div>
-<div id="listing-latest-episodes" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-1">
-<div class="g-col-1" data-index="0" data-categories="Rm9vdGJhbGwlMkNXU0wlMkNEaXhvbi1Db2xlcyUyME1vZGVsJTJDUHJlZGljdGl2ZSUyME1vZGVsbGluZyUyQ1dvbWVuJ3MlMjBGb290YmFsbA==" data-listing-date-sort="1781568000000" data-listing-file-modified-sort="1782251734998" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="608">
-<a href="./episodes/episode-023.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Episode 23: WSL Season Review – Did Man City Deserve the Title?
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Rm9vdGJhbGw='); return false;">Football</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('V1NM'); return false;">WSL</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGl4b24tQ29sZXMlMjBNb2RlbA=='); return false;">Dixon-Coles Model</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJlZGljdGl2ZSUyME1vZGVsbGluZw=='); return false;">Predictive Modelling</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('V29tZW4ncyUyMEZvb3RiYWxs'); return false;">Women's Football</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Using the Dixon-Coles model to analyse the WSL season and evaluate Manchester City’s title-winning campaign.</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-16 Jun 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Rm9vdGJhbGwlMkNXb3JsZCUyMEN1cCUyQ0VsbyUyMFJhdGluZ3MlMkNUb3VybmFtZW50JTIwUHJlZGljdGlvbiUyQ1Byb2JhYmlsaXR5" data-listing-date-sort="1780963200000" data-listing-file-modified-sort="1782251734998" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="679">
-<a href="./episodes/episode-022.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Episode 22: Is there a group of death at the World Cup? | Who will England Play?
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Rm9vdGJhbGw='); return false;">Football</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('V29ybGQlMjBDdXA='); return false;">World Cup</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RWxvJTIwUmF0aW5ncw=='); return false;">Elo Ratings</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VG91cm5hbWVudCUyMFByZWRpY3Rpb24='); return false;">Tournament Prediction</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJvYmFiaWxpdHk='); return false;">Probability</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Analysing England’s World Cup round of 32 opponents and redefining what constitutes a ‘group of death’ using Elo ratings and simulation variance.</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-09 Jun 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Rm9vdGJhbGwlMkNQcm9iYWJpbGl0eSUyQ0VMTyUyMFJhdGluZ3MlMkNXb3JsZCUyMEN1cCUyQ1ByZWRpY3Rpb24=" data-listing-date-sort="1780876800000" data-listing-file-modified-sort="1782251734998" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="670">
-<a href="./episodes/episode-021.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Episode 21: Who Will Win the World Cup? Can Maths Decide?
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Rm9vdGJhbGw='); return false;">Football</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJvYmFiaWxpdHk='); return false;">Probability</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RUxPJTIwUmF0aW5ncw=='); return false;">ELO Ratings</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('V29ybGQlMjBDdXA='); return false;">World Cup</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJlZGljdGlvbg=='); return false;">Prediction</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Rich and guest James Reed compete to predict the 2026 FIFA World Cup winner using mathematical models and ELO ratings.</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-08 Jun 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="Rm9vdGJhbGwlMkNQcmVkaWN0aW9ucyUyQ0RpeG9uLUNvbGVzJTIwTW9kZWwlMkNQcmVtaWVyJTIwTGVhZ3VlJTJDTW9kZWwlMjBWYWxpZGF0aW9u" data-listing-date-sort="1780358400000" data-listing-file-modified-sort="1782251734998" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="661">
-<a href="./episodes/episode-020.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Episode 20: Premier League Season Review | How did our predictions turn out?
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Rm9vdGJhbGw='); return false;">Football</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJlZGljdGlvbnM='); return false;">Predictions</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGl4b24tQ29sZXMlMjBNb2RlbA=='); return false;">Dixon-Coles Model</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJlbWllciUyMExlYWd1ZQ=='); return false;">Premier League</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TW9kZWwlMjBWYWxpZGF0aW9u'); return false;">Model Validation</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Rich and Jess revisit their Dixon-Coles model predictions to see how well maths predicted the Premier League season.</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-02 Jun 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<br>
-<a class="episode-link" href="episodes/index.html">View all episodes →</a>
-
-<!-- Navigation -->
-<br><br>
-<p class="cou-section-title">Explore</p>
-
-<div class="nav-cards">
-  <a class="nav-card" href="episodes/index.html">
-    <div class="nav-icon">📋</div>
-    <div class="nav-label">All Episodes</div>
-    <div class="nav-desc">Full episode archive</div>
-  </a>
-  <a class="nav-card" href="about.html">
-    <div class="nav-icon">ℹ️</div>
-    <div class="nav-label">About</div>
-    <div class="nav-desc">About the channel and team</div>
-  </a>
-  <a class="nav-card" href="upcoming.html">
-    <div class="nav-icon">🔮</div>
-    <div class="nav-label">Upcoming</div>
-    <div class="nav-desc">What's coming next</div>
-  </a>
-  <a class="nav-card" href="https://www.youtube.com/@CorridorOfUncertainty" target="_blank">
-    <div class="nav-icon">▶️</div>
-    <div class="nav-label">YouTube</div>
-    <div class="nav-desc">Watch on YouTube</div>
-  </a>
+<div>
+  <div class="description">
+    Examining the historic 73-win Golden State Warriors season using Elo ratings and comparing it to the 2025-26 Oklahoma City Thunder.
+  </div>
 </div>
 
 
+<div class="quarto-title-meta">
 
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="grid">
+<div class="g-col-6">
+<p><strong>Published</strong>: 2026-05-19<br>
+<strong>Duration</strong>: 27:11<br>
+<strong>YouTube</strong>: <a href="https://www.youtube.com/watch?v=uYNJMV-kCWI">Watch here</a></p>
+</div>
+<div class="g-col-6">
+<p><strong>Topics Covered</strong>: NBA, Elo Ratings, Golden State Warriors, Tanking, Schedule Analysis</p>
+</div>
+</div>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/uYNJMV-kCWI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</section>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>On the 10th anniversary of the Golden State Warriors’ record-breaking 73-win season, Rich and Jess investigate just how impressive that achievement really was. Using Elo ratings and divisional analysis, they examine whether the Warriors benefited from an easier schedule compared to the 2015-16 San Antonio Spurs and draw parallels to the current OKC Thunder season. The episode explores how tanking, conference structure, and schedule imbalance can affect win totals and team ratings.</p>
+<hr>
+<p><strong>Timestamps:</strong></p>
+<ul>
+<li>[00:00] Introduction to the 2016 Golden State Warriors record</li>
+<li>[00:17] Podcast introduction and episode topic</li>
+<li>[01:07] Recap of previous Elo ratings analysis</li>
+<li>[03:09] Division structure and tanking explanation</li>
+</ul>
+<p><strong>References:</strong></p>
+<ul>
+<li>Previous episode on NBA Elo ratings (Episode 17)</li>
+</ul>
+</section>
+<section id="key-concepts" class="level2">
+<h2 class="anchored" data-anchor-id="key-concepts">Key Concepts</h2>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Tanking in Professional Sports
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Tanking refers to teams deliberately losing games to secure better draft picks. The Philadelphia 76ers famously embraced this strategy from 2013-2016 with “Trust the Process,” going 47-199 over three seasons. This year saw 10 teams (a third of the league) allegedly tanking, affecting the competitive balance of the schedule.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Divisional Schedule Imbalance
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>NBA teams play opponents within their division more frequently than other teams. This means a team in a weak division (like the 2016 Warriors with the 17-win Lakers) faces easier competition than one in a strong division (like the 2016 Spurs, who had four playoff teams in their division). This structural factor can significantly inflate or deflate win totals.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Elo Rating Adjustments
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>In Elo systems, beating a highly-rated team provides more rating points than beating a weak team. When a dominant team like the Warriors loses, their rating drops more significantly because they were expected to win. This makes their nine losses particularly visible as dips in their rating trajectory.</p>
+</div>
+</div>
+</section>
+<section id="resources-references" class="level2">
+<h2 class="anchored" data-anchor-id="resources-references">Resources &amp; References</h2>
+<ul>
+<li>Episode 17: NBA Elo Ratings and Playoff Predictions</li>
+<li>Philadelphia 76ers “Trust the Process” era (2013-2016)</li>
+</ul>
+</section>
+<section id="transcript-highlights" class="level2">
+<h2 class="anchored" data-anchor-id="transcript-highlights">Transcript Highlights</h2>
+<blockquote class="blockquote">
+<p>“If you hadn’t have had the Golden State Warriors having their 73, then everyone would have been talking about the San Antonio Spurs that year. So, they did super well.”</p>
+</blockquote>
+<p>Rich highlights how the Spurs’ remarkable 67-win season was completely overshadowed by the Warriors’ historic achievement, despite facing a much tougher divisional schedule.</p>
+<hr>
+<blockquote class="blockquote">
+<p>“That is an unbelievable achievement… those four teams are playing each other a large percentage of their games across the whole year.”</p>
+</blockquote>
+<p>Jess emphasises how the San Antonio Spurs’ 67 wins against four playoff-calibre divisional opponents represents a potentially more impressive feat than the Warriors’ record when accounting for strength of schedule.</p>
+<hr>
+<blockquote class="blockquote">
+<p>“Between 2013 and 2016, they went 47 and 199. So, 47 wins in the 3 years… They were quite vocal, there were hashtags about it.”</p>
+</blockquote>
+<p>Rich explains the notorious Philadelphia 76ers tanking strategy, noting it was openly acknowledged rather than alleged, setting a precedent for strategic losing in the NBA.</p>
+</section>
+<section id="discussion" class="level2">
+<h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
+<p>This episode demonstrates the importance of contextualising raw statistics within their competitive environment. While 73 wins is an extraordinary achievement, the analysis reveals that divisional structure creates unequal paths to high win totals. The San Antonio Spurs’ 67 wins came against significantly tougher competition, raising questions about how we evaluate historical greatness in sports.</p>
+<p>The comparison between 2016 and the current season also highlights how tanking has evolved from a single team’s bold strategy to a league-wide phenomenon affecting competitive integrity. As analytics become more sophisticated, teams increasingly recognise the mathematical value of losing strategically, creating new challenges for rating systems that assume all teams are trying to win.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Related Episodes
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Episode 17: NBA Elo Ratings and Playoff Predictions</li>
+</ul>
+</div>
+</div>
+<hr>
+<div class="grid">
+<div class="g-col-6">
+<p><a href="../episodes/episode-017.html">⬅️ Episode 17</a></p>
+</div>
+<div class="g-col-6 text-end">
+<p><a href="../episodes/episode-019.html">➡️ Episode 19</a></p>
+</div>
+</div>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -949,5 +743,5 @@ Episode 20: Premier League Season Review | How did our predictions turn out?
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
