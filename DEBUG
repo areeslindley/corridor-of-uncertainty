@@ -1,0 +1,59 @@
+pandoc 
+
+  to: html
+  output-file: index.html
+  standalone: true
+  title-prefix: Corridor of Uncertainty
+  section-divs: true
+  html-math-method: mathjax
+  wrap: none
+  default-image-extension: png
+  css:
+    - styles.css
+  toc: false
+  variables: {}
+  
+
+metadata
+
+  pagetitle: Corridor of Uncertainty
+  document-css: false
+  link-citations: true
+  lang: en
+  editor: visual
+  engines:
+    - path: /Applications/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+  theme:
+    - custom.scss
+    - minty
+  backgroundcolor: '#f0f0f0'
+  date-format: MMM YYYY
+  smooth-scroll: true
+  title: ''
+  page-layout: full
+  listing:
+    id: latest-episodes
+    contents:
+      - episodes/episode-*.qmd
+      - '!episodes/episode-bonus*'
+    sort: date desc
+    type: grid
+    grid-columns: 1
+    max-items: 4
+    feed: false
+    sort-ui: false
+    filter-ui: false
+    categories: false
+    fields:
+      - title
+      - date
+      - description
+      - categories
+    field-display-names:
+      categories: Topics
+    date-format: DD MMM YYYY
+  
+
+Output created: _site/index.html
+
+
