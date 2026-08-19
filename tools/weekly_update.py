@@ -370,6 +370,7 @@ def main() -> int:
     parser.add_argument("--no-render", action="store_true", help="Skip the Quarto render gate.")
     parser.add_argument("--render-full", action="store_true", help="Render the whole site.")
     parser.add_argument("--no-email", action="store_true")
+    parser.add_argument("--no-whatsapp", action="store_true")
     parser.add_argument("--allow-dirty", action="store_true",
                         help="Proceed even if the working tree is dirty (not advised).")
     parser.add_argument("-v", "--verbose", action="store_true")
@@ -406,8 +407,12 @@ def main() -> int:
                 )
             except OSError:
                 pass
-        if not args.no_email:
-            notify.send_report(report)
+        if not (args.no_email and args.no_whatsapp):
+            notify.send_report(
+                report,
+                email=not args.no_email,
+                whatsapp=not args.no_whatsapp,
+            )
         log.info("Finished with status=%s exit=%s", report["status"], code)
         return code
 

@@ -8,7 +8,7 @@ tools/
   cou_youtube.py        discovery (RSS + Data API), title parsing, repo state
   episode_generator.py  transcript -> Anthropic API -> validated .qmd
   weekly_update.py      the orchestrator that cron actually runs
-  notify.py             Gmail SMTP run report
+  notify.py             email + WhatsApp run reports
   audit_youtube_episodes.py   ad-hoc channel/site reconciliation (unchanged behaviour)
   simulate_plan.py      offline planner dry-run from a CSV (no network, no cost)
   test_cou_youtube.py   pytest suite over the real title corpus
@@ -112,11 +112,20 @@ Three secrets go in there:
 | `YOUTUBE_API_KEY` | Google Cloud console → enable *YouTube Data API v3* → Credentials → API key (restrict it to that one API) |
 | `COU_SMTP_PASSWORD` | Google account → Security → **App passwords**. Requires 2-Step Verification; the normal account password will be rejected |
 
-Check mail works before scheduling anything:
+Optional WhatsApp ping when episodes are pushed (CallMeBot — same as morning-briefing):
+
+| Variable | Where from |
+|---|---|
+| `COU_WHATSAPP_PHONE` | Your number in E.164 form, e.g. `+447700900123` |
+| `COU_WHATSAPP_APIKEY` | [callmebot.com](https://www.callmebot.com/) registration |
+
+Check notifications work before scheduling anything:
 
 ```bash
 set -a; source ~/.config/corridor-of-uncertainty/cou.env; set +a
-.venv/bin/python tools/notify.py
+.venv/bin/python tools/notify.py --check
+.venv/bin/python tools/notify.py --whatsapp-only   # WhatsApp test only
+.venv/bin/python tools/notify.py                   # test all configured channels
 ```
 
 ### 4. First run — the backlog
