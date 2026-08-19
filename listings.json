@@ -1,33 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/episodes/episode-023.html",
-      "/episodes/episode-022.html",
-      "/episodes/episode-021.html",
-      "/episodes/episode-020.html",
-      "/episodes/episode-019.html",
-      "/episodes/episode-018.html",
-      "/episodes/episode-017.html",
-      "/episodes/episode-016.html",
-      "/episodes/episode-015.html",
-      "/episodes/episode-014.html",
-      "/episodes/episode-013.html",
-      "/episodes/episode-012.html",
-      "/episodes/episode-011.html",
-      "/episodes/episode-010.html",
-      "/episodes/episode-009.html",
-      "/episodes/episode-008.html",
-      "/episodes/episode-007.html",
-      "/episodes/episode-006.html",
-      "/episodes/episode-005.html",
-      "/episodes/episode-004.html",
-      "/episodes/episode-003.html",
-      "/episodes/episode-002.html",
-      "/episodes/episode-001.html"
-    ]
-  },
-  {
     "listing": "/episodes/index.html",
     "items": [
       "/episodes/episode-023.html",
@@ -53,6 +25,34 @@
       "/episodes/episode-003.html",
       "/episodes/episode-002.html",
       "/episodes/episode-bonus-001.html",
+      "/episodes/episode-001.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/episodes/episode-023.html",
+      "/episodes/episode-022.html",
+      "/episodes/episode-021.html",
+      "/episodes/episode-020.html",
+      "/episodes/episode-019.html",
+      "/episodes/episode-018.html",
+      "/episodes/episode-017.html",
+      "/episodes/episode-016.html",
+      "/episodes/episode-015.html",
+      "/episodes/episode-014.html",
+      "/episodes/episode-013.html",
+      "/episodes/episode-012.html",
+      "/episodes/episode-011.html",
+      "/episodes/episode-010.html",
+      "/episodes/episode-009.html",
+      "/episodes/episode-008.html",
+      "/episodes/episode-007.html",
+      "/episodes/episode-006.html",
+      "/episodes/episode-005.html",
+      "/episodes/episode-004.html",
+      "/episodes/episode-003.html",
+      "/episodes/episode-002.html",
       "/episodes/episode-001.html"
     ]
   }
