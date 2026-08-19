@@ -1,0 +1,31 @@
+[Unit]
+Description=Run the Corridor of Uncertainty weekly update every Tuesday
+Documentation=https://github.com/areeslindley/corridor-of-uncertainty
+
+[Timer]
+# Tuesdays at 21:00 UK time.
+#
+# Two deliberate choices here:
+#
+#  * Europe/London, not UTC. The unit honours DST, so the job stays at 21:00
+#    local through the BST/GMT changeover rather than drifting by an hour.
+#
+#  * Evening, not morning. Episodes go live on Tuesdays, and YouTube's automatic
+#    captions typically lag publication by 30-90 minutes. A morning run would
+#    consistently miss the same day's episode and only pick it up a week later.
+OnCalendar=Tue *-*-* 21:00 Europe/London
+
+# Spread the load off the exact minute — and, more usefully, avoid hammering
+# YouTube from a predictable timestamp every week.
+RandomizedDelaySec=15min
+
+# If the desktop was asleep or off on Tuesday, run as soon as it comes back
+# rather than skipping the week entirely. This is the main reason to prefer a
+# systemd timer over a crontab entry.
+Persistent=true
+
+# Wait for the network to actually be usable, not merely configured.
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target

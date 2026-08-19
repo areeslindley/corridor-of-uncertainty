@@ -1,0 +1,27 @@
+# Corridor of Uncertainty — weekly update (crontab alternative to the systemd timer)
+#
+# Install with:  crontab -e
+#
+# Prefer the systemd timer in tools/systemd/ if the box runs systemd. cron has
+# no equivalent of Persistent=true, so if the desktop is off or asleep at 21:00
+# on Tuesday the run is simply lost until the following week.
+
+# cron does not source any shell profile. These three lines are load-bearing.
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/bin
+CRON_TZ=Europe/London
+
+# Belt and braces: cron's own MAILTO catches anything that escapes the script's
+# error handling (e.g. the wrapper failing before it can send mail itself).
+MAILTO=arees05@gmail.com
+
+# min hour dom mon dow
+# Tuesdays at 21:00 Europe/London. Evening rather than morning because episodes
+# publish on Tuesdays and YouTube's auto-captions lag publication by up to ~90
+# minutes; a morning run would miss the same day's episode every time.
+0 21 * * 2 /home/YOURUSER/Documents/Git_repositories/corridor-of-uncertainty/tools/run_weekly.sh >> /home/YOURUSER/.local/state/cou-weekly.cron.log 2>&1
+
+# Optional: a Friday retry that only does something if Tuesday's run failed or
+# the captions were not ready. The job is idempotent — it joins on the
+# front-matter youtube_id, so a no-op run costs one RSS fetch and one API call.
+# 0 21 * * 5 /home/YOURUSER/Documents/Git_repositories/corridor-of-uncertainty/tools/run_weekly.sh >> /home/YOURUSER/.local/state/cou-weekly.cron.log 2>&1

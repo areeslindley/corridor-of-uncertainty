@@ -1,0 +1,34 @@
+[Unit]
+Description=Corridor of Uncertainty — weekly episode page update
+Documentation=https://github.com/areeslindley/corridor-of-uncertainty
+# Discovery, the Anthropic API and the git push all need the network. Without
+# this the job can fire during boot before DNS is up and fail spuriously.
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+
+# %h is the user's home directory; adjust the repo path if you clone elsewhere.
+WorkingDirectory=%h/Documents/Git_repositories/corridor-of-uncertainty
+ExecStart=%h/Documents/Git_repositories/corridor-of-uncertainty/tools/run_weekly.sh
+
+# The job is IO- and network-bound, and competes with nothing. Being nice keeps
+# it out of the way if the desktop is in interactive use when the timer fires.
+Nice=10
+IOSchedulingClass=idle
+
+# Generation plus a full Quarto render should take well under ten minutes; this
+# is a backstop against a hung yt-dlp or SMTP connection holding the lock.
+TimeoutStartSec=45min
+
+# The script reports its own failures by email, so systemd restarts would only
+# duplicate work and burn API credit.
+Restart=no
+
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=cou-weekly
+
+[Install]
+WantedBy=default.target

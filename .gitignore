@@ -1,16 +1,28 @@
 /.quarto/
 **/*.quarto_ipynb
 
-# YouTube cookie exports for yt-dlp (optional local paths preferred)
+# Secrets — never commit. The real config lives at
+# ~/.config/corridor-of-uncertainty/cou.env (mode 600); only the .example
+# template belongs in the repository.
+cou.env
+*.env
+!tools/cou.env.example
+
+# YouTube cookie exports for yt-dlp
 youtube_cookies.txt
 yt_cookies.txt
+*cookies*.txt
 
-# Local tooling (audits / episode generation) — not part of the published site
-audit_youtube_episodes.py
+# Run logs from the weekly automation
+/.logs/
+
+# Superseded by tools/ — kept locally until you are happy to delete them.
+/generate_episode.py
+/generate_episode_2.py
+
+# Audit artefacts (regenerated on demand)
 youtube_episode_audit.csv
 youtube_episode_audit_commands.sh
-generate_episode.py
-generate_episode_2.py
 
 # Build output (GitHub Actions renders to gh-pages)
 /_site/
@@ -18,6 +30,12 @@ generate_episode_2.py
 
 # Stray single-page HTML renders (source is .qmd)
 /episodes/*.html
+
+# Python
+__pycache__/
+*.py[cod]
+/.venv/
+/.pytest_cache/
 
 .DS_Store
 **/.DS_Store

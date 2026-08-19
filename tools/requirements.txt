@@ -1,0 +1,14 @@
+# Corridor of Uncertainty — weekly update tooling.
+#
+#   python3 -m venv .venv
+#   .venv/bin/pip install -r tools/requirements.txt
+#
+# Upper bounds are deliberately absent on yt-dlp: it needs to track YouTube's
+# frequent extractor changes, so pin nothing and upgrade it often.
+
+anthropic>=0.40
+yt-dlp>=2025.1.1
+youtube-transcript-api>=1.0
+
+# Test-only
+pytest>=8.0

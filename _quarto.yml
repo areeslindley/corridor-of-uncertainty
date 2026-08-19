@@ -1,5 +1,13 @@
 project:
   type: website
+  # Quarto renders every .qmd/.md it finds by default, which would sweep the
+  # automation's own documentation into the published site. Restrict rendering
+  # to the site sources and exclude the tooling directory explicitly.
+  render:
+    - "*.qmd"
+    - "episodes/*.qmd"
+    - "!tools/"
+    - "!README.md"
 
 website:
   title: "Corridor of Uncertainty"
