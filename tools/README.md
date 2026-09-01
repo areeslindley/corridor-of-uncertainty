@@ -1,7 +1,10 @@
 # Weekly automation
 
 Generates a Quarto page for each new episode of *The Corridor of Uncertainty*
-and pushes it to `main`, every Tuesday, from a remote desktop.
+and pushes it to `main`, every Tuesday, from a remote server.
+
+For the live site URL, page structure, and end-to-end deployment workflow, see
+the [repository README](../README.md).
 
 ```
 tools/
@@ -35,7 +38,7 @@ tools/
    and the run aborts before committing.
 5. **Publish.** Commit and push to `main`; the existing `publish.yml` workflow
    renders to `gh-pages`.
-6. **Report.** One email either way.
+6. **Report.** Email and/or WhatsApp summary (see [`notify.py`](notify.py)).
 
 ### Validation
 
